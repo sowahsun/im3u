@@ -11,10 +11,14 @@ import time
 import random 
 from concurrent.futures import ThreadPoolExecutor
 
+# 忽略 SSL 警告
 warnings.simplefilter('ignore', urllib3.exceptions.InsecureRequestWarning)
 
+# ================= 配置区域 =================
 BATCH_SIZE = 100
 TIMEOUT = 8
+MAX_WORKERS = 8  # [修改] 根据您的要求设置为 8 线程
+# ==========================================
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 SOURCE_FILE = os.path.join(BASE_DIR, 'source.m3u')
@@ -59,13 +63,16 @@ load_config()
 class IPTVChecker:
     
     def download_and_merge(self):
+        """
+        第一阶段：下载并立即生成 source.m3u
+        """
         sources = config.get("sources", {})
         if not sources:
             logger.warning("No sources found in config.")
             return False
         logger.info(f"Starting download of {len(sources)} sources...")
 
-        # 这里写入 source.m3u，顺序严格遵循 config['sources'] 的顺序
+        # [关键] 立即写入 source.m3u，无需等待后续检测
         with open(SOURCE_FILE, 'w', encoding='utf-8') as f_out:
             f_out.write("#EXTM3U\n")
             session = requests.Session()
@@ -96,8 +103,13 @@ class IPTVChecker:
                                     f_out.write(f'{p[1].strip()}\n')
                             elif not line.startswith("#"):
                                 f_out.write(f'{line}\n')
+                        
+                        # 强制刷新缓冲区，确保文件写入磁盘
+                        f_out.flush() 
                 except Exception as e:
                     logger.error(f"Failed to download source [{category}]: {e}")
+        
+        logger.info(f"✅ Source file generated successfully: {SOURCE_FILE}")
         return True
 
     def check_url(self, session, item):
@@ -131,7 +143,7 @@ class IPTVChecker:
         playlist = []
         curr_g, curr_n = "Unknown", "Unknown"
         
-        # [修改点 1] 引入顺序计数器，用于后续还原排序
+        # 顺序计数器
         order_index = 0
         
         for line in lines:
@@ -144,7 +156,6 @@ class IPTVChecker:
                 if n:
                     curr_n = n.group(1).strip()
             elif line and not line.startswith("#"):
-                # [修改点 1] 增加 _uid 字段，记录原始行号（挂号）
                 playlist.append({
                     "_uid": order_index, 
                     "name": curr_n, 
@@ -157,10 +168,11 @@ class IPTVChecker:
     def run_task(self, trigger="manual"):
         load_config()
             
+        # 1. 下载并生成 source.m3u
         if not self.download_and_merge():
             return
 
-        logger.info("Parsing source file...")
+        logger.info("Parsing source file for checking...")
         
         try:
             playlist = self._parse_source_file_blocking()
@@ -168,17 +180,17 @@ class IPTVChecker:
             logger.error(f"Failed to parse file: {e}")
             return
 
-        # [保持乱序执行] 为了效率和防止被封，执行时依然打乱
+        # 2. 乱序检测（防封）
         random.shuffle(playlist)
 
         total_items = len(playlist)
-        logger.info(f"Total channels: {total_items}. Starting check (Shuffle + 5 Threads)...")
+        logger.info(f"Total channels: {total_items}. Starting check (Shuffle + {MAX_WORKERS} Threads)...")
         
         valid_items = []
         session = requests.Session()
         
-        # [修改点 2] 锁定 max_workers=5
-        with ThreadPoolExecutor(max_workers=5) as executor:
+        # [修改] 使用 MAX_WORKERS (8)
+        with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
             for i in range(0, total_items, BATCH_SIZE):
                 batch = playlist[i : i + BATCH_SIZE]
                 
@@ -196,11 +208,11 @@ class IPTVChecker:
                 del results
                 gc.collect()
 
+        # 3. 生成 valid.m3u（按原始顺序还原）
+        logger.info("Generating valid playlist...")
         with open(VALID_FILE, 'w', encoding='utf-8') as f:
             f.write("#EXTM3U\n")
             
-            # [修改点 3] 关键逻辑：按照 _uid (原始挂号顺序) 还原排序
-            # 这样输出的文件顺序就和 source.m3u (以及 config 配置) 也是一致的，完美复刻 PHP 逻辑
             valid_items.sort(key=lambda x: x["_uid"])
             
             for item in valid_items:
