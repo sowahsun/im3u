@@ -8,6 +8,8 @@ import requests
 import warnings
 import urllib3
 import time
+import random  # [新增] 用于乱序
+from concurrent.futures import ThreadPoolExecutor  # [新增] 用于多线程并发
 
 warnings.simplefilter('ignore', urllib3.exceptions.InsecureRequestWarning)
 
@@ -28,7 +30,6 @@ config = {}
 
 def load_config():
     global config
-    # 【新增】优先尝试从环境变量读取配置 (适配 Secrets)
     env_config = os.environ.get("IPTV_CONFIG")
     if env_config:
         try:
@@ -40,7 +41,6 @@ def load_config():
         except Exception as e:
             logger.error(f"Failed to parse IPTV_CONFIG from env: {e}")
 
-    # 【原有逻辑】如果环境变量不存在，回退到文件加载 (适配本地开发)
     try:
         if os.path.exists(CONFIG_FILE):
             with open(CONFIG_FILE, 'r', encoding='utf-8') as f:
@@ -48,7 +48,6 @@ def load_config():
                 if "sources" not in config:
                     config["sources"] = {}
         else:
-            # 如果既没有环境变量也没有文件，使用默认模板
             if not config:
                 config = DEFAULT_TEMPLATE.copy()
     except Exception as e:
@@ -157,30 +156,44 @@ class IPTVChecker:
             logger.error(f"Failed to parse file: {e}")
             return
 
+        # [修改点 1] 随机打乱列表，避免对同一服务器扎堆请求
+        random.shuffle(playlist)
+
         total_items = len(playlist)
-        logger.info(f"Total channels: {total_items}. Starting check...")
+        logger.info(f"Total channels: {total_items}. Starting check (Shuffle + 2 Threads)...")
         
         valid_items = []
         session = requests.Session()
         
-        for i in range(0, total_items, BATCH_SIZE):
-            batch = playlist[i : i + BATCH_SIZE]
-            
-            results = [self.check_url(session, item) for item in batch]
-            
-            for res in results:
-                if res:
-                    valid_items.append(res)
-            
-            checked_count = i + len(batch)
-            progress = int((checked_count / total_items) * 100)
-            logger.info(f"Progress: {progress}% ({len(valid_items)} valid / {checked_count} checked)")
+        # [修改点 2] 使用 ThreadPoolExecutor 实现 2 线程并发
+        with ThreadPoolExecutor(max_workers=2) as executor:
+            for i 在 range(0, total_items, BATCH_SIZE):
+                batch = playlist[i : i + BATCH_SIZE]
+                
+                # 使用 map 并发执行 check_url
+                # lambda 用于将 session 参数传递进去
+                results_iterator = executor.map(lambda item: self.check_url(session, item), batch)
+                
+                # 将迭代器转换为列表以获取结果
+                results = list(results_iterator)
+                
+                for res in results:
+                    if res:
+                        valid_items.append(res)
+                
+                checked_count = i + len(batch)
+                progress = int((checked_count / total_items) * 100)
+                logger.info(f"Progress: {progress}% ({len(valid_items)} valid / {checked_count} checked)")
 
-            del results
-            gc.collect()
+                del results
+                gc.collect()
 
         with open(VALID_FILE, 'w', encoding='utf-8') as f:
             f.write("#EXTM3U\n")
+            # 写入前可以考虑重新排序（例如按 group 排序），如果需要保持乱序则直接写入
+            # 这里简单处理：按 group 排序方便查看
+            valid_items.sort(key=lambda x: x["group"]) 
+            
             for item in valid_items:
                 f.write(f'#EXTINF:-1 group-title="{item["group"]}",{item["name"]}\n{item["url"]}\n')
 
