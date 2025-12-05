@@ -8,8 +8,8 @@ import requests
 import warnings
 import urllib3
 import time
-import random  # [新增] 用于乱序
-from concurrent.futures import ThreadPoolExecutor  # [新增] 用于多线程并发
+import random 
+from concurrent.futures import ThreadPoolExecutor
 
 warnings.simplefilter('ignore', urllib3.exceptions.InsecureRequestWarning)
 
@@ -65,6 +65,7 @@ class IPTVChecker:
             return False
         logger.info(f"Starting download of {len(sources)} sources...")
 
+        # 这里写入 source.m3u，顺序严格遵循 config['sources'] 的顺序
         with open(SOURCE_FILE, 'w', encoding='utf-8') as f_out:
             f_out.write("#EXTM3U\n")
             session = requests.Session()
@@ -129,6 +130,10 @@ class IPTVChecker:
         
         playlist = []
         curr_g, curr_n = "Unknown", "Unknown"
+        
+        # [修改点 1] 引入顺序计数器，用于后续还原排序
+        order_index = 0
+        
         for line in lines:
             line = line.strip()
             if line.startswith("#EXTINF"):
@@ -139,7 +144,14 @@ class IPTVChecker:
                 if n:
                     curr_n = n.group(1).strip()
             elif line and not line.startswith("#"):
-                playlist.append({"name": curr_n, "url": line, "group": curr_g})
+                # [修改点 1] 增加 _uid 字段，记录原始行号（挂号）
+                playlist.append({
+                    "_uid": order_index, 
+                    "name": curr_n, 
+                    "url": line, 
+                    "group": curr_g
+                })
+                order_index += 1
         return playlist
 
     def run_task(self, trigger="manual"):
@@ -156,25 +168,21 @@ class IPTVChecker:
             logger.error(f"Failed to parse file: {e}")
             return
 
-        # [修改点 1] 随机打乱列表，避免对同一服务器扎堆请求
+        # [保持乱序执行] 为了效率和防止被封，执行时依然打乱
         random.shuffle(playlist)
 
         total_items = len(playlist)
-        logger.info(f"Total channels: {total_items}. Starting check (Shuffle + 2 Threads)...")
+        logger.info(f"Total channels: {total_items}. Starting check (Shuffle + 5 Threads)...")
         
         valid_items = []
         session = requests.Session()
         
-        # [修改点 2] 使用 ThreadPoolExecutor 实现 2 线程并发
-        with ThreadPoolExecutor(max_workers=2) as executor:
+        # [修改点 2] 锁定 max_workers=5
+        with ThreadPoolExecutor(max_workers=5) as executor:
             for i in range(0, total_items, BATCH_SIZE):
                 batch = playlist[i : i + BATCH_SIZE]
                 
-                # 使用 map 并发执行 check_url
-                # lambda 用于将 session 参数传递进去
                 results_iterator = executor.map(lambda item: self.check_url(session, item), batch)
-                
-                # 将迭代器转换为列表以获取结果
                 results = list(results_iterator)
                 
                 for res in results:
@@ -190,9 +198,10 @@ class IPTVChecker:
 
         with open(VALID_FILE, 'w', encoding='utf-8') as f:
             f.write("#EXTM3U\n")
-            # 写入前可以考虑重新排序（例如按 group 排序），如果需要保持乱序则直接写入
-            # 这里简单处理：按 group 排序方便查看
-            valid_items.sort(key=lambda x: x["group"]) 
+            
+            # [修改点 3] 关键逻辑：按照 _uid (原始挂号顺序) 还原排序
+            # 这样输出的文件顺序就和 source.m3u (以及 config 配置) 也是一致的，完美复刻 PHP 逻辑
+            valid_items.sort(key=lambda x: x["_uid"])
             
             for item in valid_items:
                 f.write(f'#EXTINF:-1 group-title="{item["group"]}",{item["name"]}\n{item["url"]}\n')
