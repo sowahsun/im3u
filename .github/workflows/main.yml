@@ -2,7 +2,7 @@ name: IPTV Checker
 
 on:
   schedule:
-    # 这里的 cron 设置为每 12 小时运行一次 (UTC时间)
+    # 这里的 cron 设置为每 4 小时运行一次 (UTC时间)
     # 可根据 config 中的 interval_hours 自行调整
     - cron: '0 */4 * * *'
   workflow_dispatch:
