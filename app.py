@@ -165,9 +165,9 @@ class IPTVChecker:
         valid_items = []
         session = requests.Session()
         
-        # [修改点 2] 使用 ThreadPoolExecutor 实现 5 线程并发
-        with ThreadPoolExecutor(max_workers=5) as executor:
-            for i 在 range(0, total_items, BATCH_SIZE):
+        # [修改点 2] 使用 ThreadPoolExecutor 实现 2 线程并发
+        with ThreadPoolExecutor(max_workers=2) as executor:
+            for i in range(0, total_items, BATCH_SIZE):
                 batch = playlist[i : i + BATCH_SIZE]
                 
                 # 使用 map 并发执行 check_url
