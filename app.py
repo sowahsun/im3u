@@ -8,8 +8,9 @@ import requests
 import warnings
 import urllib3
 import time
-import random 
+import random
 from concurrent.futures import ThreadPoolExecutor
+from requests.adapters import HTTPAdapter
 
 # 忽略 SSL 警告
 warnings.simplefilter('ignore', urllib3.exceptions.InsecureRequestWarning)
@@ -73,51 +74,60 @@ class IPTVChecker:
         logger.info(f"Starting download of {len(sources)} sources...")
 
         # [关键] 立即写入 source.m3u，无需等待后续检测
-        with open(SOURCE_FILE, 'w', encoding='utf-8') as f_out:
-            f_out.write("#EXTM3U\n")
-            session = requests.Session()
-            
-            for category, url in sources.items():
-                if not url.startswith("http"):
-                    continue
-                try:
-                    logger.info(f"Downloading: {category}")
-                    response = session.get(url, timeout=30, headers=HEADERS, verify=False)
-                    
-                    if response.status_code == 200:
-                        f_out.write(f"\n#------ {category} ------\n\n")
-                        text = response.text
-                        for line in text.splitlines():
-                            line = line.strip()
-                            if not line or line.startswith("#EXTM3U"):
-                                continue
-                            
-                            if line.startswith("#EXTINF"):
-                                match = re.search(r',(.*)$', line)
-                                name = match.group(1).strip() if match else "Unknown"
-                                f_out.write(f'#EXTINF:-1 group-title="{category}",{name}\n')
-                            elif "," in line and not line.startswith("#"):
-                                p = line.split(",", 1)
-                                if len(p) == 2 and p[1].strip().startswith("http"):
-                                    f_out.write(f'#EXTINF:-1 group-title="{category}",{p[0].strip()}\n')
-                                    f_out.write(f'{p[1].strip()}\n')
-                            elif not line.startswith("#"):
-                                f_out.write(f'{line}\n')
+        try:
+            with open(SOURCE_FILE, 'w', encoding='utf-8') as f_out:
+                f_out.write("#EXTM3U\n")
+                session = requests.Session()
+                
+                for category, url in sources.items():
+                    if not url.startswith("http"):
+                        continue
+                    try:
+                        logger.info(f"Downloading: {category}")
+                        response = session.get(url, timeout=30, headers=HEADERS, verify=False)
                         
-                        # 强制刷新缓冲区，确保文件写入磁盘
-                        f_out.flush() 
-                except Exception as e:
-                    logger.error(f"Failed to download source [{category}]: {e}")
-        
-        logger.info(f"✅ Source file generated successfully: {SOURCE_FILE}")
-        return True
+                        if response.status_code == 200:
+                            f_out.write(f"\n#------ {category} ------\n\n")
+                            # 尝试自动处理编码，防止乱码
+                            response.encoding = response.apparent_encoding if response.encoding == 'ISO-8859-1' else response.encoding
+                            text = response.text
+                            
+                            for line in text.splitlines():
+                                line = line.strip()
+                                if not line or line.startswith("#EXTM3U"):
+                                    continue
+                                
+                                if line.startswith("#EXTINF"):
+                                    match = re.search(r',(.*)$', line)
+                                    name = match.group(1).strip() if match else "Unknown"
+                                    f_out.write(f'#EXTINF:-1 group-title="{category}",{name}\n')
+                                elif "," in line and not line.startswith("#"):
+                                    p = line.split(",", 1)
+                                    if len(p) == 2 and p[1].strip().startswith("http"):
+                                        f_out.write(f'#EXTINF:-1 group-title="{category}",{p[0].strip()}\n')
+                                        f_out.write(f'{p[1].strip()}\n')
+                                elif not line.startswith("#"):
+                                    f_out.write(f'{line}\n')
+                            
+                            # 强制刷新缓冲区，确保文件写入磁盘
+                            f_out.flush() 
+                    except Exception as e:
+                        logger.error(f"Failed to download source [{category}]: {e}")
+            
+            logger.info(f"✅ Source file generated successfully: {SOURCE_FILE}")
+            return True
+        except Exception as e:
+            logger.error(f"Critical error writing source file: {e}")
+            return False
 
     def check_url(self, session, item):
         try:
+            # 使用 HEAD 请求快速检测
             r = session.head(item['url'], timeout=TIMEOUT, headers=HEADERS, verify=False, allow_redirects=True)
             if r.status_code >= 400 and r.status_code != 405:
                 return None
             
+            # 如果 HEAD 不支持或返回成功，尝试读取少量数据验证流
             r_get = session.get(item['url'], timeout=TIMEOUT, headers=HEADERS, verify=False, stream=True, allow_redirects=True)
             
             if r_get.status_code != 200:
@@ -130,6 +140,7 @@ class IPTVChecker:
             if not chunk or b'<!doctype html' in chunk.lower():
                 return None
 
+            # 更新可能重定向后的最终 URL
             item['url'] = r_get.url
             
             return item
@@ -137,6 +148,10 @@ class IPTVChecker:
             return None
 
     def _parse_source_file_blocking(self):
+        if not os.path.exists(SOURCE_FILE):
+             logger.error(f"Source file not found: {SOURCE_FILE}")
+             return []
+
         with open(SOURCE_FILE, 'r', encoding='utf-8', errors='ignore') as f:
             lines = f.readlines()
         
@@ -176,6 +191,9 @@ class IPTVChecker:
         
         try:
             playlist = self._parse_source_file_blocking()
+            if not playlist:
+                logger.warning("Playlist is empty.")
+                return
         except Exception as e:
             logger.error(f"Failed to parse file: {e}")
             return
@@ -187,7 +205,12 @@ class IPTVChecker:
         logger.info(f"Total channels: {total_items}. Starting check (Shuffle + {MAX_WORKERS} Threads)...")
         
         valid_items = []
+        
+        # 优化：配置 Session 连接池
         session = requests.Session()
+        adapter = HTTPAdapter(pool_connections=MAX_WORKERS, pool_maxsize=MAX_WORKERS)
+        session.mount('http://', adapter)
+        session.mount('https://', adapter)
         
         # [修改] 使用 MAX_WORKERS (8)
         with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
@@ -207,18 +230,24 @@ class IPTVChecker:
 
                 del results
                 gc.collect()
+        
+        # 关闭 session
+        session.close()
 
         # 3. 生成 valid.m3u（按原始顺序还原）
         logger.info("Generating valid playlist...")
-        with open(VALID_FILE, 'w', encoding='utf-8') as f:
-            f.write("#EXTM3U\n")
-            
-            valid_items.sort(key=lambda x: x["_uid"])
-            
-            for item in valid_items:
-                f.write(f'#EXTINF:-1 group-title="{item["group"]}",{item["name"]}\n{item["url"]}\n')
+        try:
+            with open(VALID_FILE, 'w', encoding='utf-8') as f:
+                f.write("#EXTM3U\n")
+                
+                valid_items.sort(key=lambda x: x["_uid"])
+                
+                for item in valid_items:
+                    f.write(f'#EXTINF:-1 group-title="{item["group"]}",{item["name"]}\n{item["url"]}\n')
 
-        logger.info(f"Task finished. Valid sources: {len(valid_items)}. Saved to {VALID_FILE}")
+            logger.info(f"Task finished. Valid sources: {len(valid_items)}. Saved to {VALID_FILE}")
+        except Exception as e:
+            logger.error(f"Failed to write valid playlist: {e}")
 
 checker = IPTVChecker()
 
