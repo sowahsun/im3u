@@ -1,0 +1,46 @@
+name: IPTV Checker
+
+on:
+  schedule:
+    # 这里的 cron 设置为每 12 小时运行一次 (UTC时间)
+    # 可根据 config 中的 interval_hours 自行调整
+    - cron: '0 */12 * * *'
+  workflow_dispatch:
+    # 允许手动在 GitHub Actions 界面触发
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests urllib3
+
+    - name: Run IPTV Checker
+      env:
+        # 将 GitHub Secrets 中的 IPTV_CONFIG 注入为环境变量
+        IPTV_CONFIG: ${{ secrets.IPTV_CONFIG }}
+      run: python app.py
+
+    - name: Commit and push results
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        # 仅提交生成的有效列表，避免提交中间文件
+        git add valid.m3u
+        # 如果没有变化，不报错直接退出
+        git commit -m "Update valid playlist" || exit 0
+        git push
