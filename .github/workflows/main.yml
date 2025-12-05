@@ -4,7 +4,7 @@ on:
   schedule:
     # 这里的 cron 设置为每 12 小时运行一次 (UTC时间)
     # 可根据 config 中的 interval_hours 自行调整
-    - cron: '0 */12 * * *'
+    - cron: '0 */4 * * *'
   workflow_dispatch:
     # 允许手动在 GitHub Actions 界面触发
 
