@@ -38,7 +38,8 @@ jobs:
       env:
         # 引用 Secrets
         IPTV_CONFIG: ${{ secrets.IPTV_CONFIG }}
-      run: python app.py
+      # [修正] 这里原本是 app.py，已修正为 main.py 以匹配您的脚本文件名
+      run: python main.py
 
     # 5. 提交结果
     - name: Commit and Push results
@@ -47,6 +48,7 @@ jobs:
         git config --local user.name "GitHub Action"
         
         # 同时提交 汇总文件(source.m3u) 和 结果文件(valid.m3u)
+        # 确保这些文件不在 .gitignore 中
         git add source.m3u valid.m3u
         
         # 提交并推送，无变化则安全退出
