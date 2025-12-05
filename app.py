@@ -3,13 +3,14 @@ import re
 import json
 import logging
 import gc
+import sys  # [新增] 用于接收命令行参数
 from datetime import datetime
 import requests
 import warnings
 import urllib3
 import time
-import random  # [新增] 用于乱序
-from concurrent.futures import ThreadPoolExecutor  # [新增] 用于多线程并发
+import random 
+from concurrent.futures import ThreadPoolExecutor 
 
 warnings.simplefilter('ignore', urllib3.exceptions.InsecureRequestWarning)
 
@@ -129,6 +130,7 @@ class IPTVChecker:
         
         playlist = []
         curr_g, curr_n = "Unknown", "Unknown"
+        count = 0  # [新增] 计数器，用于记录原始顺序
         for line in lines:
             line = line.strip()
             if line.startswith("#EXTINF"):
@@ -139,14 +141,23 @@ class IPTVChecker:
                 if n:
                     curr_n = n.group(1).strip()
             elif line and not line.startswith("#"):
-                playlist.append({"name": curr_n, "url": line, "group": curr_g})
+                # [修改] 增加 _index 字段
+                playlist.append({"name": curr_n, "url": line, "group": curr_g, "_index": count})
+                count += 1
         return playlist
 
-    def run_task(self, trigger="manual"):
+    # [修改] 增加 mode 参数控制运行步骤
+    def run_task(self, mode="all"):
         load_config()
-            
-        if not self.download_and_merge():
-            return
+        
+        # 步骤1: 下载
+        if mode in ["all", "download"]:
+            if not self.download_and_merge():
+                return
+            logger.info("Source file generated.")
+            # 如果只是下载模式，可以在这里结束
+            if mode == "download":
+                return
 
         logger.info("Parsing source file...")
         
@@ -156,7 +167,7 @@ class IPTVChecker:
             logger.error(f"Failed to parse file: {e}")
             return
 
-        # [修改点 1] 随机打乱列表，避免对同一服务器扎堆请求
+        # 随机打乱列表，避免对同一服务器扎堆请求
         random.shuffle(playlist)
 
         total_items = len(playlist)
@@ -165,16 +176,11 @@ class IPTVChecker:
         valid_items = []
         session = requests.Session()
         
-        # [修改点 2] 使用 ThreadPoolExecutor 实现 2 线程并发
         with ThreadPoolExecutor(max_workers=2) as executor:
             for i in range(0, total_items, BATCH_SIZE):
                 batch = playlist[i : i + BATCH_SIZE]
                 
-                # 使用 map 并发执行 check_url
-                # lambda 用于将 session 参数传递进去
                 results_iterator = executor.map(lambda item: self.check_url(session, item), batch)
-                
-                # 将迭代器转换为列表以获取结果
                 results = list(results_iterator)
                 
                 for res in results:
@@ -190,9 +196,8 @@ class IPTVChecker:
 
         with open(VALID_FILE, 'w', encoding='utf-8') as f:
             f.write("#EXTM3U\n")
-            # 写入前可以考虑重新排序（例如按 group 排序），如果需要保持乱序则直接写入
-            # 这里简单处理：按 group 排序方便查看
-            valid_items.sort(key=lambda x: x["group"]) 
+            # [修改] 按原始 index 排序，恢复源文件顺序
+            valid_items.sort(key=lambda x: x["_index"]) 
             
             for item in valid_items:
                 f.write(f'#EXTINF:-1 group-title="{item["group"]}",{item["name"]}\n{item["url"]}\n')
@@ -202,5 +207,12 @@ class IPTVChecker:
 checker = IPTVChecker()
 
 if __name__ == '__main__':
-    logger.info("Script launched via CLI. Starting task...")
-    checker.run_task(trigger="manual_cli")
+    # [新增] 简单的命令行参数解析
+    mode = "all"
+    if len(sys.argv) > 1:
+        arg = sys.argv[1].lower()
+        if arg in ["download", "check"]:
+            mode = arg
+            
+    logger.info(f"Script launched. Mode: {mode}")
+    checker.run_task(mode=mode)
