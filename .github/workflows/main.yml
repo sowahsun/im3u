@@ -1,14 +1,13 @@
-name: IPTV Update
+name: IPTV Checker
 
-# 触发条件：定时运行 (每4小时) + 手动按钮
 on:
   schedule:
-    # 分 时 日 月 周 (UTC时间)
-    # */4 表示每 4 小时运行一次
+    # 这里的 cron 设置为每 4 小时运行一次 (UTC时间)
+    # 可根据 config 中的 interval_hours 自行调整
     - cron: '0 */4 * * *'
   workflow_dispatch:
+    # 允许手动在 GitHub Actions 界面触发
 
-# 【CRITICAL】必须有写权限，否则 git push 会失败
 permissions:
   contents: write
 
@@ -17,40 +16,31 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    # 1. 拉取代码
     - name: Checkout code
       uses: actions/checkout@v4
 
-    # 2. 设置 Python 环境
     - name: Set up Python
       uses: actions/setup-python@v5
       with:
         python-version: '3.10'
 
-    # 3. 安装依赖
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
         pip install requests urllib3
 
-    # 4. 运行 Python 脚本
     - name: Run IPTV Checker
       env:
-        # 引用 Secrets
+        # 将 GitHub Secrets 中的 IPTV_CONFIG 注入为环境变量
         IPTV_CONFIG: ${{ secrets.IPTV_CONFIG }}
-      # [修正] 这里原本是 app.py，已修正为 main.py 以匹配您的脚本文件名
-      run: python main.py
+      run: python app.py
 
-    # 5. 提交结果
-    - name: Commit and Push results
+    - name: Commit and push results
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        
-        # 同时提交 汇总文件(source.m3u) 和 结果文件(valid.m3u)
-        # 确保这些文件不在 .gitignore 中
-        git add source.m3u valid.m3u
-        
-        # 提交并推送，无变化则安全退出
-        git commit -m "Auto Update: Every 4 hours" || exit 0
+        # 仅提交生成的有效列表，避免提交中间文件
+        git add valid.m3u
+        # 如果没有变化，不报错直接退出
+        git commit -m "Update valid playlist" || exit 0
         git push
