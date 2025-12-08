@@ -88,18 +88,12 @@ https://migu.188766.xyz/?migutoken=a504390bd39ac9c75ea052ff8ec0ca38&id=%E6%B5%99
 https://migu.188766.xyz/?migutoken=e4e5fb5de7dd5b295d9ee835b293fd4b&id=dfws&type=sz
 #EXTINF:-1 group-title="冰茶直播",北京卫视4K
 https://migu.188766.xyz/?migutoken=bd13f64761a83da7620d8965570b9f3e&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&type=yy
-#EXTINF:-1 group-title="冰茶直播",广东卫视4K
-http://ikuai.haleeyo.cn:9003/udp/239.77.0.27:5146
 #EXTINF:-1 group-title="冰茶直播",深圳卫视4K
 https://migu.188766.xyz/?migutoken=4048ae7d83c3a3e091dc967957007895&id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&pp=1
 #EXTINF:-1 group-title="冰茶直播",苏州4K
 https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 #EXTINF:-1 group-title="冰茶直播",河北4K
 https://event.pull.hebtv.com:443/live/live101.m3u8
-#EXTINF:-1 group-title="冰茶直播",CHC家庭影院
-https://migu.188766.xyz/?migutoken=c1bdcc6bfa81d4e0938a34d8d01d105f&id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2&type=yy
-#EXTINF:-1 group-title="冰茶直播",CHC动作电影
-https://migu.188766.xyz/?migutoken=4ff4f8f10a1e2ca578714cafef91978e&id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1&type=yy
 #EXTINF:-1 group-title="冰茶直播",CHC影迷电影
 https://migu.188766.xyz/?migutoken=4f30a218887fc18d5f56ae077d20b753&id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&type=yy
 #EXTINF:-1 group-title="冰茶直播",五星体育
@@ -110,8 +104,6 @@ https://other.ottiptv.cc/wxty.m3u8
 https://other.ottiptv.cc/cwjd.m3u8
 #EXTINF:-1 group-title="冰茶直播",新片放映厅
 https://migu.188766.xyz/?migutoken=9e9c53aad6a9d766267ccfa5ed74dbeb&id=%E6%96%B0%E7%89%87%E6%94%BE%E6%98%A0%E5%8E%85&type=yy
-#EXTINF:-1 group-title="冰茶直播",高清大片
-https://migu.188766.xyz/?migutoken=6a504629b899f03808670752b5057688&id=%E9%AB%98%E6%B8%85%E5%A4%A7%E7%89%87&type=yy
 #EXTINF:-1 group-title="冰茶直播",经典香港电影
 https://migu.188766.xyz/?migutoken=693405841fcf5121e6f3948371b18e63&id=%E7%BB%8F%E5%85%B8%E9%A6%99%E6%B8%AF%E7%94%B5%E5%BD%B1&type=yy
 #EXTINF:-1 group-title="冰茶直播",抗战经典影片
@@ -317,45 +309,45 @@ https://migu.188766.xyz/?migutoken=4cfed9e4f33c3ec986fd6c0e5ae366b5&id=%E9%99%95
 #EXTINF:-1 group-title="冰茶直播",陕西新闻资讯频道
 https://migu.188766.xyz/?migutoken=dc01e55ac33f3b21795a91dd72c77d71&id=%E9%99%95%E8%A5%BF%E6%96%B0%E9%97%BB%E8%B5%84%E8%AE%AF%E9%A2%91%E9%81%93&type=yy
 #EXTINF:-1 group-title="冰茶直播",凤凰中文
-https://hk.188766.xyz/?migutoken=f78136d4dd8438dbb97b04b94a5fd3df&id=fhzw&pp=1
+https://migu.188766.xyz/?migutoken=f78136d4dd8438dbb97b04b94a5fd3df&id=fhzw&pp=1
 #EXTINF:-1 group-title="冰茶直播",凤凰中文
-https://hk.188766.xyz/?migutoken=68eb09318e779dea73c01892e823e841&id=hk_fhzw&type=dy
+https://migu.188766.xyz/?migutoken=68eb09318e779dea73c01892e823e841&id=hk_fhzw&type=dy
 #EXTINF:-1 group-title="冰茶直播",凤凰资讯
-https://hk.188766.xyz/?migutoken=33200471900af2c3934ad9c1de8c94f9&id=fhzx&pp=1
+https://migu.188766.xyz/?migutoken=33200471900af2c3934ad9c1de8c94f9&id=fhzx&pp=1
 #EXTINF:-1 group-title="冰茶直播",凤凰资讯
-https://hk.188766.xyz/?migutoken=6dbead9a4138587978f5fb8beb4e6970&id=hk_fhzx&type=dy
+https://migu.188766.xyz/?migutoken=6dbead9a4138587978f5fb8beb4e6970&id=hk_fhzx&type=dy
 #EXTINF:-1 group-title="冰茶直播",凤凰香港
-https://hk.188766.xyz/?migutoken=eb2d375baa73adde3d1a548b3802a925&id=fhhk&pp=1
+https://migu.188766.xyz/?migutoken=eb2d375baa73adde3d1a548b3802a925&id=fhhk&pp=1
 #EXTINF:-1 group-title="冰茶直播",凤凰香港
-https://hk.188766.xyz/?migutoken=de7766f9c4849cefe12e943accf8b0a7&id=hk_fhhk&type=dy
+https://migu.188766.xyz/?migutoken=de7766f9c4849cefe12e943accf8b0a7&id=hk_fhhk&type=dy
 #EXTINF:-1 group-title="冰茶直播",翡翠台
-https://hk.188766.xyz/?migutoken=fc009e6bd2b4dff5126a88058f2943eb&id=hk_fct&type=dy
+https://migu.188766.xyz/?migutoken=fc009e6bd2b4dff5126a88058f2943eb&id=hk_fct&type=dy
 #EXTINF:-1 group-title="冰茶直播",翡翠台4K
-https://hk.188766.xyz/?migutoken=62de7d955e6c32ca2f86ce49ebce3517&id=hk_fct4k&type=dy
+https://migu.188766.xyz/?migutoken=62de7d955e6c32ca2f86ce49ebce3517&id=hk_fct4k&type=dy
 #EXTINF:-1 group-title="冰茶直播",无线新闻
-https://hk.188766.xyz/?migutoken=a9034351a842d07e24cde2a183d1d8af&id=hk_wxxw&type=dy
+https://migu.188766.xyz/?migutoken=a9034351a842d07e24cde2a183d1d8af&id=hk_wxxw&type=dy
 #EXTINF:-1 group-title="冰茶直播",Now新闻台
-https://hk.188766.xyz/?migutoken=cc64283a45101d727c0a2451f962e249&id=hk_now&type=dy
+https://migu.188766.xyz/?migutoken=cc64283a45101d727c0a2451f962e249&id=hk_now&type=dy
 #EXTINF:-1 group-title="冰茶直播",TVB Plus
-https://hk.188766.xyz/?migutoken=e151a837265ac38d142470673b27db6d&id=hk_tvbp&type=dy
+https://migu.188766.xyz/?migutoken=e151a837265ac38d142470673b27db6d&id=hk_tvbp&type=dy
 #EXTINF:-1 group-title="冰茶直播",明珠台
-https://hk.188766.xyz/?migutoken=67b03be9b0a21c22d9412b7e9c2ce4e0&id=hk_mzt&type=dy
+https://migu.188766.xyz/?migutoken=67b03be9b0a21c22d9412b7e9c2ce4e0&id=hk_mzt&type=dy
 #EXTINF:-1 group-title="冰茶直播",TVB星河
-https://hk.188766.xyz/?migutoken=6a73b1fdaa922163ac6013e0d48e9c6d&id=hk_tvbxh&type=dy
+https://migu.188766.xyz/?migutoken=6a73b1fdaa922163ac6013e0d48e9c6d&id=hk_tvbxh&type=dy
 #EXTINF:-1 group-title="冰茶直播",TVB功夫
-https://hk.188766.xyz/?migutoken=8f6a77b141d0ce33ed2bb9efac0311ae&id=hk_yzwx&type=dy
+https://migu.188766.xyz/?migutoken=8f6a77b141d0ce33ed2bb9efac0311ae&id=hk_yzwx&type=dy
 #EXTINF:-1 group-title="冰茶直播",八度空间
-https://hk.188766.xyz/?migutoken=6183369ac18820c2e963ecb75b9755de&id=hk_8tv&type=dy
+https://migu.188766.xyz/?migutoken=6183369ac18820c2e963ecb75b9755de&id=hk_8tv&type=dy
 #EXTINF:-1 group-title="冰茶直播",CHU
-https://hk.188766.xyz/?migutoken=1b464f7bbd23aff7d056b9bd2e48b502&id=hk_chu&type=dy
+https://migu.188766.xyz/?migutoken=1b464f7bbd23aff7d056b9bd2e48b502&id=hk_chu&type=dy
 #EXTINF:-1 group-title="冰茶直播",CH5
-https://hk.188766.xyz/?migutoken=f1ad1fb69afb02c2cd4ad565f33ec2a4&id=hk_ch5&type=dy
+https://migu.188766.xyz/?migutoken=f1ad1fb69afb02c2cd4ad565f33ec2a4&id=hk_ch5&type=dy
 #EXTINF:-1 group-title="冰茶直播",CH8
-https://hk.188766.xyz/?migutoken=7b2581f96b3b231e9cf8f6bc01e9a3ec&id=hk_ch8&type=dy
+https://migu.188766.xyz/?migutoken=7b2581f96b3b231e9cf8f6bc01e9a3ec&id=hk_ch8&type=dy
 #EXTINF:-1 group-title="冰茶直播",澳视澳门
-https://hk.188766.xyz/?migutoken=ae9a80bb15b4c8f66bfbad3c817765b0&id=hk_asam&type=dy
+https://migu.188766.xyz/?migutoken=ae9a80bb15b4c8f66bfbad3c817765b0&id=hk_asam&type=dy
 #EXTINF:-1 group-title="冰茶直播",HOY77
-https://hk.188766.xyz/?migutoken=27789cf1dcf12997be81fefef75dca9b&id=hk_hoy&type=dy
+https://migu.188766.xyz/?migutoken=27789cf1dcf12997be81fefef75dca9b&id=hk_hoy&type=dy
 #EXTINF:-1 group-title="冰茶直播",订阅地址的密码不正确_已隐藏
 https://188766.xyz/dong
 #EXTINF:-1 group-title="冰茶直播",免费分享_用爱发电_拒绝贩卖_只有TG群
@@ -707,6 +699,30 @@ http://api.mg.itv888.cn:8080/hls/e9660dce9a6/index.m3u8
 http://58.19.180.108:9981/stream/channelid/1749482778?profile=pass
 #EXTINF:-1 group-title="央卫国际",凤凰资讯
 http://58.19.180.108:9981/stream/channelid/708272803?profile=pass
+#EXTINF:-1 group-title="央卫国际",中天新聞台
+http://2099.tv12.xyz/2_1765218709451.m3u8
+#EXTINF:-1 group-title="央卫国际",TVBS新聞
+http://2099.tv12.xyz/3_1765218709451.m3u8
+#EXTINF:-1 group-title="央卫国际",民視新聞台
+http://2099.tv12.xyz/4_1765218709451.m3u8
+#EXTINF:-1 group-title="央卫国际",東森新聞台
+http://2099.tv12.xyz/5_1765218709451.m3u8
+#EXTINF:-1 group-title="央卫国际",華視新聞
+http://2099.tv12.xyz/6_1765218709451.m3u8
+#EXTINF:-1 group-title="央卫国际",鏡電視新聞台
+http://2099.tv12.xyz/7_1765218709451.m3u8
+#EXTINF:-1 group-title="央卫国际",東森財經新聞台
+http://2099.tv12.xyz/8_1765218709451.m3u8
+#EXTINF:-1 group-title="央卫国际",中視新聞
+http://2099.tv12.xyz/9_1765218709451.m3u8
+#EXTINF:-1 group-title="央卫国际",寰宇新聞台
+http://2099.tv12.xyz/10_1765218709451.m3u8
+#EXTINF:-1 group-title="央卫国际",寰宇新聞台灣台
+http://2099.tv12.xyz/11_1765218709451.m3u8
+#EXTINF:-1 group-title="央卫国际",三立新聞iNEWS
+http://2099.tv12.xyz/12_1765218709451.m3u8
+#EXTINF:-1 group-title="央卫国际",中天新闻
+http://cmtv.netlib.re/channel/2a347829.m3u8
 #EXTINF:-1 group-title="央卫国际",中天新闻
 http://rihou.cc:555/tv/[Hk]中天新闻
 #EXTINF:-1 group-title="央卫国际",中天新闻
@@ -14468,1058 +14484,1915 @@ https://jmp2.uk/stvp-US4600008JA
 https://jmp2.uk/stvp-USBB2300004KV
 #EXTINF:-1 group-title="央卫国际",XITE Siempre Latino
 https://jmp2.uk/stvp-USBD3300010L9
-#EXTINF:-1 group-title="央卫国际",CCTV-1综合
-http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=2de6fb8fe492606fb474a14b7a6c5d
-#EXTINF:-1 group-title="央卫国际",CCTV-2财经
-http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=4452eb652d3bd58a638e4cd7a5b377
-#EXTINF:-1 group-title="央卫国际",CCTV-3综艺
-http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=dfba8a7648be40da4a5980b8e130c1
-#EXTINF:-1 group-title="央卫国际",CCTV-4中文国际
-http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=0b399fc08f99f0eedc5ae88990e657
-#EXTINF:-1 group-title="央卫国际",CCTV-4欧洲
-http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=6fd72573d7c3296fde7a845dd226b5
-#EXTINF:-1 group-title="央卫国际",CCTV-4美洲
-http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=4f1d1374d8352f69f665d96b48f694
-#EXTINF:-1 group-title="央卫国际",CCTV-5体育
-http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=2769dd381fb9bdf22ef9ad25bd7efb
-#EXTINF:-1 group-title="央卫国际",CCTV-5+体育赛事
-http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=f8e1ec2ceb7ac74596280aa9c25261
-#EXTINF:-1 group-title="央卫国际",CCTV-6电影
-http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=3d19b0e17fae23b1392e93c1c48ee2
-#EXTINF:-1 group-title="央卫国际",CCTV-7国防军事
-http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=073fb74621903fb50d46a5a9b1e122
-#EXTINF:-1 group-title="央卫国际",CCTV-8电视剧
-http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=aeb87316ecb1abec4ad4e17ffdce32
-#EXTINF:-1 group-title="央卫国际",CCTV-9纪录
-http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=de6fa6fe795d11c126a89797e0fe2a
-#EXTINF:-1 group-title="央卫国际",CCTV-10科教
-http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=71d6bb4511556feed2016391daf53d
-#EXTINF:-1 group-title="央卫国际",CCTV-11戏曲
-http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=897c2fadebd2901be66f83a57d146e
-#EXTINF:-1 group-title="央卫国际",CCTV-12社会与法
-http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=18a22771c9f343f5de4f264808bac4
-#EXTINF:-1 group-title="央卫国际",CCTV-13新闻
-http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=54311cfe10ba3e4059f8050882311c
-#EXTINF:-1 group-title="央卫国际",CCTV-14少儿
-http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=191043921f4e385a3da9d07d5afa4a
-#EXTINF:-1 group-title="央卫国际",CCTV-15音乐
-http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=a3164edda7d995d984fa3eda49119a
-#EXTINF:-1 group-title="央卫国际",CCTV-17农业农村
-http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=5b516b81ca17af999a09d1aa7ea635
-#EXTINF:-1 group-title="央卫国际",CGTN外语
-http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=28a46b8a31c6a613c2d97264eaa53b
-#EXTINF:-1 group-title="央卫国际",CGTN-阿语
-http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=05c9be9123fffe3e7fc23a34978894
-#EXTINF:-1 group-title="央卫国际",CGTN-西语
-http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=96382a75daccd6b6d17ab957cbbdaf
-#EXTINF:-1 group-title="央卫国际",CGTN-法语
-http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=04f2e864846f70dfe3171963205a7e
-#EXTINF:-1 group-title="央卫国际",CGTN-俄语
-http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=6350eb5b0ed1afbdd15849b1e044c3
-#EXTINF:-1 group-title="央卫国际",老故事
-http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=07f48ba5430b0b2c495453cd13b3b1
-#EXTINF:-1 group-title="央卫国际",发现之旅
-http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=1d4e8694bd07c24a7296b42871d30e
-#EXTINF:-1 group-title="央卫国际",中学生
-http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=098c0c13a5356823784549d96290fd
-#EXTINF:-1 group-title="央卫国际",CGTN
-http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=df407e198b464ea5d87e107b182d29
-#EXTINF:-1 group-title="央卫国际",CETV1
-http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=f5cf1e70cdd6ca54ed7c51abea6ac8
-#EXTINF:-1 group-title="央卫国际",CETV2
-http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=84c6f78e8e389507662c93fe692f0a
-#EXTINF:-1 group-title="央卫国际",CETV4
-http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=b562f0423b9cef6f807f0f4be21f31
-#EXTINF:-1 group-title="央卫国际",东方卫视
-http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=5090360a538dc0ceecc1f0ef14a7de
-#EXTINF:-1 group-title="央卫国际",江苏卫视
-http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=db14ac66495c07edf34f4a7de721cc
-#EXTINF:-1 group-title="央卫国际",广东卫视
-http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=c511498dde37293f93db6dc7e5be51
-#EXTINF:-1 group-title="央卫国际",江西卫视
-http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=a4369705ff66af351eb94ba5ee6890
-#EXTINF:-1 group-title="央卫国际",河南卫视
-http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=fd2d434ce318c56652c8b19610b5de
-#EXTINF:-1 group-title="央卫国际",陕西卫视
-http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=c4d04c943406045cc72e9323e9ca9e
-#EXTINF:-1 group-title="央卫国际",大湾区卫视
-http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=504962ec46f2b3d2b8547f35c56953
-#EXTINF:-1 group-title="央卫国际",湖北卫视
-http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=ba0745243b4ceee8245181b23d1e86
-#EXTINF:-1 group-title="央卫国际",吉林卫视
-http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=aedb2778367405234d282aac9087fa
-#EXTINF:-1 group-title="央卫国际",青海卫视
-http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=74542f6eafa3b889a0fb611635ddf3
-#EXTINF:-1 group-title="央卫国际",东南卫视
-http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=eceebda11b876314ed744aa6d2b258
-#EXTINF:-1 group-title="央卫国际",海南卫视
-http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=c72774cfe1d4ea1899210ab61f0b92
-#EXTINF:-1 group-title="央卫国际",海峡卫视
-http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=bf15872687a319021a5b96071490a8
-#EXTINF:-1 group-title="央卫国际",农林卫视
-http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=15f9b534c455ec37ee3fc0a0645c92
-#EXTINF:-1 group-title="央卫国际",兵团卫视
-http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=dd4a258708058a826bdc489efb20ef
-#EXTINF:-1 group-title="央卫国际",上视东方影视
-http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=0941da458284c397592d82ef5466b0
-#EXTINF:-1 group-title="央卫国际",上海新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=860d1805dc992b768cd4604114c7b1
-#EXTINF:-1 group-title="央卫国际",上海第一财经
-http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=136f9d2198e3845cf3906f9f29ec2e
-#EXTINF:-1 group-title="央卫国际",江苏城市
-http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=e0f528a1bfe458ae0b891db3a857c2
-#EXTINF:-1 group-title="央卫国际",江苏综艺
-http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=35c116b4f6136aa64f7e2ec6d42504
-#EXTINF:-1 group-title="央卫国际",江苏影视
-http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=17287f80d30eb0d3319c6ce88b451a
-#EXTINF:-1 group-title="央卫国际",江苏公共新闻
-http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=694139ad78d24d5b6310358a7f108f
-#EXTINF:-1 group-title="央卫国际",江苏国际
-http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=3d32a4ff752d14fb45be5df177a6b7
-#EXTINF:-1 group-title="央卫国际",江苏教育
-http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=8d914090f594fc141c6f62a515c733
-#EXTINF:-1 group-title="央卫国际",江苏体育休闲
-http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=d901a7d1ce2eb4cf6d16ec355460be
-#EXTINF:-1 group-title="央卫国际",优漫卡通
-http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=f72e9bb245d820c15065efb1381e86
-#EXTINF:-1 group-title="央卫国际",南京新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=884528c1295c1497cd438aa4f1ee34
-#EXTINF:-1 group-title="央卫国际",南京教科
-http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=414e3b8cb09185e7adec8bb2616389
-#EXTINF:-1 group-title="央卫国际",南京十八
-http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=cda095a9d8fcf6dc969ce6ed9b55b0
-#EXTINF:-1 group-title="央卫国际",淮安新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=370331bdc2c33769067adeb2135dbc
-#EXTINF:-1 group-title="央卫国际",连云港新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=14ddc416ccfa4cc83c9b6b0549a9c2
-#EXTINF:-1 group-title="央卫国际",苏州新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=1a6949d818c657e165d21818f4a37e
-#EXTINF:-1 group-title="央卫国际",泰州新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=4e5f5d9839e3c1f5e34cd7988435ea
-#EXTINF:-1 group-title="央卫国际",宿迁新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=c397f52f4062905c9bfa439079ce9b
-#EXTINF:-1 group-title="央卫国际",徐州新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=7f8a685c2e773bc1eda72fd08b9fc9
-#EXTINF:-1 group-title="央卫国际",广东影视
-http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=25e3de1ba61a7c923d8595b374ffd6
-#EXTINF:-1 group-title="央卫国际",嘉佳卡通
-http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=57635f6a785c6b712ac290655d2809
-#EXTINF:-1 group-title="央卫国际",盐城新闻
-http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=4766b7f2eb91a8cd980c7dc26cf370
-#EXTINF:-1 group-title="央卫国际",南通新闻
-http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=18257b7cc8c69cf8bb155669dec2be
-#EXTINF:-1 group-title="央卫国际",宜兴新闻
-http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=339385a9c4c94ac283d012e24af860
-#EXTINF:-1 group-title="央卫国际",溧水新闻
-http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=fa42d8453886aadddbf415470035bb
-#EXTINF:-1 group-title="央卫国际",陕西秦腔频道
-http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=372936710246b85e97d083e530b0ea
-#EXTINF:-1 group-title="央卫国际",陕西新闻资讯频道
-http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=91991104860fb15759bb7a4e3ef596
-#EXTINF:-1 group-title="央卫国际",财富天下
-http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=c0d5c233fdf7959446a48018863b61
-#EXTINF:-1 group-title="央卫国际",高能悬疑
-http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=a8000b51af86d7065f0c6e153039e7
-#EXTINF:-1 group-title="央卫国际",抗战经典影片
-http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=951535acf563e8fb93511a380ba8ef
-#EXTINF:-1 group-title="央卫国际",CHC影迷电影
-http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=85ee1e3e9d4ff19bb18cabb1c255a7
-#EXTINF:-1 group-title="央卫国际",CHC动作电影
-http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=cae47b4cceb3dfb1e1d0ff769405d0
-#EXTINF:-1 group-title="央卫国际",CHC家庭影院
-http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=8659e86b4f92870921ff5db9936f28
-#EXTINF:-1 group-title="央卫国际",xm1
-http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=96bba108cc6a3c78fd8373acc35b74
-#EXTINF:-1 group-title="央卫国际",xm2
-http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=e185adecf4ec6a0fbafa84bb4947bf
-#EXTINF:-1 group-title="央卫国际",xm3
-http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=1a5927e242a4b8c99db2c2c2d0cf14
-#EXTINF:-1 group-title="央卫国际",xm4
-http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=e6241fa90d8e2e59e8a9b3adc86704
-#EXTINF:-1 group-title="央卫国际",xm5
-http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=8fb14fbd3fde3481fe1f76d57fac1a
-#EXTINF:-1 group-title="央卫国际",xm6
-http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=910a2f7d202fb7dfb67f11ab467e49
-#EXTINF:-1 group-title="央卫国际",xm7
-http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=d3303703f6d4f8add05260e8ab0f25
-#EXTINF:-1 group-title="央卫国际",xm8
-http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=29a166549e1dceee7be12872852f79
-#EXTINF:-1 group-title="央卫国际",xm9
-http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=fce3498eff153d813b0eebe09b473d
-#EXTINF:-1 group-title="央卫国际",xm10
-http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=7440bf80776e656dc1fd0d9b5c3793
-#EXTINF:-1 group-title="央卫国际",xm10
-http://140.210.9.18:8800/SuanFaZhibo/live4/migu.php?token=7440bf80776e656dc1fd0d9b5c3793
-#EXTINF:-1 group-title="央卫国际",北京卫视
-http://140.210.9.18:8800/SuanFaZhibo/live5/beijing/beijing.php?id=bjws
-#EXTINF:-1 group-title="央卫国际",北京卫视4k
-http://140.210.9.18:8800/SuanFaZhibo/live5/beijing/beijing.php?id=bjws4k
-#EXTINF:-1 group-title="央卫国际",BRTV文艺
-http://140.210.9.18:8800/SuanFaZhibo/live5/beijing/beijing.php?id=bjwy
-#EXTINF:-1 group-title="央卫国际",BRTV纪实科教
-http://140.210.9.18:8800/SuanFaZhibo/live5/beijing/beijing.php?id=bjjs
-#EXTINF:-1 group-title="央卫国际",BRTV影视
-http://140.210.9.18:8800/SuanFaZhibo/live5/beijing/beijing.php?id=bjys
-#EXTINF:-1 group-title="央卫国际",BRTV财经
-http://140.210.9.18:8800/SuanFaZhibo/live5/beijing/beijing.php?id=bjcj
-#EXTINF:-1 group-title="央卫国际",BRTV生活
-http://140.210.9.18:8800/SuanFaZhibo/live5/beijing/beijing.php?id=bjsh
-#EXTINF:-1 group-title="央卫国际",BRTV新闻
-http://140.210.9.18:8800/SuanFaZhibo/live5/beijing/beijing.php?id=bjxw
-#EXTINF:-1 group-title="央卫国际",卡酷少儿
-http://140.210.9.18:8800/SuanFaZhibo/live5/beijing/beijing.php?id=bjkk
-#EXTINF:-1 group-title="央卫国际",江苏卫视
-http://140.210.9.18:8800/SuanFaZhibo/live5/jiangsu/jiangsu.php?id=jsws
-#EXTINF:-1 group-title="央卫国际",江苏城市
-http://140.210.9.18:8800/SuanFaZhibo/live5/jiangsu/jiangsu.php?id=jscs
-#EXTINF:-1 group-title="央卫国际",江苏综艺
-http://140.210.9.18:8800/SuanFaZhibo/live5/jiangsu/jiangsu.php?id=jszy
-#EXTINF:-1 group-title="央卫国际",江苏影视
-http://140.210.9.18:8800/SuanFaZhibo/live5/jiangsu/jiangsu.php?id=jsys
-#EXTINF:-1 group-title="央卫国际",江苏新闻
-http://140.210.9.18:8800/SuanFaZhibo/live5/jiangsu/jiangsu.php?id=jsxw
-#EXTINF:-1 group-title="央卫国际",江苏教育
-http://140.210.9.18:8800/SuanFaZhibo/live5/jiangsu/jiangsu.php?id=jsjy
-#EXTINF:-1 group-title="央卫国际",江苏国际
-http://140.210.9.18:8800/SuanFaZhibo/live5/jiangsu/jiangsu.php?id=jsgj
-#EXTINF:-1 group-title="央卫国际",优漫卡通
-http://140.210.9.18:8800/SuanFaZhibo/live5/jiangsu/jiangsu.php?id=ymkt
-#EXTINF:-1 group-title="央卫国际",铜山综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/jiangsu/tongshan.php?id=tsxwzh
-#EXTINF:-1 group-title="央卫国际",铜山三农
-http://140.210.9.18:8800/SuanFaZhibo/live5/jiangsu/tongshan.php?id=tssn
-#EXTINF:-1 group-title="央卫国际",盐城2
-http://140.210.9.18:8800/SuanFaZhibo/live5/jiangsu/yancheng.php?id=yc2
-#EXTINF:-1 group-title="央卫国际",盐城3
-http://140.210.9.18:8800/SuanFaZhibo/live5/jiangsu/yancheng.php?id=yc3
-#EXTINF:-1 group-title="央卫国际",浙江卫视
-http://140.210.9.18:8800/SuanFaZhibo/live5/zhejiang/zhejiang.php?id=zjws
-#EXTINF:-1 group-title="央卫国际",浙江钱江
-http://140.210.9.18:8800/SuanFaZhibo/live5/zhejiang/zhejiang.php?id=zjqj
-#EXTINF:-1 group-title="央卫国际",浙江生活
-http://140.210.9.18:8800/SuanFaZhibo/live5/zhejiang/zhejiang.php?id=zjjjsh
-#EXTINF:-1 group-title="央卫国际",浙江教科影视
-http://140.210.9.18:8800/SuanFaZhibo/live5/zhejiang/zhejiang.php?id=zjjkys
+#EXTINF:-1 group-title="央卫国际",浙江钱江都市
+http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+#EXTINF:-1 group-title="央卫国际",浙江经济生活
+http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+#EXTINF:-1 group-title="央卫国际",浙江教科影院
+http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 #EXTINF:-1 group-title="央卫国际",浙江民生休闲
-http://140.210.9.18:8800/SuanFaZhibo/live5/zhejiang/zhejiang.php?id=zjmsxx
+http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 #EXTINF:-1 group-title="央卫国际",浙江新闻
-http://140.210.9.18:8800/SuanFaZhibo/live5/zhejiang/zhejiang.php?id=zjxw
+http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 #EXTINF:-1 group-title="央卫国际",浙江少儿
-http://140.210.9.18:8800/SuanFaZhibo/live5/zhejiang/zhejiang.php?id=zjse
+http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1 group-title="央卫国际",中国蓝新闻
+http://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8
 #EXTINF:-1 group-title="央卫国际",浙江国际
-http://140.210.9.18:8800/SuanFaZhibo/live5/zhejiang/zhejiang.php?id=zjgj
-#EXTINF:-1 group-title="央卫国际",浙江好易购
-http://140.210.9.18:8800/SuanFaZhibo/live5/zhejiang/zhejiang.php?id=zjhyg
-#EXTINF:-1 group-title="央卫国际",浙江之江纪录
-http://140.210.9.18:8800/SuanFaZhibo/live5/zhejiang/zhejiang.php?id=zjzjjl
-#EXTINF:-1 group-title="央卫国际",萧山综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/zhejiang/hangzhou.php?id=xszh
-#EXTINF:-1 group-title="央卫国际",东阳影视生活
-http://140.210.9.18:8800/SuanFaZhibo/live5/zhejiang/hangzhou.php?id=dyyssh
-#EXTINF:-1 group-title="央卫国际",天台和合频道
-http://140.210.9.18:8800/SuanFaZhibo/live5/zhejiang/hangzhou.php?id=tthh
-#EXTINF:-1 group-title="央卫国际",常山新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/zhejiang/hangzhou.php?id=csxwzh
-#EXTINF:-1 group-title="央卫国际",永康新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/zhejiang/hangzhou.php?id=ykxwzh
-#EXTINF:-1 group-title="央卫国际",永康华溪频道
-http://140.210.9.18:8800/SuanFaZhibo/live5/zhejiang/hangzhou.php?id=ykhxpd
-#EXTINF:-1 group-title="央卫国际",江山电视台
-http://140.210.9.18:8800/SuanFaZhibo/live5/zhejiang/hangzhou.php?id=jstv
-#EXTINF:-1 group-title="央卫国际",西湖明珠
-http://140.210.9.18:8800/SuanFaZhibo/live5/zhejiang/hangzhou1.php?id=hzmz
-#EXTINF:-1 group-title="央卫国际",杭州导视
-http://140.210.9.18:8800/SuanFaZhibo/live5/zhejiang/hangzhou1.php?id=hzds
-#EXTINF:-1 group-title="央卫国际",富阳新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/zhejiang/hangzhou1.php?id=fyxwzh
-#EXTINF:-1 group-title="央卫国际",杭州萧山综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/zhejiang/qukan.php?id=hzxs1
-#EXTINF:-1 group-title="央卫国际",温州苍南新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/zhejiang/qukan.php?id=wzcn1
-#EXTINF:-1 group-title="央卫国际",温州电视台
-http://140.210.9.18:8800/SuanFaZhibo/live5/zhejiang/qukan.php?id=wzdt1
-#EXTINF:-1 group-title="央卫国际",金华东阳影视生活
-http://140.210.9.18:8800/SuanFaZhibo/live5/zhejiang/qukan.php?id=jhdy2
-#EXTINF:-1 group-title="央卫国际",金华磐安新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/zhejiang/qukan.php?id=jhpa1
-#EXTINF:-1 group-title="央卫国际",金华磐安文化旅游
-http://140.210.9.18:8800/SuanFaZhibo/live5/zhejiang/qukan.php?id=jhpa2
-#EXTINF:-1 group-title="央卫国际",金华永康新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/zhejiang/qukan.php?id=jhyk1
-#EXTINF:-1 group-title="央卫国际",金华永康华溪频道
-http://140.210.9.18:8800/SuanFaZhibo/live5/zhejiang/qukan.php?id=jhyk2
-#EXTINF:-1 group-title="央卫国际",台州天台和合频道
-http://140.210.9.18:8800/SuanFaZhibo/live5/zhejiang/qukan.php?id=tztt1
-#EXTINF:-1 group-title="央卫国际",台州玉环新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/zhejiang/qukan.php?id=tzyh1
-#EXTINF:-1 group-title="央卫国际",丽水龙泉新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/zhejiang/qukan.php?id=lslq1
-#EXTINF:-1 group-title="央卫国际",丽水松阳新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/zhejiang/qukan.php?id=lssy1
-#EXTINF:-1 group-title="央卫国际",丽水庆元电视台
-http://140.210.9.18:8800/SuanFaZhibo/live5/zhejiang/qukan.php?id=lsqy1
-#EXTINF:-1 group-title="央卫国际",衢州常山新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/zhejiang/qukan.php?id=qzcs1
-#EXTINF:-1 group-title="央卫国际",衢州开化综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/zhejiang/qukan.php?id=qzkh1
-#EXTINF:-1 group-title="央卫国际",舟山普陀新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/zhejiang/qukan.php?id=zspt1
-#EXTINF:-1 group-title="央卫国际",宁波余姚姚江文化
-http://140.210.9.18:8800/SuanFaZhibo/live5/zhejiang/qukan.php?id=nbyy2
-#EXTINF:-1 group-title="央卫国际",广州综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/guangdong/guangzhou.php?id=zhonghe
-#EXTINF:-1 group-title="央卫国际",广州新闻
-http://140.210.9.18:8800/SuanFaZhibo/live5/guangdong/guangzhou.php?id=xinwen
-#EXTINF:-1 group-title="央卫国际",广州法治
-http://140.210.9.18:8800/SuanFaZhibo/live5/guangdong/guangzhou.php?id=fazhi
-#EXTINF:-1 group-title="央卫国际",广州南国都市
-http://140.210.9.18:8800/SuanFaZhibo/live5/guangdong/guangzhou.php?id=shenghuo
-#EXTINF:-1 group-title="央卫国际",江门综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/guangdong/jiangmen.php?id=jmzh
-#EXTINF:-1 group-title="央卫国际",揭阳综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/guangdong/jieyang.php?id=jyzh
-#EXTINF:-1 group-title="央卫国际",汕头频道
-http://140.210.9.18:8800/SuanFaZhibo/live5/guangdong/shantou.php
-#EXTINF:-1 group-title="央卫国际",深圳卫视
-http://140.210.9.18:8800/SuanFaZhibo/live5/guangdong/shenzhen.php?id=szws
-#EXTINF:-1 group-title="央卫国际",深圳都市频道
-http://140.210.9.18:8800/SuanFaZhibo/live5/guangdong/shenzhen.php?id=szds
-#EXTINF:-1 group-title="央卫国际",深圳电视剧频道
-http://140.210.9.18:8800/SuanFaZhibo/live5/guangdong/shenzhen.php?id=szdsj
-#EXTINF:-1 group-title="央卫国际",深圳财经频道
-http://140.210.9.18:8800/SuanFaZhibo/live5/guangdong/shenzhen.php?id=szcj
-#EXTINF:-1 group-title="央卫国际",深圳少儿频道
-http://140.210.9.18:8800/SuanFaZhibo/live5/guangdong/shenzhen.php?id=szse
-#EXTINF:-1 group-title="央卫国际",深圳移动电视
-http://140.210.9.18:8800/SuanFaZhibo/live5/guangdong/shenzhen.php?id=szyd
-#EXTINF:-1 group-title="央卫国际",深圳宜和购物频道
-http://140.210.9.18:8800/SuanFaZhibo/live5/guangdong/shenzhen.php?id=szyh
-#EXTINF:-1 group-title="央卫国际",深圳国际频道
-http://140.210.9.18:8800/SuanFaZhibo/live5/guangdong/shenzhen.php?id=szgj
+http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+#EXTINF:-1 group-title="央卫国际",数码时代
+http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+#EXTINF:-1 group-title="央卫国际",武义新闻综合
+http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8?zzhed
+#EXTINF:-1 group-title="央卫国际",平湖新闻综合
+http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8?zzhed
+#EXTINF:-1 group-title="央卫国际",平湖民生休闲
+http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8?zzhed
+#EXTINF:-1 group-title="央卫国际",萧山新闻综合
+http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8?zzhed
+#EXTINF:-1 group-title="央卫国际",萧山生活频道
+http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8?zzhed
+#EXTINF:-1 group-title="央卫国际",余杭综合频道
+http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8?zzhed
+#EXTINF:-1 group-title="央卫国际",余杭未来E频道
+http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?zzhed
+#EXTINF:-1 group-title="央卫国际",余姚新闻综合
+http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?zzhed
+#EXTINF:-1 group-title="央卫国际",余姚姚江文化
+http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8?zzhed
+#EXTINF:-1 group-title="央卫国际",嵊州新闻综合
+http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8?zzhed
+#EXTINF:-1 group-title="央卫国际",诸暨新闻综合
+http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed
+#EXTINF:-1 group-title="央卫国际",上虞新闻综合
+http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?zzhed
+#EXTINF:-1 group-title="央卫国际",上虞文化影院
+http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8?zzhed
+#EXTINF:-1 group-title="央卫国际",上虞新商都
+http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8?zzhed
+#EXTINF:-1 group-title="央卫国际",兰溪新闻综合
+http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8?zzhed
+#EXTINF:-1 group-title="央卫国际",缙云综合频道
+http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8?zzhed
+#EXTINF:-1 group-title="央卫国际",开化国家公园
+http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8?zzhed
+#EXTINF:-1 group-title="央卫国际",开化新闻综合
+http://l.cztvcloud.com/channels/lantian/SXkaihua1/720p.m3u8?zzhed
+#EXTINF:-1 group-title="央卫国际",兰溪新闻综合
+http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8?zzhed
+#EXTINF:-1 group-title="央卫国际",龙泉新闻综合
+http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8?zzhed
+#EXTINF:-1 group-title="央卫国际",龙游生活娱乐
+http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8?zzhed
+#EXTINF:-1 group-title="央卫国际",龙游新闻综合
+http://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8?zzhed
+#EXTINF:-1 group-title="央卫国际",宁波-象山综合
+http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8?zzhed
+#EXTINF:-1 group-title="央卫国际",宁波-余姚综合
+http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?zzhed
+#EXTINF:-1 group-title="央卫国际",平湖民生休闲
+http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8?zzhed
+#EXTINF:-1 group-title="央卫国际",平湖新闻综合
+http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8?zzhed
+#EXTINF:-1 group-title="央卫国际",普陀新闻综合
+http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8?zzhed
+#EXTINF:-1 group-title="央卫国际",庆元综合频道
+http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8?zzhed
+#EXTINF:-1 group-title="央卫国际",衢江新闻综合
+http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8?zzhed
+#EXTINF:-1 group-title="央卫国际",上虞文化影院
+http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8?zzhed
+#EXTINF:-1 group-title="央卫国际",上虞新商都
+http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8?zzhed
+#EXTINF:-1 group-title="央卫国际",上虞新闻综合
+http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?zzhed
+#EXTINF:-1 group-title="央卫国际",绍兴公共频道
+http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8?zzhed
+#EXTINF:-1 group-title="央卫国际",绍兴文化影院
+http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8?zzhed
+#EXTINF:-1 group-title="央卫国际",绍兴新闻综合
+http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8?zzhed
+#EXTINF:-1 group-title="央卫国际",嵊州新闻综合
+http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8?zzhed
+#EXTINF:-1 group-title="央卫国际",松阳综合频道
+http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8?zzhed
+#EXTINF:-1 group-title="央卫国际",遂昌综合频道
+http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8?zzhed
+#EXTINF:-1 group-title="央卫国际",田电视台
+http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8?zzhed
+#EXTINF:-1 group-title="央卫国际",文成综合频道
+http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8?zzhed
+#EXTINF:-1 group-title="央卫国际",文成二套
+http://l.cztvcloud.com/channels/lantian/SXwencheng2/720p.m3u8
+#EXTINF:-1 group-title="央卫国际",萧山生活频道
+http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8?zzhed
+#EXTINF:-1 group-title="央卫国际",萧山新闻综合
+http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8?zzhed
+#EXTINF:-1 group-title="央卫国际",永嘉新闻综合
+http://l.cztvcloud.com/channels/lantian/SXyongjia1/720p.m3u8?zzhed
+#EXTINF:-1 group-title="央卫国际",余杭未来E频道
+http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?zzhed
+#EXTINF:-1 group-title="央卫国际",余杭综合频道
+http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8?zzhed
+#EXTINF:-1 group-title="央卫国际",云和新闻综合
+http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8?zzhed
+#EXTINF:-1 group-title="央卫国际",舟山嵊泗综合
+http://l.cztvcloud.com/channels/lantian/SXshengsi1/720p.m3u8
+#EXTINF:-1 group-title="央卫国际",扬州-1
+http://cm-wshls.homecdn.com/live/8bb.m3u8?wsSession=79513967f36b97291b6ac172-171280250661852&wsIPSercert=0f540f265a90d9637de4bfc98dba8554
+#EXTINF:-1 group-title="央卫国际",扬州-2
+http://cm-wshls.homecdn.com/live/8bd.m3u8?wsSession=71483682f8c082ffbcb3f35c-171280252396805&wsIPSercert=0f540f265a90d9637de4bfc98dba8554
+#EXTINF:-1 group-title="央卫国际",扬州-3
+http://cm-wshls.homecdn.com/live/8bf.m3u8?wsSession=79513967f36b97291b6ac172-171280256099580&wsIPSercert=0f540f265a90d9637de4bfc98dba8554
+#EXTINF:-1 group-title="央卫国际",镇江-1
+http://zjtv-wshls.homecdn.com/live/2aa50.m3u8?wsSession=6db346fad039327b1223d983-171280258830822&wsIPSercert=0f540f265a90d9637de4bfc98dba8554
+#EXTINF:-1 group-title="央卫国际",镇江-2
+http://zjtv-wshls.homecdn.com/live/2aa16.m3u8?wsSession=7525bc2371fef9193fbdbeb8-171280267129975&wsIPSercert=0f540f265a90d9637de4bfc98dba8554
+#EXTINF:-1 group-title="央卫国际",南京生活
+http://live.nbs.cn/channels/njtv/shpd/nbs06.m3u8
+#EXTINF:-1 group-title="央卫国际",南京娱乐
+http://live.nbs.cn/channels/njtv/ylpd/500k.m3u8
+#EXTINF:-1 group-title="央卫国际",南京新闻
+http://live.nbs.cn/channels/njtv/xwzh/nbs06.m3u8
+#EXTINF:-1 group-title="央卫国际",南京信息频道
+http://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8
+#EXTINF:-1 group-title="央卫国际",苏州新闻
+http://tylive.kan0512.com/norecord/norecord_csztv1.m3u8
+#EXTINF:-1 group-title="央卫国际",苏州社会经济
+http://tylive.kan0512.com/norecord/norecord_csztv2.m3u8
+#EXTINF:-1 group-title="央卫国际",苏州文化生活
+http://tylive.kan0512.com/norecord/norecord_csztv1.m3u8
+#EXTINF:-1 group-title="央卫国际",苏州生活资讯
+http://tylive.kan0512.com/norecord/norecord_csztv5.m3u8
+#EXTINF:-1 group-title="央卫国际",无锡新闻
+http://stream.thmz.com/wxtv1/sd/live.m3u8?_upt=4ba3ab191698644028
+#EXTINF:-1 group-title="央卫国际",无锡生活
+http://stream.thmz.com/wxtv4/sd/live.m3u8?_upt=968c13b81704871272
+#EXTINF:-1 group-title="央卫国际",无锡经济
+http://stream.thmz.com/wxtv5/sd/live.m3u8?_upt=cfacd5221704890772
+#EXTINF:-1 group-title="央卫国际",无锡都市资讯
+http://stream.thmz.com/wxtv3/sd/live.m3u8?zjiangsd
+#EXTINF:-1 group-title="央卫国际",无锡都市资讯
+http://stream.thmz.com/wxtv3/sd/live.m3u8?_upt=978cd8731706199708
+#EXTINF:-1 group-title="央卫国际",无锡娱乐
+http://stream.thmz.com/wxtv2/sd/live.m3u8?_upt=acffe97a1704940314
+#EXTINF:-1 group-title="央卫国际",泗阳综合
+http://3739115337.cloudvdn.com/a.m3u8?domain=siyang-tv-hls.cm.jstv.com&player=nwEAAKHdjSKP_58X&secondToken=secondToken%3A5FUijZmDyNMxtCDdne0YzSAwjuw&streamid=siyang-tv%3Asiyang-tv%2Fsiyangzh&v3=1
+#EXTINF:-1 group-title="央卫国际",连云港新闻综合
+http://live.lyg1.com/zhpd/sd/live.m3u8
+#EXTINF:-1 group-title="央卫国际",连云港公共
+http://live.lyg1.com/ggpd/sd/live.m3u8
+#EXTINF:-1 group-title="央卫国际",镇江新闻综合
+http://zjtv-wshls.homecdn.com/live/2aa50.m3u8?wsSession=a263bdc5a26cd01b57a80359-170493712215358&wsIPSercert=f56bd6194d219a5172dbed60eca6e9b0
+#EXTINF:-1 group-title="央卫国际",镇江民生
+http://zjtv-wshls.homecdn.com/live/2aa16.m3u8?wsSession=25eac7fcbe9d822bf028ffc8-170493717234726&wsIPSercert=f56bd6194d219a5172dbed60eca6e9b0
+#EXTINF:-1 group-title="央卫国际",常熟综合
+http://cstvplay.21cs.cn/cstv1/cstv1.m3u8
+#EXTINF:-1 group-title="央卫国际",常熟民生经济
+http://cstvplay.21cs.cn/cstv2/cstv2.m3u8
+#EXTINF:-1 group-title="央卫国际",淮安公共
+http://live1.habctv.com/ggpdsl/sd/live.m3u8?zjiangsd
+#EXTINF:-1 group-title="央卫国际",淮安无线
+http://live1.habctv.com/ysylsl/sd/live.m3u8?zjiangsd
+#EXTINF:-1 group-title="央卫国际",海门经济生活
+http://2061827158.cloudvdn.com/a.m3u8?domain=haimen-tv-rtmp.cm.jstv.com&player=rZQAAIs1YJWHAKAX&secondToken=secondToken%3A0T5mP-ljzoiHFflfbDWnYUWhycY&streamid=haimen-tv%3Ahaimen-tv%2Fhaimenjjzh&v3=1
+#EXTINF:-1 group-title="央卫国际",海门教育
+http://2061827158.cloudvdn.com/a.m3u8?domain=haimen-tv-rtmp.cm.jstv.com&player=rZQAAHySruaQAKAX&secondToken=secondToken%3Awziq3nhj5_ooRP0VogoHwI82vFo&streamid=haimen-tv%3Ahaimen-tv%2Fhaimenjyrw&v3=1
+#EXTINF:-1 group-title="央卫国际",睢宁综合
+http://3739115311.cloudvdn.com/a.m3u8?domain=suining-tv-hls.cm.jstv.com&player=TwMAAPjPskOkJ6kX&secondToken=secondToken%3AjegfwzYXwUE9HzG7kRfhCd81WMU&streamid=suining-tv%3Asuining-tv%2Fsuiningzh&v3=1&zjiangsd=
+#EXTINF:-1 group-title="央卫国际",睢宁生活教育
+http://3739115343.cloudvdn.com/a.m3u8?domain=suining-tv-hls.cm.jstv.com&player=yGsAAC1Webu1J6kX&secondToken=secondToken%3Amjk0jn9TQkTVaw0MnaOkN2uGNkk&streamid=suining-tv%3Asuining-tv%2Fsuiningsh&v3=1&zjiangsd=
+#EXTINF:-1 group-title="央卫国际",睢宁三农
+http://3739115337.cloudvdn.com/a.m3u8?domain=suining-tv-hls.cm.jstv.com&player=nwEAAJApyIx-AKAX&secondToken=secondToken%3AfyPrvACXUQ_VSZUu3Rxm-2py1fo&streamid=suining-tv%3Asuining-tv%2Fsuiningsn&v3=1
+#EXTINF:-1 group-title="央卫国际",BRTV新闻
+http://live.funhillrm.com/5/sd/live.m3u8
+#EXTINF:-1 group-title="央卫国际",北京纪实科教
+https://live.goodiptv.club/api/cqyx.php?id=bjayjsSD
+#EXTINF:-1 group-title="央卫国际",北京纪实科教
+http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel22030/index.m3u8
+#EXTINF:-1 group-title="央卫国际",BRTV新闻
+http://live.funhillrm.com/5/sd/live.m3u8
+#EXTINF:-1 group-title="央卫国际",房山无线频道
+http://live.funhillrm.com/2/sd/live.m3u8
+#EXTINF:-1 group-title="央卫国际",房山有线频道
+http://live.funhillrm.com/5/sd/live.m3u8
+#EXTINF:-1 group-title="央卫国际",通州电视台
+http://pull.dayuntongzhou.com/live/tztv.m3u8
 #EXTINF:-1 group-title="央卫国际",湖南经视
-http://140.210.9.18:8800/SuanFaZhibo/live5/hunan/hunan.php?id=hnjs
-#EXTINF:-1 group-title="央卫国际",湖南娱乐
-http://140.210.9.18:8800/SuanFaZhibo/live5/hunan/hunan.php?id=hnyl
-#EXTINF:-1 group-title="央卫国际",湖南电影
-http://140.210.9.18:8800/SuanFaZhibo/live5/hunan/hunan.php?id=hndy
+http://php.jdshipin.com:8880/iptv.php?id=hnjs
 #EXTINF:-1 group-title="央卫国际",湖南都市
-http://140.210.9.18:8800/SuanFaZhibo/live5/hunan/hunan.php?id=hnds
-#EXTINF:-1 group-title="央卫国际",湖南电视剧
-http://140.210.9.18:8800/SuanFaZhibo/live5/hunan/hunan.php?id=hndsj
+http://php.jdshipin.com:8880/iptv.php?id=hnds
 #EXTINF:-1 group-title="央卫国际",湖南爱晚
-http://140.210.9.18:8800/SuanFaZhibo/live5/hunan/hunan.php?id=hnaw
+http://php.jdshipin.com:8880/iptv.php?id=hngg
+#EXTINF:-1 group-title="央卫国际",湖南电视剧
+http://php.jdshipin.com:8880/iptv.php?id=hndsj
+#EXTINF:-1 group-title="央卫国际",湖南娱乐
+http://php.jdshipin.com:8880/iptv.php?id=hnyl
 #EXTINF:-1 group-title="央卫国际",湖南国际
-http://140.210.9.18:8800/SuanFaZhibo/live5/hunan/hunan.php?id=hngj
-#EXTINF:-1 group-title="央卫国际",金鹰纪实
-http://140.210.9.18:8800/SuanFaZhibo/live5/hunan/hunan.php?id=jyjs
-#EXTINF:-1 group-title="央卫国际",金鹰卡通
-http://140.210.9.18:8800/SuanFaZhibo/live5/hunan/hunan.php?id=jykt
-#EXTINF:-1 group-title="央卫国际",先锋乒羽
-http://140.210.9.18:8800/SuanFaZhibo/live5/hunan/hunan.php?id=xfpy
-#EXTINF:-1 group-title="央卫国际",快乐垂钓
-http://140.210.9.18:8800/SuanFaZhibo/live5/hunan/hunan.php?id=klcd
-#EXTINF:-1 group-title="央卫国际",茶频道
-http://140.210.9.18:8800/SuanFaZhibo/live5/hunan/hunan.php?id=cpd
+http://php.jdshipin.com:8880/iptv.php?id=hngj
+#EXTINF:-1 group-title="央卫国际",湘潭新闻综合
+http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
+#EXTINF:-1 group-title="央卫国际",湘潭公共频道
+http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8
+#EXTINF:-1 group-title="央卫国际",湘潭新闻综合
+http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
+#EXTINF:-1 group-title="央卫国际",湘潭公共频道
+http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8
+#EXTINF:-1 group-title="央卫国际",岳阳公共
+http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8
+#EXTINF:-1 group-title="央卫国际",中方综合
+https://liveplay-srs.voc.com.cn/hls/tv/18_3aa230.m3u8
+#EXTINF:-1 group-title="央卫国际",麻阳综合
+https://liveplay-srs.voc.com.cn/hls/tv/38_6f397d.m3u8
+#EXTINF:-1 group-title="央卫国际",双峰县电视台
+https://liveplay-srs.voc.com.cn/hls/tv/131_acfb72.m3u8
+#EXTINF:-1 group-title="央卫国际",攸县电视台
+https://liveplay-srs.voc.com.cn/hls/tv/158_423c80.m3u8
+#EXTINF:-1 group-title="央卫国际",靖州综合
+https://liveplay-srs.voc.com.cn/hls/tv/34_5156ed.m3u8
+#EXTINF:-1 group-title="央卫国际",桑植综合
+https://liveplay-srs.voc.com.cn/hls/tv/185_938292.m3u8
+#EXTINF:-1 group-title="央卫国际",新化综合
+https://liveplay-srs.voc.com.cn/hls/tv/170_49c556.m3u8
+#EXTINF:-1 group-title="央卫国际",元江综合
+https://liveplay-srs.voc.com.cn/hls/tv/163_2c7011.m3u8
+#EXTINF:-1 group-title="央卫国际",新邵新闻综合
+https://liveplay-srs.voc.com.cn/hls/tv/171_daca67.m3u8
+#EXTINF:-1 group-title="央卫国际",绥宁电视台
+https://liveplay-srs.voc.com.cn/hls/tv/182_3c0dc6.m3u8
+#EXTINF:-1 group-title="央卫国际",城步综合
+https://liveplay-srs.voc.com.cn/hls/tv/169_b4d7a4.m3u8
+#EXTINF:-1 group-title="央卫国际",汉寿综合
+https://liveplay-srs.voc.com.cn/hls/tv/31_226756.m3u8
+#EXTINF:-1 group-title="央卫国际",耒阳综合
+https://liveplay-srs.voc.com.cn/hls/tv/27_e9e1e5.m3u8
+#EXTINF:-1 group-title="央卫国际",衡阳综合
+https://liveplay-srs.voc.com.cn/hls/tv/183_554704.m3u8
+#EXTINF:-1 group-title="央卫国际",永兴新闻综合
+https://liveplay-srs.voc.com.cn/hls/tv/40_1d0ed0.m3u8
+#EXTINF:-1 group-title="央卫国际",汝城综合
+https://liveplay-srs.voc.com.cn/hls/tv/149_40cf24.m3u8
+#EXTINF:-1 group-title="央卫国际",汨罗综合
+https://liveplay-srs.voc.com.cn/hls/tv/166_a4ad1b.m3u8
+#EXTINF:-1 group-title="央卫国际",嘉禾新闻综合
+https://liveplay-srs.voc.com.cn/hls/tv/184_e3af1a.m3u8
+#EXTINF:-1 group-title="央卫国际",吉首综合
+https://liveplay-srs.voc.com.cn/hls/tv/143_70175b.m3u8
+#EXTINF:-1 group-title="央卫国际",花垣综合
+https://liveplay-srs.voc.com.cn/hls/tv/134_d590ee.m3u8
+#EXTINF:-1 group-title="央卫国际",古丈综合
+https://liveplay-srs.voc.com.cn/hls/tv/144_4efb38.m3u8
+#EXTINF:-1 group-title="央卫国际",临武综合
+https://liveplay-srs.voc.com.cn/hls/tv/148_feda2f.m3u8
+#EXTINF:-1 group-title="央卫国际",桂阳综合
+https://liveplay-srs.voc.com.cn/hls/tv/7_7c833e.m3u8
+#EXTINF:-1 group-title="央卫国际",桂东综合
+https://liveplay-srs.voc.com.cn/hls/tv/174_6ab9f8.m3u8
+#EXTINF:-1 group-title="央卫国际",芷江综合
+https://liveplay-srs.voc.com.cn/hls/tv/20_68acda.m3u8
+#EXTINF:-1 group-title="央卫国际",新晃综合
+https://liveplay-srs.voc.com.cn/hls/tv/23_5d556a.m3u8
+#EXTINF:-1 group-title="央卫国际",蓝山综合
+https://liveplay-srs.voc.com.cn/hls/tv/26_370917.m3u8
+#EXTINF:-1 group-title="央卫国际",安化综合
+https://liveplay-srs.voc.com.cn/hls/tv/204_16cb0f.m3u8
+#EXTINF:-1 group-title="央卫国际",龙山综合
+https://liveplay-srs.voc.com.cn/hls/tv/146_f067fe.m3u8
+#EXTINF:-1 group-title="央卫国际",永兴综合
+https://liveplay-srs.voc.com.cn/hls/tv/40_1d0ed0.m3u8
 #EXTINF:-1 group-title="央卫国际",长沙新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/hunan/hunan.php?id=csxwzh
-#EXTINF:-1 group-title="央卫国际",长沙政法频道
-http://140.210.9.18:8800/SuanFaZhibo/live5/hunan/hunan.php?id=cszfpd
-#EXTINF:-1 group-title="央卫国际",快乐购
-http://140.210.9.18:8800/SuanFaZhibo/live5/hunan/hunan.php?id=klg
-#EXTINF:-1 group-title="央卫国际",邵阳新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/hunan/shaoyang.php?id=syxwzh
-#EXTINF:-1 group-title="央卫国际",邵阳公共
-http://140.210.9.18:8800/SuanFaZhibo/live5/hunan/shaoyang.php?id=sygg
-#EXTINF:-1 group-title="央卫国际",襄阳综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/hubei/hubei.php?id=xyzh
-#EXTINF:-1 group-title="央卫国际",襄阳经济生活
-http://140.210.9.18:8800/SuanFaZhibo/live5/hubei/hubei.php?id=xysh
-#EXTINF:-1 group-title="央卫国际",襄阳公共
-http://140.210.9.18:8800/SuanFaZhibo/live5/hubei/hubei.php?id=xygg
-#EXTINF:-1 group-title="央卫国际",十堰新闻频道
-http://140.210.9.18:8800/SuanFaZhibo/live5/hubei/shiyan.php?id=1
-#EXTINF:-1 group-title="央卫国际",十堰经济频道
-http://140.210.9.18:8800/SuanFaZhibo/live5/hubei/shiyan.php?id=3
-#EXTINF:-1 group-title="央卫国际",随州综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/hubei/suizhou.php?id=szzh
-#EXTINF:-1 group-title="央卫国际",安麓综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/hubei/anlu.php?id=altv
-#EXTINF:-1 group-title="央卫国际",江西经视高清
-http://140.210.9.18:8800/SuanFaZhibo/live5/jiangxi/jiangxi.php?id=jxjs
-#EXTINF:-1 group-title="央卫国际",江西少儿
-http://140.210.9.18:8800/SuanFaZhibo/live5/jiangxi/jiangxi.php?id=jxse
-#EXTINF:-1 group-title="央卫国际",江西新闻
-http://140.210.9.18:8800/SuanFaZhibo/live5/jiangxi/jiangxi.php?id=jxxw
-#EXTINF:-1 group-title="央卫国际",江西移动
-http://140.210.9.18:8800/SuanFaZhibo/live5/jiangxi/jiangxi.php?id=jxyd
-#EXTINF:-1 group-title="央卫国际",江西风尚购物
-http://140.210.9.18:8800/SuanFaZhibo/live5/jiangxi/jiangxi.php?id=fsgw
-#EXTINF:-1 group-title="央卫国际",江西陶瓷
-http://140.210.9.18:8800/SuanFaZhibo/live5/jiangxi/jiangxi.php?id=jxtc
-#EXTINF:-1 group-title="央卫国际",九江综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/jiangxi/jiujiang.php?id=jjxwzh
-#EXTINF:-1 group-title="央卫国际",九江公共
-http://140.210.9.18:8800/SuanFaZhibo/live5/jiangxi/jiujiang.php?id=jjgg
-#EXTINF:-1 group-title="央卫国际",九江教育
-http://140.210.9.18:8800/SuanFaZhibo/live5/jiangxi/jiujiang.php?id=jjjy
-#EXTINF:-1 group-title="央卫国际",成都新闻综合HD
-http://140.210.9.18:8800/SuanFaZhibo/live5/sichuan/chengdu.php?id=cdxw
-#EXTINF:-1 group-title="央卫国际",成都经济资讯HD
-http://140.210.9.18:8800/SuanFaZhibo/live5/sichuan/chengdu.php?id=cdjj
-#EXTINF:-1 group-title="央卫国际",成都都市生活HD
-http://140.210.9.18:8800/SuanFaZhibo/live5/sichuan/chengdu.php?id=cdsh
-#EXTINF:-1 group-title="央卫国际",成都公共HD
-http://140.210.9.18:8800/SuanFaZhibo/live5/sichuan/chengdu.php?id=cdgg
-#EXTINF:-1 group-title="央卫国际",成都少儿HD
-http://140.210.9.18:8800/SuanFaZhibo/live5/sichuan/chengdu.php?id=cdse
-#EXTINF:-1 group-title="央卫国际",成都蓉城先锋HD
-http://140.210.9.18:8800/SuanFaZhibo/live5/sichuan/chengdu.php?id=cdrc
-#EXTINF:-1 group-title="央卫国际",金牛电视台
-http://140.210.9.18:8800/SuanFaZhibo/live5/sichuan/chengdu.php?id=jntv
-#EXTINF:-1 group-title="央卫国际",成都简阳新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/sichuan/difang.php?id=cd_jy1
-#EXTINF:-1 group-title="央卫国际",绵阳江油新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/sichuan/difang.php?id=my_jy1
-#EXTINF:-1 group-title="央卫国际",绵阳北川综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/sichuan/difang.php?id=my_bc1
-#EXTINF:-1 group-title="央卫国际",绵阳盐亭综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/sichuan/difang.php?id=my_yt1
-#EXTINF:-1 group-title="央卫国际",阿坝新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/sichuan/difang.php?id=ab1
-#EXTINF:-1 group-title="央卫国际",阿坝藏语综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/sichuan/difang.php?id=ab2
-#EXTINF:-1 group-title="央卫国际",阿坝若尔盖综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/sichuan/difang.php?id=ab_reg1
-#EXTINF:-1 group-title="央卫国际",内江东兴新闻
-http://140.210.9.18:8800/SuanFaZhibo/live5/sichuan/difang.php?id=nj_dx1
-#EXTINF:-1 group-title="央卫国际",内江资中综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/sichuan/difang.php?id=nj_zz1
-#EXTINF:-1 group-title="央卫国际",凉山甘洛综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/sichuan/difang.php?id=ls_gl1
-#EXTINF:-1 group-title="央卫国际",广安武胜综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/sichuan/difang.php?id=ga_ws1
-#EXTINF:-1 group-title="央卫国际",眉山丹棱综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/sichuan/difang.php?id=ms_dl1
-#EXTINF:-1 group-title="央卫国际",遂宁蓬溪新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/sichuan/difang.php?id=sn_px1
-#EXTINF:-1 group-title="央卫国际",南充综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/sichuan/difang.php?id=nc1
-#EXTINF:-1 group-title="央卫国际",南充科教生活
-http://140.210.9.18:8800/SuanFaZhibo/live5/sichuan/difang.php?id=nc2
-#EXTINF:-1 group-title="央卫国际",康旅频道
-http://140.210.9.18:8800/SuanFaZhibo/live5/yunnan/yunnan.php?id=ynkl
-#EXTINF:-1 group-title="央卫国际",云南卫视
-http://140.210.9.18:8800/SuanFaZhibo/live5/yunnan/yunnan2.php?id=ynws
-#EXTINF:-1 group-title="央卫国际",耿马综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/yunnan/yunnan2.php?id=gmzh
-#EXTINF:-1 group-title="央卫国际",龙陵综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/yunnan/yunnan2.php?id=llzh
-#EXTINF:-1 group-title="央卫国际",隆阳综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/yunnan/yunnan2.php?id=lyzh
-#EXTINF:-1 group-title="央卫国际",玉溪新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/yunnan/yunnan2.php?id=yxzh
-#EXTINF:-1 group-title="央卫国际",玉溪社会与法
-http://140.210.9.18:8800/SuanFaZhibo/live5/yunnan/yunnan2.php?id=yxsf
-#EXTINF:-1 group-title="央卫国际",贵州卫视
-http://140.210.9.18:8800/SuanFaZhibo/live5/guizhou/guizhou.php?id=gzws
-#EXTINF:-1 group-title="央卫国际",贵州公共
-http://140.210.9.18:8800/SuanFaZhibo/live5/guizhou/guizhou.php?id=gzgg
-#EXTINF:-1 group-title="央卫国际",贵州影视
-http://140.210.9.18:8800/SuanFaZhibo/live5/guizhou/guizhou.php?id=gzwy
-#EXTINF:-1 group-title="央卫国际",贵州生活
-http://140.210.9.18:8800/SuanFaZhibo/live5/guizhou/guizhou.php?id=gzsh
-#EXTINF:-1 group-title="央卫国际",贵州法制
-http://140.210.9.18:8800/SuanFaZhibo/live5/guizhou/guizhou.php?id=gzfz
-#EXTINF:-1 group-title="央卫国际",贵州科教
-http://140.210.9.18:8800/SuanFaZhibo/live5/guizhou/guizhou.php?id=gzkj
-#EXTINF:-1 group-title="央卫国际",贵州经济
-http://140.210.9.18:8800/SuanFaZhibo/live5/guizhou/guizhou.php?id=gzjj
-#EXTINF:-1 group-title="央卫国际",贵州家有购物
-http://140.210.9.18:8800/SuanFaZhibo/live5/guizhou/guizhou.php?id=gzjygw
-#EXTINF:-1 group-title="央卫国际",贵州移动
-http://140.210.9.18:8800/SuanFaZhibo/live5/guizhou/guizhou.php?id=gzyd
-#EXTINF:-1 group-title="央卫国际",仁怀频道
-http://140.210.9.18:8800/SuanFaZhibo/live5/guizhou/renhuai.php
-#EXTINF:-1 group-title="央卫国际",陕西卫视
-http://140.210.9.18:8800/SuanFaZhibo/live5/shanxi2/shanxi.php?id=sxws
-#EXTINF:-1 group-title="央卫国际",农林卫视
-http://140.210.9.18:8800/SuanFaZhibo/live5/shanxi2/shanxi.php?id=nlws
-#EXTINF:-1 group-title="央卫国际",陕西新闻资讯
-http://140.210.9.18:8800/SuanFaZhibo/live5/shanxi2/shanxi.php?id=sxxwzx
-#EXTINF:-1 group-title="央卫国际",陕西都市青春
-http://140.210.9.18:8800/SuanFaZhibo/live5/shanxi2/shanxi.php?id=sxdsqc
-#EXTINF:-1 group-title="央卫国际",陕西银龄
-http://140.210.9.18:8800/SuanFaZhibo/live5/shanxi2/shanxi.php?id=sxyl
-#EXTINF:-1 group-title="央卫国际",陕西秦腔
-http://140.210.9.18:8800/SuanFaZhibo/live5/shanxi2/shanxi.php?id=sxqq
-#EXTINF:-1 group-title="央卫国际",陕西乐家购物
-http://140.210.9.18:8800/SuanFaZhibo/live5/shanxi2/shanxi.php?id=ljgw
-#EXTINF:-1 group-title="央卫国际",陕西体育休闲
-http://140.210.9.18:8800/SuanFaZhibo/live5/shanxi2/shanxi.php?id=sxtyxx
-#EXTINF:-1 group-title="央卫国际",陕西移动
-http://140.210.9.18:8800/SuanFaZhibo/live5/shanxi2/shanxi.php?id=sxyd
-#EXTINF:-1 group-title="央卫国际",西安新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shanxi2/xian.php?id=xazh
-#EXTINF:-1 group-title="央卫国际",西安都市
-http://140.210.9.18:8800/SuanFaZhibo/live5/shanxi2/xian.php?id=xads
-#EXTINF:-1 group-title="央卫国际",西安商务资讯
-http://140.210.9.18:8800/SuanFaZhibo/live5/shanxi2/xian.php?id=xasw
-#EXTINF:-1 group-title="央卫国际",西安影视
-http://140.210.9.18:8800/SuanFaZhibo/live5/shanxi2/xian.php?id=xays
-#EXTINF:-1 group-title="央卫国际",西安丝路
-http://140.210.9.18:8800/SuanFaZhibo/live5/shanxi2/xian.php?id=xasl
-#EXTINF:-1 group-title="央卫国际",西安乐购购物
-http://140.210.9.18:8800/SuanFaZhibo/live5/shanxi2/xian.php?id=xagw
-#EXTINF:-1 group-title="央卫国际",西安移动电视
-http://140.210.9.18:8800/SuanFaZhibo/live5/shanxi2/xian.php?id=xayd
-#EXTINF:-1 group-title="央卫国际",咸阳综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shanxi2/xianyang.php?id=xyzh
-#EXTINF:-1 group-title="央卫国际",咸阳公共
-http://140.210.9.18:8800/SuanFaZhibo/live5/shanxi2/xianyang.php?id=xygg
-#EXTINF:-1 group-title="央卫国际",安徽经济生活
-http://140.210.9.18:8800/SuanFaZhibo/live5/anhui/anhui.php?id=ahjjsh
-#EXTINF:-1 group-title="央卫国际",安徽综艺体育
-http://140.210.9.18:8800/SuanFaZhibo/live5/anhui/anhui.php?id=ahzyty
-#EXTINF:-1 group-title="央卫国际",安徽影视
-http://140.210.9.18:8800/SuanFaZhibo/live5/anhui/anhui.php?id=ahys
-#EXTINF:-1 group-title="央卫国际",安徽公共
-http://140.210.9.18:8800/SuanFaZhibo/live5/anhui/anhui.php?id=ahgg
-#EXTINF:-1 group-title="央卫国际",安徽农业科教
-http://140.210.9.18:8800/SuanFaZhibo/live5/anhui/anhui.php?id=ahnykj
-#EXTINF:-1 group-title="央卫国际",安徽国际
-http://140.210.9.18:8800/SuanFaZhibo/live5/anhui/anhui.php?id=ahgj
-#EXTINF:-1 group-title="央卫国际",安徽移动
-http://140.210.9.18:8800/SuanFaZhibo/live5/anhui/anhui.php?id=ahyd
-#EXTINF:-1 group-title="央卫国际",安庆新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/anhui/anhuishixun.php?id=aqxwzh
-#EXTINF:-1 group-title="央卫国际",六安综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/anhui/anhuishixun.php?id=lazh
-#EXTINF:-1 group-title="央卫国际",亳州综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/anhui/bozhou.php?id=bzzh
-#EXTINF:-1 group-title="央卫国际",亳州农村
-http://140.210.9.18:8800/SuanFaZhibo/live5/anhui/bozhou.php?id=bznc
-#EXTINF:-1 group-title="央卫国际",芜湖新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/anhui/wuhu.php?id=whxwzh
-#EXTINF:-1 group-title="央卫国际",芜湖生活
-http://140.210.9.18:8800/SuanFaZhibo/live5/anhui/wuhu.php?id=whsh
-#EXTINF:-1 group-title="央卫国际",新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/fujian/ningde.php?id=41
-#EXTINF:-1 group-title="央卫国际",文化旅游
-http://140.210.9.18:8800/SuanFaZhibo/live5/fujian/ningde.php?id=42
-#EXTINF:-1 group-title="央卫国际",莆田新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/fujian/putian.php?id=pttv1
-#EXTINF:-1 group-title="央卫国际",莆田2
-http://140.210.9.18:8800/SuanFaZhibo/live5/fujian/putian.php?id=pttv2
-#EXTINF:-1 group-title="央卫国际",泉州新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/fujian/quanzhou.php?id=qzzh
-#EXTINF:-1 group-title="央卫国际",泉州闽南语
-http://140.210.9.18:8800/SuanFaZhibo/live5/fujian/quanzhou.php?id=qzmny
-#EXTINF:-1 group-title="央卫国际",高邑融媒
-http://140.210.9.18:8800/SuanFaZhibo/live5/hebei/baoding.php?id=gy1
-#EXTINF:-1 group-title="央卫国际",鹿泉综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/hebei/baoding.php?id=lq1
-#EXTINF:-1 group-title="央卫国际",鹿泉电视台
-http://140.210.9.18:8800/SuanFaZhibo/live5/hebei/baoding.php?id=lq2
-#EXTINF:-1 group-title="央卫国际",保定新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/hebei/baoding.php?id=bd1
-#EXTINF:-1 group-title="央卫国际",保定公共x
-http://140.210.9.18:8800/SuanFaZhibo/live5/hebei/baoding.php?id=bd2
-#EXTINF:-1 group-title="央卫国际",保定生活健康
-http://140.210.9.18:8800/SuanFaZhibo/live5/hebei/baoding.php?id=bd3
-#EXTINF:-1 group-title="央卫国际",定州新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/hebei/baoding.php?id=dz1
-#EXTINF:-1 group-title="央卫国际",定州生活
-http://140.210.9.18:8800/SuanFaZhibo/live5/hebei/baoding.php?id=dz2
-#EXTINF:-1 group-title="央卫国际",定州国学影视
-http://140.210.9.18:8800/SuanFaZhibo/live5/hebei/baoding.php?id=dz3
-#EXTINF:-1 group-title="央卫国际",涞水综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/hebei/baoding.php?id=ls1
-#EXTINF:-1 group-title="央卫国际",清苑新闻
-http://140.210.9.18:8800/SuanFaZhibo/live5/hebei/baoding.php?id=qy1
-#EXTINF:-1 group-title="央卫国际",清苑生活
-http://140.210.9.18:8800/SuanFaZhibo/live5/hebei/baoding.php?id=qy2
-#EXTINF:-1 group-title="央卫国际",望都TV1套
-http://140.210.9.18:8800/SuanFaZhibo/live5/hebei/baoding.php?id=wd1
-#EXTINF:-1 group-title="央卫国际",徐水TV1套
-http://140.210.9.18:8800/SuanFaZhibo/live5/hebei/baoding.php?id=xs1
-#EXTINF:-1 group-title="央卫国际",承德新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/hebei/baoding.php?id=cd1
-#EXTINF:-1 group-title="央卫国际",承德旅游文化
-http://140.210.9.18:8800/SuanFaZhibo/live5/hebei/baoding.php?id=cd2
-#EXTINF:-1 group-title="央卫国际",丰宁综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/hebei/baoding.php?id=fn1
-#EXTINF:-1 group-title="央卫国际",平泉综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/hebei/baoding.php?id=pq1
-#EXTINF:-1 group-title="央卫国际",平泉平泉影视
-http://140.210.9.18:8800/SuanFaZhibo/live5/hebei/baoding.php?id=pq2
-#EXTINF:-1 group-title="央卫国际",双滦新闻
-http://140.210.9.18:8800/SuanFaZhibo/live5/hebei/baoding.php?id=sl1
-#EXTINF:-1 group-title="央卫国际",兴隆综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/hebei/baoding.php?id=xl1
-#EXTINF:-1 group-title="央卫国际",南皮综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/hebei/baoding.php?id=np1
-#EXTINF:-1 group-title="央卫国际",青县一套
-http://140.210.9.18:8800/SuanFaZhibo/live5/hebei/baoding.php?id=qx
-#EXTINF:-1 group-title="央卫国际",任丘一套
-http://140.210.9.18:8800/SuanFaZhibo/live5/hebei/baoding.php?id=rq1
-#EXTINF:-1 group-title="央卫国际",邯郸公共
-http://140.210.9.18:8800/SuanFaZhibo/live5/hebei/baoding.php?id=hd1
-#EXTINF:-1 group-title="央卫国际",邯郸科教
-http://140.210.9.18:8800/SuanFaZhibo/live5/hebei/baoding.php?id=hd2
-#EXTINF:-1 group-title="央卫国际",成安综合x
-http://140.210.9.18:8800/SuanFaZhibo/live5/hebei/baoding.php?id=hd3
-#EXTINF:-1 group-title="央卫国际",昌黎电视台
-http://140.210.9.18:8800/SuanFaZhibo/live5/hebei/baoding.php?id=cl1
-#EXTINF:-1 group-title="央卫国际",迁西综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/hebei/baoding.php?id=qx1
-#EXTINF:-1 group-title="央卫国际",邢台城市生活
-http://140.210.9.18:8800/SuanFaZhibo/live5/hebei/baoding.php?id=xt2
-#EXTINF:-1 group-title="央卫国际",临西生活
-http://140.210.9.18:8800/SuanFaZhibo/live5/hebei/baoding.php?id=lx2
-#EXTINF:-1 group-title="央卫国际",南宫一套
-http://140.210.9.18:8800/SuanFaZhibo/live5/hebei/baoding.php?id=ng1
-#EXTINF:-1 group-title="央卫国际",南和综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/hebei/baoding.php?id=nh1
-#EXTINF:-1 group-title="央卫国际",南和影视
-http://140.210.9.18:8800/SuanFaZhibo/live5/hebei/baoding.php?id=nh2
-#EXTINF:-1 group-title="央卫国际",清河经济综艺
-http://140.210.9.18:8800/SuanFaZhibo/live5/hebei/baoding.php?id=qh2
-#EXTINF:-1 group-title="央卫国际",石家庄新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/hebei/shijiazhuang.php?id=sjzxwzh
-#EXTINF:-1 group-title="央卫国际",石家庄城市服务
-http://140.210.9.18:8800/SuanFaZhibo/live5/hebei/shijiazhuang.php?id=sjzcsfw
-#EXTINF:-1 group-title="央卫国际",石家庄文化娱乐
-http://140.210.9.18:8800/SuanFaZhibo/live5/hebei/shijiazhuang.php?id=sjzwhyl
-#EXTINF:-1 group-title="央卫国际",河南卫视
-http://140.210.9.18:8800/SuanFaZhibo/live5/henan/henan.php?id=hnws
-#EXTINF:-1 group-title="央卫国际",河南都市
-http://140.210.9.18:8800/SuanFaZhibo/live5/henan/henan.php?id=hnds
-#EXTINF:-1 group-title="央卫国际",河南民生
-http://140.210.9.18:8800/SuanFaZhibo/live5/henan/henan.php?id=hnms
-#EXTINF:-1 group-title="央卫国际",河南法治
-http://140.210.9.18:8800/SuanFaZhibo/live5/henan/henan.php?id=hmfz
-#EXTINF:-1 group-title="央卫国际",河南电视剧
-http://140.210.9.18:8800/SuanFaZhibo/live5/henan/henan.php?id=hndsj
-#EXTINF:-1 group-title="央卫国际",河南新闻
-http://140.210.9.18:8800/SuanFaZhibo/live5/henan/henan.php?id=hnxw
-#EXTINF:-1 group-title="央卫国际",欢腾购物
-http://140.210.9.18:8800/SuanFaZhibo/live5/henan/henan.php?id=htgw
-#EXTINF:-1 group-title="央卫国际",河南公共
-http://140.210.9.18:8800/SuanFaZhibo/live5/henan/henan.php?id=hngg
-#EXTINF:-1 group-title="央卫国际",河南乡村
-http://140.210.9.18:8800/SuanFaZhibo/live5/henan/henan.php?id=hnxc
-#EXTINF:-1 group-title="央卫国际",河南梨园
-http://140.210.9.18:8800/SuanFaZhibo/live5/henan/henan.php?id=hnly
-#EXTINF:-1 group-title="央卫国际",文物宝库
-http://140.210.9.18:8800/SuanFaZhibo/live5/henan/henan.php?id=wwbk
-#EXTINF:-1 group-title="央卫国际",武术世界
-http://140.210.9.18:8800/SuanFaZhibo/live5/henan/henan.php?id=wspd
-#EXTINF:-1 group-title="央卫国际",睛彩中原
-http://140.210.9.18:8800/SuanFaZhibo/live5/henan/henan.php?id=jczy
-#EXTINF:-1 group-title="央卫国际",移动戏曲
-http://140.210.9.18:8800/SuanFaZhibo/live5/henan/henan.php?id=ydxj
-#EXTINF:-1 group-title="央卫国际",象视界
-http://140.210.9.18:8800/SuanFaZhibo/live5/henan/henan.php?id=xsj
-#EXTINF:-1 group-title="央卫国际",开封新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/henan/henan.php?id=kf1
-#EXTINF:-1 group-title="央卫国际",洛阳新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/henan/henan.php?id=ly1
-#EXTINF:-1 group-title="央卫国际",安阳新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/henan/henan.php?id=ay1
-#EXTINF:-1 group-title="央卫国际",鹤壁新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/henan/henan.php?id=hb1
-#EXTINF:-1 group-title="央卫国际",新乡新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/henan/henan.php?id=xx1
-#EXTINF:-1 group-title="央卫国际",焦作新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/henan/henan.php?id=jz1
-#EXTINF:-1 group-title="央卫国际",濮阳新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/henan/henan.php?id=py1
-#EXTINF:-1 group-title="央卫国际",许昌新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/henan/henan.php?id=xc1
-#EXTINF:-1 group-title="央卫国际",漯河新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/henan/henan.php?id=lh1
-#EXTINF:-1 group-title="央卫国际",三门峡新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/henan/henan.php?id=smx1
-#EXTINF:-1 group-title="央卫国际",南阳新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/henan/henan.php?id=ny1
-#EXTINF:-1 group-title="央卫国际",商丘新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/henan/henan.php?id=sq1
-#EXTINF:-1 group-title="央卫国际",信阳新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/henan/henan.php?id=xy1
-#EXTINF:-1 group-title="央卫国际",周口新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/henan/henan.php?id=zk1
+https://liveplay-srs.voc.com.cn/hls/tv/203_10cdf5.m3u8
+#EXTINF:-1 group-title="央卫国际",南县综合
+http://hnstnx.chinashadt.com:2037/live/10001.stream_360p/playlist.m3u8
+#EXTINF:-1 group-title="央卫国际",黄陂新闻
+http://livehprm.hptv.com.cn/zbpd/sd/live.m3u8
+#EXTINF:-1 group-title="央卫国际",湘潭新闻综合
+http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
+#EXTINF:-1 group-title="央卫国际",湘潭公共
+http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8
+#EXTINF:-1 group-title="央卫国际",沅陵新闻综合
+https://liveplay-yuanling.rednet.cn/live/YL-TV.m3u8
+#EXTINF:-1 group-title="央卫国际",长沙县新闻综合
+https://liveplay-srs.voc.com.cn/hls/tv/203_10cdf5.m3u8
+#EXTINF:-1 group-title="央卫国际",湘潭新闻综合
+http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
+#EXTINF:-1 group-title="央卫国际",湘潭公共频道
+http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8
+#EXTINF:-1 group-title="央卫国际",湘潭新闻综合
+http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8?zhund
+#EXTINF:-1 group-title="央卫国际",湘潭公共频道
+http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8?zhund
+#EXTINF:-1 group-title="央卫国际",广东移动
+http://php.jdshipin.com:8880/PLTV/chudian.php?id=gdyd
+#EXTINF:-1 group-title="央卫国际",广州综合
+http://php.jdshipin.com:8880/gztv.php?id=zhonghe
+#EXTINF:-1 group-title="央卫国际",广州新闻
+http://php.jdshipin.com:8880/gztv.php?id=xinwen
+#EXTINF:-1 group-title="央卫国际",广州竞赛
+http://php.jdshipin.com:8880/gztv.php?id=jingsai
+#EXTINF:-1 group-title="央卫国际",广州影视
+http://php.jdshipin.com:8880/gztv.php?id=yingshi
+#EXTINF:-1 group-title="央卫国际",广州法治
+http://php.jdshipin.com:8880/gztv.php?id=fazhi
+#EXTINF:-1 group-title="央卫国际",广州南国都市
+http://php.jdshipin.com:8880/gztv.php?id=shenghuo
+#EXTINF:-1 group-title="央卫国际",广州综合
+http://r.jdshipin.com/snhya
+#EXTINF:-1 group-title="央卫国际",广州影视
+http://r.jdshipin.com/sFw4S
+#EXTINF:-1 group-title="央卫国际",东莞新闻综合
+http://php.jdshipin.com:8880/0769.php?id=xwzh
+#EXTINF:-1 group-title="央卫国际",东莞生活资讯
+http://php.jdshipin.com:8880/0769.php?id=shzx
+#EXTINF:-1 group-title="央卫国际",佛山综合
+http://php.jdshipin.com:8880/fstv.php?id=fszh
+#EXTINF:-1 group-title="央卫国际",佛山影视
+http://php.jdshipin.com:8880/fstv.php?id=fsys
+#EXTINF:-1 group-title="央卫国际",佛山公共
+http://php.jdshipin.com:8880/fstv.php?id=fsgg
+#EXTINF:-1 group-title="央卫国际",佛山南海
+http://php.jdshipin.com:8880/fstv.php?id=fsnh
+#EXTINF:-1 group-title="央卫国际",佛山顺德
+http://php.jdshipin.com:8880/fstv.php?id=fssd
+#EXTINF:-1 group-title="央卫国际",佛山高明
+http://php.jdshipin.com:8880/fstv.php?id=fsgm
+#EXTINF:-1 group-title="央卫国际",佛山三水
+http://php.jdshipin.com:8880/fstv.php?id=fsss
+#EXTINF:-1 group-title="央卫国际",云浮综合
+https://livestream.oeeee.com/slive/17806.m3u8
+#EXTINF:-1 group-title="央卫国际",云浮文旅
+https://livestream.oeeee.com/slive/17807.m3u8
+#EXTINF:-1 group-title="央卫国际",河源综合
+http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
+#EXTINF:-1 group-title="央卫国际",河源公共
+http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
+#EXTINF:-1 group-title="央卫国际",潮州综合
+http://time-vod-qhlive.sobeylive.com/czbtv2019/czzhpd.m3u8
+#EXTINF:-1 group-title="央卫国际",潮州民生
+http://time-vod-qhlive.sobeylive.com/czbtv2019/czggpd.m3u8
+#EXTINF:-1 group-title="央卫国际",汕头综合
+http://php.jdshipin.com:8880/PLTV/iptv.php?id=stzh
+#EXTINF:-1 group-title="央卫国际",肇庆公共
+http://php.jdshipin.com:8880/PLTV/chudian.php?id=zqgg
+#EXTINF:-1 group-title="央卫国际",广宁综合
+http://php.jdshipin.com:8880/PLTV/chudian.php?id=gnzh
+#EXTINF:-1 group-title="央卫国际",怀集综合
+http://php.jdshipin.com:8880/PLTV/chudian.php?id=hjzh
+#EXTINF:-1 group-title="央卫国际",东莞新闻综合
+http://php.jdshipin.com:8880/PLTV/chudian.php?id=dgxw
+#EXTINF:-1 group-title="央卫国际",东莞生活资讯
+http://php.jdshipin.com:8880/PLTV/chudian.php?id=dggg
+#EXTINF:-1 group-title="央卫国际",惠阳台
+http://php.jdshipin.com:8880/PLTV/chudian.php?id=hyt
+#EXTINF:-1 group-title="央卫国际",惠东台
+http://php.jdshipin.com:8880/PLTV/chudian.php?id=hdt
+#EXTINF:-1 group-title="央卫国际",梅州综合
+http://php.jdshipin.com:8880/PLTV/chudian.php?id=mzzh
+#EXTINF:-1 group-title="央卫国际",河源综合
+http://php.jdshipin.com:8880/PLTV/chudian.php?id=hyzh
+#EXTINF:-1 group-title="央卫国际",河源公共
+http://php.jdshipin.com:8880/PLTV/chudian.php?id=hygg
+#EXTINF:-1 group-title="央卫国际",连平台
+http://php.jdshipin.com:8880/PLTV/chudian.php?id=lpt
+#EXTINF:-1 group-title="央卫国际",紫金台
+http://php.jdshipin.com:8880/PLTV/chudian.php?id=zjt
+#EXTINF:-1 group-title="央卫国际",东源台
+http://php.jdshipin.com:8880/PLTV/chudian.php?id=dyt
+#EXTINF:-1 group-title="央卫国际",阳江1
+http://php.jdshipin.com:8880/PLTV/chudian.php?id=yjtv1
+#EXTINF:-1 group-title="央卫国际",阳江2
+http://php.jdshipin.com:8880/PLTV/chudian.php?id=yjtv2
+#EXTINF:-1 group-title="央卫国际",阳春台
+http://php.jdshipin.com:8880/PLTV/chudian.php?id=yct
+#EXTINF:-1 group-title="央卫国际",阳西综合
+http://php.jdshipin.com:8880/PLTV/chudian.php?id=yxzh
+#EXTINF:-1 group-title="央卫国际",开平综合
+http://php.jdshipin.com:8880/PLTV/chudian.php?id=kpzh
+#EXTINF:-1 group-title="央卫国际",开平生活
+http://php.jdshipin.com:8880/PLTV/chudian.php?id=kpsh
+#EXTINF:-1 group-title="央卫国际",台山台
+http://php.jdshipin.com:8880/PLTV/chudian.php?id=tst
+#EXTINF:-1 group-title="央卫国际",新会台
+http://php.jdshipin.com:8880/PLTV/chudian.php?id=xht
+#EXTINF:-1 group-title="央卫国际",化州综合
+http://php.jdshipin.com:8880/PLTV/chudian.php?id=hzzh
+#EXTINF:-1 group-title="央卫国际",信宜综合
+http://php.jdshipin.com:8880/PLTV/chudian.php?id=xyzh
+#EXTINF:-1 group-title="央卫国际",廉江台
+http://php.jdshipin.com:8880/PLTV/chudian.php?id=ljt
+#EXTINF:-1 group-title="央卫国际",遂溪台
+http://php.jdshipin.com:8880/PLTV/chudian.php?id=sxt
+#EXTINF:-1 group-title="央卫国际",英德新闻综合
+http://php.jdshipin.com:8880/PLTV/chudian.php?id=ydxwzh
+#EXTINF:-1 group-title="央卫国际",连州综合
+http://php.jdshipin.com:8880/PLTV/chudian.php?id=lzzh
+#EXTINF:-1 group-title="央卫国际",佛冈综合
+http://php.jdshipin.com:8880/PLTV/chudian.php?id=fgzh
+#EXTINF:-1 group-title="央卫国际",普宁综合
+http://php.jdshipin.com:8880/PLTV/chudian.php?id=pnzh
+#EXTINF:-1 group-title="央卫国际",潮安综合
+http://php.jdshipin.com:8880/PLTV/chudian.php?id=cazh
+#EXTINF:-1 group-title="央卫国际",罗定台
+http://php.jdshipin.com:8880/PLTV/chudian.php?id=ldt
+#EXTINF:-1 group-title="央卫国际",乐昌台
+http://php.jdshipin.com:8880/PLTV/chudian.php?id=lct
 #EXTINF:-1 group-title="央卫国际",驻马店新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/henan/henan.php?id=zmd1
-#EXTINF:-1 group-title="央卫国际",郑州新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/henan/zhengzhou.php?id=zzxwzh
-#EXTINF:-1 group-title="央卫国际",郑州商都频道
-http://140.210.9.18:8800/SuanFaZhibo/live5/henan/zhengzhou.php?id=zzsd
-#EXTINF:-1 group-title="央卫国际",郑州文体旅游
-http://140.210.9.18:8800/SuanFaZhibo/live5/henan/zhengzhou.php?id=zzwtly
-#EXTINF:-1 group-title="央卫国际",郑州豫剧频道
-http://140.210.9.18:8800/SuanFaZhibo/live5/henan/zhengzhou.php?id=zzyj
-#EXTINF:-1 group-title="央卫国际",郑州都市生活
-http://140.210.9.18:8800/SuanFaZhibo/live5/henan/zhengzhou.php?id=zzdssh
-#EXTINF:-1 group-title="央卫国际",南阳新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/henan/nanyang.php?id=nyxwzh
-#EXTINF:-1 group-title="央卫国际",南阳科技
-http://140.210.9.18:8800/SuanFaZhibo/live5/henan/nanyang.php?id=nykj
-#EXTINF:-1 group-title="央卫国际",齐齐哈尔新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/heilongjiang/qiqihaer.php?id=qqhexwzh
-#EXTINF:-1 group-title="央卫国际",齐齐哈尔经济法治
-http://140.210.9.18:8800/SuanFaZhibo/live5/heilongjiang/qiqihaer.php?id=qqhejjfz
-#EXTINF:-1 group-title="央卫国际",七台河新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/heilongjiang/qitaihe.php?id=zh
-#EXTINF:-1 group-title="央卫国际",七台河民生科教
-http://140.210.9.18:8800/SuanFaZhibo/live5/heilongjiang/qitaihe.php?id=gg
-#EXTINF:-1 group-title="央卫国际",吉林卫视
-http://140.210.9.18:8800/SuanFaZhibo/live5/jilin/jilin.php?id=jlws
-#EXTINF:-1 group-title="央卫国际",吉林都市
-http://140.210.9.18:8800/SuanFaZhibo/live5/jilin/jilin.php?id=jlds
-#EXTINF:-1 group-title="央卫国际",吉林生活
-http://140.210.9.18:8800/SuanFaZhibo/live5/jilin/jilin.php?id=jlsh
-#EXTINF:-1 group-title="央卫国际",吉林影视
-http://140.210.9.18:8800/SuanFaZhibo/live5/jilin/jilin.php?id=jlys
-#EXTINF:-1 group-title="央卫国际",吉林乡村
-http://140.210.9.18:8800/SuanFaZhibo/live5/jilin/jilin.php?id=jlxc
-#EXTINF:-1 group-title="央卫国际",吉林综艺·文化
-http://140.210.9.18:8800/SuanFaZhibo/live5/jilin/jilin.php?id=jlzywh
-#EXTINF:-1 group-title="央卫国际",梅河口综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/jilin/tonghua.php?id=thmhkzh
-#EXTINF:-1 group-title="央卫国际",大连新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/liaoning/dalian.php?id=dlzh
-#EXTINF:-1 group-title="央卫国际",大连生活
-http://140.210.9.18:8800/SuanFaZhibo/live5/liaoning/dalian.php?id=dlsh
-#EXTINF:-1 group-title="央卫国际",大连文体
-http://140.210.9.18:8800/SuanFaZhibo/live5/liaoning/dalian.php?id=dlwt
-#EXTINF:-1 group-title="央卫国际",大连乐天购物
-http://140.210.9.18:8800/SuanFaZhibo/live5/liaoning/dalian.php?id=dlgw
-#EXTINF:-1 group-title="央卫国际",济南新闻综合频道
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/jinan.php?id=1676
-#EXTINF:-1 group-title="央卫国际",济南都市频道
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/jinan.php?id=1807
-#EXTINF:-1 group-title="央卫国际",济南文旅体育频道
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/jinan.php?id=1842
-#EXTINF:-1 group-title="央卫国际",济南生活频道
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/jinan.php?id=1855
-#EXTINF:-1 group-title="央卫国际",济南少儿频道
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/jinan.php?id=2234
-#EXTINF:-1 group-title="央卫国际",济南鲁中频道
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/jinan.php?id=1857
-#EXTINF:-1 group-title="央卫国际",长清新闻
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=jncqxw
-#EXTINF:-1 group-title="央卫国际",济铁电视台
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=jnjrtv
-#EXTINF:-1 group-title="央卫国际",济阳综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=jnjyzh
-#EXTINF:-1 group-title="央卫国际",平阴综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=jnpyzh
-#EXTINF:-1 group-title="央卫国际",商河综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=jnshzh
-#EXTINF:-1 group-title="央卫国际",章丘综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=jnzqzh
-#EXTINF:-1 group-title="央卫国际",东营区新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=dydyqxw
-#EXTINF:-1 group-title="央卫国际",广饶综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=dygrzh
-#EXTINF:-1 group-title="央卫国际",利津综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=dyljzh
-#EXTINF:-1 group-title="央卫国际",城阳综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=qdcytv
-#EXTINF:-1 group-title="央卫国际",黄岛综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=qdhdzh
-#EXTINF:-1 group-title="央卫国际",即墨综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=qdjmzh
-#EXTINF:-1 group-title="央卫国际",胶州综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=qdjzzh
-#EXTINF:-1 group-title="央卫国际",李沧TV
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=qdlc
-#EXTINF:-1 group-title="央卫国际",崂山TV
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=qdls
-#EXTINF:-1 group-title="央卫国际",莱西综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=qdlxzh
-#EXTINF:-1 group-title="央卫国际",平度新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=qdpdxw
-#EXTINF:-1 group-title="央卫国际",潍坊新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=wfxwzh
-#EXTINF:-1 group-title="央卫国际",潍坊高新区
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=wfgxq
-#EXTINF:-1 group-title="央卫国际",安丘综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=wfaqzh
-#EXTINF:-1 group-title="央卫国际",滨海新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=wfbhxw
-#EXTINF:-1 group-title="央卫国际",昌乐综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=wfclzh
-#EXTINF:-1 group-title="央卫国际",寒亭新闻
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=wfhtxw
-#EXTINF:-1 group-title="央卫国际",奎文电视台
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=wfkwtv
-#EXTINF:-1 group-title="央卫国际",临朐新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=wflqzh
-#EXTINF:-1 group-title="央卫国际",青州综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=wfqzzh
-#EXTINF:-1 group-title="央卫国际",潍城TV
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=wfwc
-#EXTINF:-1 group-title="央卫国际",寿光综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=wfsgzh
-#EXTINF:-1 group-title="央卫国际",长岛TV
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=ytcd
-#EXTINF:-1 group-title="央卫国际",福山综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=ytfszh
-#EXTINF:-1 group-title="央卫国际",海阳综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=ythyzh
-#EXTINF:-1 group-title="央卫国际",龙口综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=ytlkzh
-#EXTINF:-1 group-title="央卫国际",莱山综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=ytlszh
-#EXTINF:-1 group-title="央卫国际",莱阳综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=ytlyzh
-#EXTINF:-1 group-title="央卫国际",莱州综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=ytlzzh
-#EXTINF:-1 group-title="央卫国际",牟平综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=ytmpzh
-#EXTINF:-1 group-title="央卫国际",栖霞综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=ytqxzh
-#EXTINF:-1 group-title="央卫国际",博山新闻
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=zbbsxw
-#EXTINF:-1 group-title="央卫国际",高青综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=zbgqzh
-#EXTINF:-1 group-title="央卫国际",桓台综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=zbht1
-#EXTINF:-1 group-title="央卫国际",临淄新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=zblzxw
-#EXTINF:-1 group-title="央卫国际",沂源综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=zbyyzh
-#EXTINF:-1 group-title="央卫国际",张店1
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=zbzd1
-#EXTINF:-1 group-title="央卫国际",山亭综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=zzstzh
-#EXTINF:-1 group-title="央卫国际",滕州综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=zztzzh
-#EXTINF:-1 group-title="央卫国际",薛城新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=zzxcxw
-#EXTINF:-1 group-title="央卫国际",峄城综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=zzyczh
-#EXTINF:-1 group-title="央卫国际",惠民综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=bzhmzh
-#EXTINF:-1 group-title="央卫国际",无棣综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=bzwdzh
-#EXTINF:-1 group-title="央卫国际",阳信新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=bzyxxw
-#EXTINF:-1 group-title="央卫国际",德州新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=dzxwzh
-#EXTINF:-1 group-title="央卫国际",陵城综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=dzlczh
-#EXTINF:-1 group-title="央卫国际",乐陵新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=dzllxw
-#EXTINF:-1 group-title="央卫国际",临邑1
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=dzly1
-#EXTINF:-1 group-title="央卫国际",宁津综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=dznjzh
-#EXTINF:-1 group-title="央卫国际",平原综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=dzpyzh
-#EXTINF:-1 group-title="央卫国际",庆云综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=dzqyzh
-#EXTINF:-1 group-title="央卫国际",武城综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=dzwczh
-#EXTINF:-1 group-title="央卫国际",禹城综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=dzyczh
-#EXTINF:-1 group-title="央卫国际",曹县综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=hzcxzh
-#EXTINF:-1 group-title="央卫国际",东明新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=hzdmxw
-#EXTINF:-1 group-title="央卫国际",鄄城综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=hzjczh
-#EXTINF:-1 group-title="央卫国际",金乡综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=jijxzh
-#EXTINF:-1 group-title="央卫国际",梁山综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=jilszh
-#EXTINF:-1 group-title="央卫国际",曲阜新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=jiqfxw
-#EXTINF:-1 group-title="央卫国际",任城新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=jircxw
-#EXTINF:-1 group-title="央卫国际",泗水新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=jissxw
-#EXTINF:-1 group-title="央卫国际",鱼台新闻
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=jiytxw
-#EXTINF:-1 group-title="央卫国际",兖州新闻
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=jiyzxw
-#EXTINF:-1 group-title="央卫国际",邹城综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=jizczh
-#EXTINF:-1 group-title="央卫国际",茌平综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=lccpzh
-#EXTINF:-1 group-title="央卫国际",东昌综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=lcdczh
-#EXTINF:-1 group-title="央卫国际",东阿综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=lcdezh
-#EXTINF:-1 group-title="央卫国际",冠县综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=lcgxzh
-#EXTINF:-1 group-title="央卫国际",临清综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=lclqzh
-#EXTINF:-1 group-title="央卫国际",莘县综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=lcsxzh
-#EXTINF:-1 group-title="央卫国际",阳谷综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=lcygzh
-#EXTINF:-1 group-title="央卫国际",河东综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=lyhdzh
-#EXTINF:-1 group-title="央卫国际",莒南综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=lyjnzh
-#EXTINF:-1 group-title="央卫国际",兰陵综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=lyllzh
-#EXTINF:-1 group-title="央卫国际",临沭综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=lyls1
-#EXTINF:-1 group-title="央卫国际",平邑综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=lypyzh
-#EXTINF:-1 group-title="央卫国际",郯城综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=lytc1
-#EXTINF:-1 group-title="央卫国际",沂水综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=lyys1
-#EXTINF:-1 group-title="央卫国际",莒县综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=rzjx1
-#EXTINF:-1 group-title="央卫国际",东平综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=tadpzh
-#EXTINF:-1 group-title="央卫国际",岱岳TV
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=tady
-#EXTINF:-1 group-title="央卫国际",宁阳综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=tany1
-#EXTINF:-1 group-title="央卫国际",泰山TV
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=tats
-#EXTINF:-1 group-title="央卫国际",新泰综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=taxtzh
-#EXTINF:-1 group-title="央卫国际",威海新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=whxwzh
-#EXTINF:-1 group-title="央卫国际",威海环翠综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=whhczh
-#EXTINF:-1 group-title="央卫国际",荣成综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shandong/difang.php?id=whrczh
-#EXTINF:-1 group-title="央卫国际",山西卫视
-http://140.210.9.18:8800/SuanFaZhibo/live5/shanxi/shanxi.php?id=sxws
+http://tvlive.zmdtvw.cn/live/106770611978226682/index.m3u8
+#EXTINF:-1 group-title="央卫国际",驻马店公共频道
+http://tvlive.zmdtvw.cn/live/5927138998607870056/index.m3u8
+#EXTINF:-1 group-title="央卫国际",驻马店科教频道
+http://tvlive.zmdtvw.cn/live/8395198981051753732/index.m3u8
+#EXTINF:-1 group-title="央卫国际",永城新闻
+http://live.dxhmt.cn:9081/tv/11481-1.m3u8
+#EXTINF:-1 group-title="央卫国际",汝州新闻频道
+http://live.dxhmt.cn:9081/tv/10482-1.m3u8
+#EXTINF:-1 group-title="央卫国际",社旗综合
+http://live.dxhmt.cn:9081/tv/11327-1.m3u8
+#EXTINF:-1 group-title="央卫国际",信阳综合
+http://push.xytv.cn:80/live/871627674812443875/index.m3u8
+#EXTINF:-1 group-title="央卫国际",范县新闻综合
+http://live.dxhmt.cn:9080/13603832636/13abd3089d9c47058fe34c49a6182981.m3u8
+#EXTINF:-1 group-title="央卫国际",鹤岗新闻综合
+http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8
+#EXTINF:-1 group-title="央卫国际",济源电视一套
+http://live.dxhmt.cn:9081/tv/19001-1.m3u8
 #EXTINF:-1 group-title="央卫国际",山西经济
-http://140.210.9.18:8800/SuanFaZhibo/live5/shanxi/shanxi.php?id=sxjj
-#EXTINF:-1 group-title="央卫国际",山西影视
-http://140.210.9.18:8800/SuanFaZhibo/live5/shanxi/shanxi.php?id=sxys
+http://liveflash.sxrtv.com/live/sxfinance.m3u8?sub_m3u8=true&edge_slice=true
 #EXTINF:-1 group-title="央卫国际",山西社会与法治
-http://140.210.9.18:8800/SuanFaZhibo/live5/shanxi/shanxi.php?id=sxshfz
+http://liveflash.sxrtv.com/live/sxedu.m3u8?sub_m3u8=true&edge_slice=true
 #EXTINF:-1 group-title="央卫国际",山西文体生活
-http://140.210.9.18:8800/SuanFaZhibo/live5/shanxi/shanxi.php?id=sxwtsh
+http://liveflash.sxrtv.com/live/sxpublic.m3u8?sub_m3u8=true&edge_slice=true
+#EXTINF:-1 group-title="央卫国际",山西影视
+http://liveflash.sxrtv.com/live/sxfilm.m3u8?sub_m3u8=true&edge_slice=true
 #EXTINF:-1 group-title="央卫国际",山西黄河
-http://140.210.9.18:8800/SuanFaZhibo/live5/shanxi/shanxi.php?id=sxhh
-#EXTINF:-1 group-title="央卫国际",太原新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shanxi/taiyuan.php?id=tyxwzh
-#EXTINF:-1 group-title="央卫国际",太原经济生活
-http://140.210.9.18:8800/SuanFaZhibo/live5/shanxi/taiyuan.php?id=tyjjsh
-#EXTINF:-1 group-title="央卫国际",太原社教法制
-http://140.210.9.18:8800/SuanFaZhibo/live5/shanxi/taiyuan.php?id=tysjfz
-#EXTINF:-1 group-title="央卫国际",太原影视
-http://140.210.9.18:8800/SuanFaZhibo/live5/shanxi/taiyuan.php?id=tyys
-#EXTINF:-1 group-title="央卫国际",太原文体
-http://140.210.9.18:8800/SuanFaZhibo/live5/shanxi/taiyuan.php?id=tywt
-#EXTINF:-1 group-title="央卫国际",太原佰乐购
-http://140.210.9.18:8800/SuanFaZhibo/live5/shanxi/taiyuan.php?id=tyblg
-#EXTINF:-1 group-title="央卫国际",太原教育
-http://140.210.9.18:8800/SuanFaZhibo/live5/shanxi/taiyuan.php?id=tyjy
-#EXTINF:-1 group-title="央卫国际",太原新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shanxi/shanxi.php?id=ty1
-#EXTINF:-1 group-title="央卫国际",大同新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shanxi/shanxi.php?id=dt1
-#EXTINF:-1 group-title="央卫国际",阳泉新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shanxi/shanxi.php?id=yq1
-#EXTINF:-1 group-title="央卫国际",长治新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shanxi/shanxi.php?id=cz1
-#EXTINF:-1 group-title="央卫国际",晋城新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shanxi/shanxi.php?id=jc1
-#EXTINF:-1 group-title="央卫国际",朔州新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shanxi/shanxi.php?id=sz1
-#EXTINF:-1 group-title="央卫国际",晋中综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shanxi/shanxi.php?id=jz1
+http://liveflash.sxrtv.com/live/huanghe.m3u8?sub_m3u8=true&edge_slice=true
+#EXTINF:-1 group-title="央卫国际",高平综合
+http://live.gprmt.cn/gpnews/hd/live.m3u8
+#EXTINF:-1 group-title="央卫国际",吉县新闻综合
+http://jxlive.jxrmtzx.com:8091/live/xwzh.m3u8
+#EXTINF:-1 group-title="央卫国际",晋中公共频道
+http://jzlive.jztvnews.com:90/live/jzgg.m3u8
+#EXTINF:-1 group-title="央卫国际",晋中新闻频道
+http://jzlive.jztvnews.com:90/live/jzzh.m3u8
+#EXTINF:-1 group-title="央卫国际",黎城综合频道
+http://111.53.96.67:8081/live/1/index.m3u8
+#EXTINF:-1 group-title="央卫国际",临猗综合频道
+http://pili-live-hls.lyzx.live.chinacici.cn/lyrmt/ceshi-ly.m3u8
+#EXTINF:-1 group-title="央卫国际",潞城新闻综合
+http://59.48.42.6:62204/lucheng.m3u8
+#EXTINF:-1 group-title="央卫国际",武乡新闻综合
+http://uzoiczhh.live.sxmty.com/live/hls/0d41f1480c4042d49927858f01fde707/53130407737b417b9a6259b57246bae3.m3u8
+#EXTINF:-1 group-title="央卫国际",运城公共频道
+http://live.0359tv.com/lsdream/t667aTY/1000/live.m3u8
+#EXTINF:-1 group-title="央卫国际",运城科技教育
+http://live.0359tv.com/lsdream/p5eq48m/1000/live.m3u8
 #EXTINF:-1 group-title="央卫国际",运城新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shanxi/shanxi.php?id=yc1
-#EXTINF:-1 group-title="央卫国际",忻州综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shanxi/shanxi.php?id=xz1
-#EXTINF:-1 group-title="央卫国际",临汾新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shanxi/shanxi.php?id=lf1
-#EXTINF:-1 group-title="央卫国际",吕梁新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shanxi/shanxi.php?id=ll1
-#EXTINF:-1 group-title="央卫国际",保德综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shanxi/difang.php?id=bdzh
-#EXTINF:-1 group-title="央卫国际",代县综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shanxi/difang.php?id=dxzh
-#EXTINF:-1 group-title="央卫国际",汾阳综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/shanxi/difang.php?id=fyzh
-#EXTINF:-1 group-title="央卫国际",兰州新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/gansu/lanzhou.php?id=lzxwzh
-#EXTINF:-1 group-title="央卫国际",兰州文旅
-http://140.210.9.18:8800/SuanFaZhibo/live5/gansu/lanzhou.php?id=lzwl
-#EXTINF:-1 group-title="央卫国际",海南卫视
-http://140.210.9.18:8800/SuanFaZhibo/live5/hainan/hainan.php?id=hnws
-#EXTINF:-1 group-title="央卫国际",三沙卫视
-http://140.210.9.18:8800/SuanFaZhibo/live5/hainan/hainan.php?id=ssws
-#EXTINF:-1 group-title="央卫国际",海南文旅频道
-http://140.210.9.18:8800/SuanFaZhibo/live5/hainan/hainan.php?id=wlpd
-#EXTINF:-1 group-title="央卫国际",海南自贸频道
-http://140.210.9.18:8800/SuanFaZhibo/live5/hainan/hainan.php?id=jjpd
-#EXTINF:-1 group-title="央卫国际",海南公共频道
-http://140.210.9.18:8800/SuanFaZhibo/live5/hainan/hainan.php?id=ggpd
-#EXTINF:-1 group-title="央卫国际",海南少儿频道
-http://140.210.9.18:8800/SuanFaZhibo/live5/hainan/hainan.php?id=sepd
-#EXTINF:-1 group-title="央卫国际",内蒙古卫视
-http://140.210.9.18:8800/SuanFaZhibo/live5/neimeng/neimeng.php?id=nmws
-#EXTINF:-1 group-title="央卫国际",内蒙古蒙古语卫视
-http://140.210.9.18:8800/SuanFaZhibo/live5/neimeng/neimeng.php?id=nmmyws
-#EXTINF:-1 group-title="央卫国际",内蒙古新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/neimeng/neimeng.php?id=nmxwzh
-#EXTINF:-1 group-title="央卫国际",内蒙古经济生活
-http://140.210.9.18:8800/SuanFaZhibo/live5/neimeng/neimeng.php?id=nmjjsh
-#EXTINF:-1 group-title="央卫国际",内蒙古少儿频道
-http://140.210.9.18:8800/SuanFaZhibo/live5/neimeng/neimeng.php?id=nmse
-#EXTINF:-1 group-title="央卫国际",内蒙古文体娱乐
-http://140.210.9.18:8800/SuanFaZhibo/live5/neimeng/neimeng.php?id=nmwtyl
-#EXTINF:-1 group-title="央卫国际",内蒙古农牧频道
-http://140.210.9.18:8800/SuanFaZhibo/live5/neimeng/neimeng.php?id=nmnm
-#EXTINF:-1 group-title="央卫国际",内蒙古蒙古语文化
-http://140.210.9.18:8800/SuanFaZhibo/live5/neimeng/neimeng.php?id=nmwh
-#EXTINF:-1 group-title="央卫国际",呼和浩特新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/neimeng/neimeng.php?id=hhht1
-#EXTINF:-1 group-title="央卫国际",锡林郭勒
-http://140.210.9.18:8800/SuanFaZhibo/live5/neimeng/neimeng.php?id=xlgl1
-#EXTINF:-1 group-title="央卫国际",阿拉善新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/neimeng/neimeng.php?id=als1
-#EXTINF:-1 group-title="央卫国际",巴彦淖尔
-http://140.210.9.18:8800/SuanFaZhibo/live5/neimeng/neimeng.php?id=byle1
-#EXTINF:-1 group-title="央卫国际",鄂尔多斯
-http://140.210.9.18:8800/SuanFaZhibo/live5/neimeng/neimeng.php?id=erds1
-#EXTINF:-1 group-title="央卫国际",赤峰新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/neimeng/neimeng.php?id=cf1
-#EXTINF:-1 group-title="央卫国际",通辽新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/neimeng/neimeng.php?id=tl1
-#EXTINF:-1 group-title="央卫国际",乌兰察布
-http://140.210.9.18:8800/SuanFaZhibo/live5/neimeng/neimeng.php?id=wlcb1
-#EXTINF:-1 group-title="央卫国际",乌海新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/neimeng/neimeng.php?id=wh1
-#EXTINF:-1 group-title="央卫国际",呼伦贝尔新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/neimeng/neimeng.php?id=hlbe1
-#EXTINF:-1 group-title="央卫国际",兴安新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/neimeng/neimeng.php?id=xa1
-#EXTINF:-1 group-title="央卫国际",包头新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/neimeng/neimeng.php?id=bt1
-#EXTINF:-1 group-title="央卫国际",新疆卫视
-http://140.210.9.18:8800/SuanFaZhibo/live5/xinjiang/xinjiang.php?id=xjws
-#EXTINF:-1 group-title="央卫国际",新疆维语新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/xinjiang/xinjiang.php?id=xjwyzh
-#EXTINF:-1 group-title="央卫国际",新疆哈语新闻综合
-http://140.210.9.18:8800/SuanFaZhibo/live5/xinjiang/xinjiang.php?id=xjhyzh
-#EXTINF:-1 group-title="央卫国际",新疆体育健康
-http://140.210.9.18:8800/SuanFaZhibo/live5/xinjiang/xinjiang.php?id=xjty
-#EXTINF:-1 group-title="央卫国际",新疆少儿频道
-http://140.210.9.18:8800/SuanFaZhibo/live5/xinjiang/xinjiang.php?id=xjse
-#EXTINF:-1 group-title="央卫国际",乌鲁木齐
-http://140.210.9.18:8800/SuanFaZhibo/live5/xinjiang/wulumuqi.php
-#EXTINF:-1 group-title="央卫国际",西藏卫视
-http://140.210.9.18:8800/SuanFaZhibo/live5/xizang/xizang.php?id=xzws
-#EXTINF:-1 group-title="央卫国际",藏语卫视
-http://140.210.9.18:8800/SuanFaZhibo/live5/xizang/xizang.php?id=xzzy
-#EXTINF:-1 group-title="央卫国际",影视文化
-http://140.210.9.18:8800/SuanFaZhibo/live5/xizang/xizang.php?id=xzys
+http://live.0359tv.com/lsdream/ss4Lj11/1000/live.m3u8
+#EXTINF:-1 group-title="央卫国际",长子综合频道
+http://zzlive.zzc-media.com:8092/live/xwzh.m3u8
+#EXTINF:-1 group-title="央卫国际",定襄综合
+http://lbyzztfe.live.sxmty.com/live/hls/645ff4c60e0a49f0a203abbd73dd8be9/0720e665f10f48e98c9639f4f492fb4a-1.m3u8?zshanxd
+#EXTINF:-1 group-title="央卫国际",汾西综合
+https://qmmqvzoz.live.sxmty.com/live/hls/f24f8a390c084386a564074c9260100c/be3fdf07606145739ab2c4b80fe0136a.m3u8?zshanxd
+#EXTINF:-1 group-title="央卫国际",怀仁综合
+http://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc.m3u8?zshanxd
+#EXTINF:-1 group-title="央卫国际",灵石新闻综合
+https://live-stream.lsxrmtzx.com/live/video.m3u8?zshanxd
+#EXTINF:-1 group-title="央卫国际",襄汾综合
+http://7sycrzf7.live.sxmty.com/live/hls/da9222d15ce7491d85fe3519e5201df5/af161dfd2a434b22b3b75fdd72fb9038-1.m3u8?zshanxd
+#EXTINF:-1 group-title="央卫国际",襄垣电视
+http://video.xyxrmt.com/lsdream/2MAgsgb/1000/live.m3u8?zshanxd
+#EXTINF:-1 group-title="央卫国际",阳泉综合
+https://live.yqrtv.com/xwpd/playlist.m3u8
+#EXTINF:-1 group-title="央卫国际",阳泉科教
+https://live.yqrtv.com/xwchne/playlist.m3u8
+#EXTINF:-1 group-title="央卫国际",晋城新闻
+http://live.jinnews.com.cn/xwzh/sd/live.m3u8
+#EXTINF:-1 group-title="央卫国际",晋城公共
+http://live.jinnews.com.cn/ggpd/sd/live.m3u8
+#EXTINF:-1 group-title="央卫国际",运城新闻综合
+http://live.0359tv.com/lsdream/ss4Lj11/1000/live.m3u8
+#EXTINF:-1 group-title="央卫国际",运城公共频道
+http://live.0359tv.com/lsdream/t667aTY/1000/live.m3u8
+#EXTINF:-1 group-title="央卫国际",运城科技教育
+http://live.0359tv.com/lsdream/p5eq48m/1000/live.m3u8
+#EXTINF:-1 group-title="央卫国际",晋中新闻频道
+http://jzlive.jztvnews.com:90/live/jzzh.m3u8
+#EXTINF:-1 group-title="央卫国际",晋中新闻频道
+http://jzlive.jztvnews.com:83/live/mount_for_ts/jzzh.m3u8
+#EXTINF:-1 group-title="央卫国际",晋中公共频道
+http://jzlive.jztvnews.com:90/live/jzgg.m3u8
+#EXTINF:-1 group-title="央卫国际",晋中公共频道
+http://jzdb.jztvnews.com:83/live/mount_for_ts/jzgg.m3u8
+#EXTINF:-1 group-title="央卫国际",壶关电视台
+http://zmjp3jin.live.sxmty.com/live/hls/268fe96f955d496db37fb10bb887cda9/fc196029d289449ea524a94a95379a0d.m3u8
+#EXTINF:-1 group-title="央卫国际",黎城综合频道
+http://111.53.96.67:8081/live/1/index.m3u8
+#EXTINF:-1 group-title="央卫国际",平顺综合
+https://stream.icelook.cn/2daa869d1623782d/6679643898219856900_1602492802.m3u8?auth_key=1893456000-0-0-8c6e3e73d78411a6bd6e2faef2b275d0
+#EXTINF:-1 group-title="央卫国际",武乡新闻综合
+http://uzoiczhh.live.sxmty.com/live/hls/0d41f1480c4042d49927858f01fde707/53130407737b417b9a6259b57246bae3.m3u8
+#EXTINF:-1 group-title="央卫国际",武乡新闻综合
+http://60.220.198.84:81/0.m3u8
+#EXTINF:-1 group-title="央卫国际",长子综合频道
+http://zzlive.zzc-media.com:8092/live/xwzh.m3u8
+#EXTINF:-1 group-title="央卫国际",怀仁综合频道
+http://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc.m3u8
+#EXTINF:-1 group-title="央卫国际",平鲁综合频道
+https://stream.icelook.cn/790d0a0f38c07f31/6728300245723120644_1609747594.m3u8?auth_key=1893456000-0-0-0cc4be5653a88cdb748a4543643d0fdb
+#EXTINF:-1 group-title="央卫国际",潞城新闻综合
+http://59.48.42.6:62204/lucheng.m3u8
+#EXTINF:-1 group-title="央卫国际",汾西综合
+https://qmmqvzoz.live.sxmty.com/live/hls/f24f8a390c084386a564074c9260100c/be3fdf07606145739ab2c4b80fe0136a.m3u8
+#EXTINF:-1 group-title="央卫国际",吉县新闻综合
+http://jxlive.jxrmtzx.com:8091/live/xwzh.m3u8
+#EXTINF:-1 group-title="央卫国际",襄汾综合
+http://7sycrzf7.live.sxmty.com/live/hls/da9222d15ce7491d85fe3519e5201df5/af161dfd2a434b22b3b75fdd72fb9038-1.m3u8
+#EXTINF:-1 group-title="央卫国际",翼城综合
+http://live.aiyicheng.com.cn/channel1/sd/live.m3u8
+#EXTINF:-1 group-title="央卫国际",灵石新闻综合
+https://live-stream.lsxrmtzx.com/live/video.m3u8
+#EXTINF:-1 group-title="央卫国际",临猗综合频道
+http://pili-live-hls.lyzx.live.chinacici.cn/lyrmt/ceshi-ly.m3u8
+#EXTINF:-1 group-title="央卫国际",定襄综合
+http://lbyzztfe.live.sxmty.com/live/hls/645ff4c60e0a49f0a203abbd73dd8be9/0720e665f10f48e98c9639f4f492fb4a-1.m3u8
+#EXTINF:-1 group-title="央卫国际",五台综合
+https://568slnjf.live.sxmty.com/live/hls/90c8b2efeb164cc0a6c2409eed668d6b/f77cbb89ec57435b9ba4c47589c16e4f-1.m3u8
+#EXTINF:-1 group-title="央卫国际",五寨综合
+https://stream.icelook.cn/cf2874738208c975/6727103226484622340_1607389965.m3u8?auth_key=1893456000-0-0-c8ce454296feaadfd96bc25904e2b688
+#EXTINF:-1 group-title="央卫国际",原平综合
+http://xkmspyxn.live.sxmty.com/live/hls/65072fcc05414062bf02088d2a2a77b2/9da977614b044ef59d11779e997a12f8-1.m3u8
+#EXTINF:-1 group-title="央卫国际",高平综合频道
+http://live.gprmt.cn/gpnews/hd/live.m3u8
+#EXTINF:-1 group-title="央卫国际",灵丘电视台
+https://stream.icelook.cn/1a7c625fde427dc3/6735154231323395076_1611041008.m3u8?auth_key=1893456000-0-0-fe9d45877d8cdddb4afccd9c1a12f3f8
+#EXTINF:-1 group-title="央卫国际",安徽经济生活
+http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959.flv
+#EXTINF:-1 group-title="央卫国际",安徽综艺体育
+http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3.flv
+#EXTINF:-1 group-title="央卫国际",安徽影视
+http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be.flv
+#EXTINF:-1 group-title="央卫国际",亳州农村
+http://220.180.110.101:8083/videos/live/39/13/o4ncrHkSp7q09/o4ncrHkSp7q09.M3U8
+#EXTINF:-1 group-title="央卫国际",固镇新闻
+http://www.guzhenm.com:7001/hls/hd-live.m3u8
+#EXTINF:-1 group-title="央卫国际",固镇影视
+http://www.guzhenm.com:7004/hls/hd-live.m3u8
+#EXTINF:-1 group-title="央卫国际",灵璧综合
+http://live.cms.anhuinews.com/video/s10003-lbtv/index.m3u8
+#EXTINF:-1 group-title="央卫国际",六安公共
+http://pili-live-rtmp.luan2.hfmt.net/luan2/ggpd.m3u8
+#EXTINF:-1 group-title="央卫国际",六安新闻综合
+http://pili-live-rtmp.luan2.hfmt.net/luan2/jjpd.m3u8
+#EXTINF:-1 group-title="央卫国际",宿州公共
+http://live.ahsz.tv/video/s10001-ggpd/index.m3u8?zanhd
+#EXTINF:-1 group-title="央卫国际",六安新闻综合
+http://pili-live-rtmp.luan2.hfmt.net/luan2/jjpd.m3u8?zanhd
+#EXTINF:-1 group-title="央卫国际",六安公共
+http://pili-live-rtmp.luan2.hfmt.net/luan2/ggpd.m3u8?zanhd
+#EXTINF:-1 group-title="央卫国际",固镇新闻
+http://www.guzhenm.com:7001/hls/hd-live.m3u8?zanhd
+#EXTINF:-1 group-title="央卫国际",灵璧综合
+http://live.cms.anhuinews.com/video/s10003-lbtv/index.m3u8?zanhd
+#EXTINF:-1 group-title="央卫国际",霍山综合
+http://ahhsdb.chinashadt.com:1936/live/stream:ahws.stream/playlist.m3u8?zanhd
+#EXTINF:-1 group-title="央卫国际",肥西综合
+http://112.30.194.221:20080/live/7210e3a27cc64ac4a3f7aba2e2b683d5/hls.m3u8?zanhd
+#EXTINF:-1 group-title="央卫国际",歙县综合频道
+http://112.30.194.221:20080/live/4b3024127d1c472986ccdcb454f81a9f/hls.m3u8?zanhd
+#EXTINF:-1 group-title="央卫国际",宁化电视一套
+http://fjnhdb.chinashadt.com:2036/live/stream:nh1.stream/playlist.m3u8
+#EXTINF:-1 group-title="央卫国际",福州综合
+http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
+#EXTINF:-1 group-title="央卫国际",福州生活
+http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
+#EXTINF:-1 group-title="央卫国际",漳州一套
+http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8
+#EXTINF:-1 group-title="央卫国际",龙岩综合
+http://stream.lytv.net.cn/2/sd/live.m3u8
+#EXTINF:-1 group-title="央卫国际",新罗电视一套
+http://stream.lyxltv.com/xltv/sd/live.m3u8
+#EXTINF:-1 group-title="央卫国际",武夷山综合频道
+http://fjwysdb.chinashadt.com:2036/live/1.stream/playlist.m3u8
+#EXTINF:-1 group-title="央卫国际",武夷山文旅茶
+http://fjwysdb.chinashadt.com:2036/live/3.stream/playlist.m3u8
+#EXTINF:-1 group-title="央卫国际",漳浦综合
+http://220.161.87.62:8090/hls/0/index.m3u8
+#EXTINF:-1 group-title="央卫国际",三明新闻综合
+http://fjnhdb.chinashadt.com:2036/live/stream:nh2.stream/playlist.m3u8?zfud
+#EXTINF:-1 group-title="央卫国际",三明新闻综合
+http://stream.smntv.cn/smtv1/sd/live.m3u8?zfud
+#EXTINF:-1 group-title="央卫国际",新罗电视一套
+http://stream.lyxltv.com/xltv/sd/live.m3u8?zfud
+#EXTINF:-1 group-title="央卫国际",建宁综合频道
+https://p2.weizan.cn/2144741973/075444991326676404/live.m3u8?zfud
+#EXTINF:-1 group-title="央卫国际",宁化电视一套
+http://fjnhdb.chinashadt.com:2036/live/stream:nh1.stream/playlist.m3u8?fujian
+#EXTINF:-1 group-title="央卫国际",云霄综合
+http://live.zzyxxw.com:85/live/xwzh.m3u8?fujian
+#EXTINF:-1 group-title="央卫国际",漳浦综合
+http://220.161.87.62:8090/hls/0/index.m3u8?zfud
+#EXTINF:-1 group-title="央卫国际",福州新闻
+http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
+#EXTINF:-1 group-title="央卫国际",福州生活
+http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
+#EXTINF:-1 group-title="央卫国际",福州少儿
+http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
+#EXTINF:-1 group-title="央卫国际",厦门第一
+http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/xiamen1_2/index.m3u8
+#EXTINF:-1 group-title="央卫国际",武夷山综合
+http://fjwysdb.chinashadt.com:2036/live/1.stream/playlist.m3u8
+#EXTINF:-1 group-title="央卫国际",武夷山文旅茶
+http://fjwysdb.chinashadt.com:2036/live/3.stream/playlist.m3u8
+#EXTINF:-1 group-title="央卫国际",云霄综合
+http://live.zzyxxw.com:85/live/xwzh.m3u8
+#EXTINF:-1 group-title="央卫国际",漳州新闻
+http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8
+#EXTINF:-1 group-title="央卫国际",三明综合
+http://stream.smntv.cn/smtv1/sd/live.m3u8
+#EXTINF:-1 group-title="央卫国际",三明公共
+http://stream.smntv.cn/smtv2/sd/live.m3u8
+#EXTINF:-1 group-title="央卫国际",三明新闻综合
+http://fjnhdb.chinashadt.com:2036/live/stream:nh2.stream/playlist.m3u8?zfud
+#EXTINF:-1 group-title="央卫国际",三明新闻综合
+http://stream.smntv.cn/smtv1/sd/live.m3u8?zfud
+#EXTINF:-1 group-title="央卫国际",三明公共频道
+http://stream.smntv.cn/smtv2/sd/live.m3u8?zfud
+#EXTINF:-1 group-title="央卫国际",新罗电视一套
+http://stream.lyxltv.com/xltv/sd/live.m3u8?zfud
+#EXTINF:-1 group-title="央卫国际",建宁综合频道
+https://p2.weizan.cn/2144741973/075444991326676404/live.m3u8?zfud
+#EXTINF:-1 group-title="央卫国际",宁化电视一套
+http://fjnhdb.chinashadt.com:2036/live/stream:nh1.stream/playlist.m3u8?fujian
+#EXTINF:-1 group-title="央卫国际",云霄综合
+http://live.zzyxxw.com:85/live/xwzh.m3u8?fujian
+#EXTINF:-1 group-title="央卫国际",漳浦综合
+http://220.161.87.62:8090/hls/0/index.m3u8?zfud
+#EXTINF:-1 group-title="央卫国际",湖北影视
+http://cdn.jdshipin.com:8880/hbgd.php?id=hbys_1000
+#EXTINF:-1 group-title="央卫国际",武汉新闻综合
+http://stream.appwuhan.com/1tzb/sd/live.m3u8
+#EXTINF:-1 group-title="央卫国际",武汉电视剧
+http://stream.appwuhan.com/2tzb/sd/live.m3u8
+#EXTINF:-1 group-title="央卫国际",武汉经济
+http://stream.appwuhan.com/4tzb/sd/live.m3u8
+#EXTINF:-1 group-title="央卫国际",武汉外语
+http://stream.appwuhan.com/6tzb/sd/live.m3u8
+#EXTINF:-1 group-title="央卫国际",武汉少儿
+http://stream.appwuhan.com/7tzb/sd/live.m3u8
+#EXTINF:-1 group-title="央卫国际",武汉教育
+http://stream.appwuhan.com/jyzb/sd/live.m3u8
+#EXTINF:-1 group-title="央卫国际",武汉文体
+http://stream.appwuhan.com/5tzb/sd/live.m3u8
+#EXTINF:-1 group-title="央卫国际",荆门新闻
+http://stream.jmtv.com.cn/xwzh/sd/live.m3u8
+#EXTINF:-1 group-title="央卫国际",荆门公共
+http://stream.jmtv.com.cn/ngpd/sd/live.m3u8
+#EXTINF:-1 group-title="央卫国际",荆门教育
+http://stream.jmtv.com.cn/ggsh/sd/live.m3u8
+#EXTINF:-1 group-title="央卫国际",黄冈新闻综合
+http://huanggang-live21.cjyun.org/10210/s10210-xwzh.m3u8?auth_key=1735660799-0-0-d97fed8905fc6066ed8fa063e40b13c0
+#EXTINF:-1 group-title="央卫国际",黄冈生活
+http://huanggang-live21.cjyun.org/10210/s10210-xwgg.m3u8?auth_key=1735660799-0-0-39c6d712b6337fbdefe84e2d22e34513
+#EXTINF:-1 group-title="央卫国际",江夏新闻综合
+http://59.175.226.142:280/gb28181/xwzh.m3u8
+#EXTINF:-1 group-title="央卫国际",江夏新闻综合
+http://59.175.226.142:280/gb28181/xwzh.m3u8
+#EXTINF:-1 group-title="央卫国际",十堰新闻
+http://p8.vzan.com/slowlive/034028687228317362/live.m3u8
+#EXTINF:-1 group-title="央卫国际",江夏新闻综合
+http://59.175.226.142:280/gb28181/xwzh.m3u8
+#EXTINF:-1 group-title="央卫国际",湘潭新闻综合
+http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8?zhund
+#EXTINF:-1 group-title="央卫国际",宜昌综合
+http://player.521fanli.cn/1691/hubei/yichangcjym3u8.php?id=yichangzh
+#EXTINF:-1 group-title="央卫国际",宜昌旅游生活
+http://player.521fanli.cn/1691/hubei/yichangcjym3u8.php?id=yichanglysh
+#EXTINF:-1 group-title="央卫国际",荆门新闻综合
+http://stream.jmtv.com.cn/xwzh/sd/live.m3u8
+#EXTINF:-1 group-title="央卫国际",荆门教育频道
+http://stream.jmtv.com.cn/ggsh/sd/live.m3u8
+#EXTINF:-1 group-title="央卫国际",荆门公共频道
+http://stream.jmtv.com.cn/ngpd/sd/live.m3u8
+#EXTINF:-1 group-title="央卫国际",孝感公共频道
+http://live.yingxi.tv/channel1/sd/live.m3u8
+#EXTINF:-1 group-title="央卫国际",麻城综合
+http://119.36.30.199:8888/mctv1.m3u8
+#EXTINF:-1 group-title="央卫国际",江夏新闻综合
+http://59.175.226.142:280/gb28181/xwzh.m3u8
+#EXTINF:-1 group-title="央卫国际",云南少儿
+http://tvlive.ynradio.com/live/yunnanshaoer/chunks.m3u8
+#EXTINF:-1 group-title="央卫国际",云南国际
+http://tvlive.ynradio.com/live/yunnanguoji/playlist.m3u8
+#EXTINF:-1 group-title="央卫国际",红河州新闻综合
+http://file.hhtv.cc/cms/videos/nmip-media/channellive/channel1/playlist.m3u8
+#EXTINF:-1 group-title="央卫国际",红河州新闻综合
+http://tv.drs.hhtv.cc:8100/channellive/hhtv-1.flv
+#EXTINF:-1 group-title="央卫国际",红河州公共频道
+http://file.hhtv.cc/cms/videos/nmip-media/channellive/channel2/playlist.m3u8
+#EXTINF:-1 group-title="央卫国际",红河州公共频道
+http://tv.drs.hhtv.cc:8100/channellive/hhtv-2.flv
+#EXTINF:-1 group-title="央卫国际",文山州新闻综合
+http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
+#EXTINF:-1 group-title="央卫国际",文山州新闻综合
+http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
+#EXTINF:-1 group-title="央卫国际",文山州公共
+http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8
+#EXTINF:-1 group-title="央卫国际",西双版纳综合
+http://file.xsbnrtv.cn/vms/videos/nmip-media/channellive/channel1/playlist.m3u8
+#EXTINF:-1 group-title="央卫国际",西双版纳公共
+http://file.xsbnrtv.cn/vms/videos/nmip-media/channellive/channel3/playlist.m3u8
+#EXTINF:-1 group-title="央卫国际",怒江新闻综合
+http://livebroadcast.ccwb.cn/live/w1620805130988936.m3u8
+#EXTINF:-1 group-title="央卫国际",新平综合
+http://livebroadcast.ccwb.cn/live/w1615257519790969.m3u8
+#EXTINF:-1 group-title="央卫国际",彝良综合
+http://livebroadcast.ccwb.cn/live/w1606370492402991.m3u8
+#EXTINF:-1 group-title="央卫国际",镇雄电视台
+http://livebroadcast.ccwb.cn/live/w1606722098119972.m3u8
+#EXTINF:-1 group-title="央卫国际",福贡综合
+http://livebroadcast.ccwb.cn/live/w1612505860303999.m3u8
+#EXTINF:-1 group-title="央卫国际",泸水综合
+http://livebroadcast.ccwb.cn/live/w1596164431584927.m3u8
+#EXTINF:-1 group-title="央卫国际",个旧综合
+http://tv.drs.hhtv.cc:8100/channellive/gjdst.flv
+#EXTINF:-1 group-title="央卫国际",个旧综合
+http://file.hhtv.cc/cms/videos/nmip-media/channellive/channel6/playlist.m3u8
+#EXTINF:-1 group-title="央卫国际",红河县综合
+http://file.hhtv.cc/cms/videos/nmip-media/channellive/channel3/playlist.m3u8
+#EXTINF:-1 group-title="央卫国际",红河县综合
+http://tv.drs.hhtv.cc:8100/channellive/hhxdst.flv
+#EXTINF:-1 group-title="央卫国际",屏边综合
+http://file.hhtv.cc/cms/videos/nmip-media/channellive/channel5/playlist.m3u8
+#EXTINF:-1 group-title="央卫国际",元阳综合
+http://file.hhtv.cc/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
+#EXTINF:-1 group-title="央卫国际",元阳综合
+http://tv.drs.hhtv.cc:8100/channellive/yydst.flv
+#EXTINF:-1 group-title="央卫国际",麻栗坡电视台
+http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel18/playlist.m3u8
+#EXTINF:-1 group-title="央卫国际",麻栗坡电视台
+http://tvdrs.wsrtv.com.cn:8100/channellive/mlptv.flv
+#EXTINF:-1 group-title="央卫国际",宾川一套
+http://live.bcrmtzx.com/tv01/sd/live.m3u8
+#EXTINF:-1 group-title="央卫国际",昌宁电视台
+http://live.ynurl.com/video/s10047-cntv/index.m3u8?zyund
+#EXTINF:-1 group-title="央卫国际",峨山电视
+http://live.ynurl.com/video/s10034-ESTV/index.m3u8?zyund
+#EXTINF:-1 group-title="央卫国际",福贡综合
+http://livebroadcast.ccwb.cn/live/w1612505860303999.m3u8?zyund
+#EXTINF:-1 group-title="央卫国际",广南电视台
+http://live.ynurl.com/video/s10031-gnxgbds/index.m3u8?zyund
+#EXTINF:-1 group-title="央卫国际",红河县综合
+http://tv.drs.hhtv.cc:8100/channellive/hhxdst.flv?zyund
+#EXTINF:-1 group-title="央卫国际",红河州公共
+http://tv.drs.hhtv.cc:8100/channellive/hhtv-2.flv?zyund
+#EXTINF:-1 group-title="央卫国际",红河州新闻综合
+http://tv.drs.hhtv.cc:8100/channellive/hhtv-1.flv?zyund
+#EXTINF:-1 group-title="央卫国际",江川综合
+http://live.ynurl.com/video/s10037-JCTV/index.m3u8?zyund
+#EXTINF:-1 group-title="央卫国际",开远综合
+http://live.ynurl.com/video/s10044-KYTV/index.m3u8?zyund
+#EXTINF:-1 group-title="央卫国际",良综合
+http://livebroadcast.ccwb.cn/live/w1606370492402991.m3u8?zyund
+#EXTINF:-1 group-title="央卫国际",梁河综合
+http://live.ynurl.com/video/s10032-lhtv/index.m3u8?zyund
+#EXTINF:-1 group-title="央卫国际",陇川综合
+http://live.ynurl.com/video/s10027-LCDST/index.m3u8?zyund
+#EXTINF:-1 group-title="央卫国际",麻栗坡电视台
+http://tvdrs.wsrtv.com.cn:8100/channellive/mlptv.flv?zyund
+#EXTINF:-1 group-title="央卫国际",麻栗坡电视台
+http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel18/playlist.m3u8?zyund
+#EXTINF:-1 group-title="央卫国际",马关电视台
+http://live.ynurl.com/video/s10046-001/index.m3u8?zyund
+#EXTINF:-1 group-title="央卫国际",芒市综合
+http://live.ynurl.com/video/s10001-mstv1/index.m3u8?zyund
+#EXTINF:-1 group-title="央卫国际",屏边综合
+http://live.ynurl.com/video/s10040-pbzh/index.m3u8?zyund
+#EXTINF:-1 group-title="央卫国际",瑞丽综合
+http://live.ynurl.com/video/s10021-rltv/index.m3u8?zyund
+#EXTINF:-1 group-title="央卫国际",施甸综合
+http://live.ynurl.com/video/s10048-SDTV/index.m3u8?zyund
+#EXTINF:-1 group-title="央卫国际",石屏综合
+http://live.ynurl.com/video/s10059-SPTV/index.m3u8?zyund
+#EXTINF:-1 group-title="央卫国际",腾冲综合
+http://live.ynurl.com/video/s10012-TCTV/index.m3u8?zyund
+#EXTINF:-1 group-title="央卫国际",文山综合台
+http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
+#EXTINF:-1 group-title="央卫国际",文山州公共
+http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8?zyund
+#EXTINF:-1 group-title="央卫国际",文山州新闻综合
+http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv?zyund
+#EXTINF:-1 group-title="央卫国际",文山州新闻综合
+http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8?zyund
+#EXTINF:-1 group-title="央卫国际",西双版纳公共
+http://file.xsbnrtv.cn/vms/videos/nmip-media/channellive/channel3/playlist.m3u8?zyund
+#EXTINF:-1 group-title="央卫国际",西双版纳综合
+http://file.xsbnrtv.cn/vms/videos/nmip-media/channellive/channel1/playlist.m3u8?zyund
+#EXTINF:-1 group-title="央卫国际",盈江综合
+http://live.ynurl.com/video/s10016-YJTV-2/index.m3u8?zyund
+#EXTINF:-1 group-title="央卫国际",元阳综合
+http://tv.drs.hhtv.cc:8100/channellive/yydst.flv?zyund
+#EXTINF:-1 group-title="央卫国际",红河州新闻综合
+http://file.hhtv.cc/cms/videos/nmip-media/channellive/channel1/playlist.m3u8
+#EXTINF:-1 group-title="央卫国际",红河州公共频道
+http://file.hhtv.cc/cms/videos/nmip-media/channellive/channel2/playlist.m3u8
+#EXTINF:-1 group-title="央卫国际",新平综合
+http://livebroadcast.ccwb.cn/live/w1615257519790969.m3u8
+#EXTINF:-1 group-title="央卫国际",彝良综合
+http://livebroadcast.ccwb.cn/live/w1606370492402991.m3u8
+#EXTINF:-1 group-title="央卫国际",镇雄电视台
+http://livebroadcast.ccwb.cn/live/w1606722098119972.m3u8
+#EXTINF:-1 group-title="央卫国际",福贡综合
+http://livebroadcast.ccwb.cn/live/w1612505860303999.m3u8
+#EXTINF:-1 group-title="央卫国际",泸水综合
+http://livebroadcast.ccwb.cn/live/w1596164431584927.m3u8
+#EXTINF:-1 group-title="央卫国际",个旧综合
+http://tv.drs.hhtv.cc:8100/channellive/gjdst.flv
+#EXTINF:-1 group-title="央卫国际",红河县综合
+http://file.hhtv.cc/cms/videos/nmip-media/channellive/channel3/playlist.m3u8
+#EXTINF:-1 group-title="央卫国际",麻栗坡电视台
+http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel18/playlist.m3u8
+#EXTINF:-1 group-title="央卫国际",广南电视台
+http://live.ynurl.com/video/s10031-gnxgbds/index.m3u8
+#EXTINF:-1 group-title="央卫国际",江川综合
+http://live.ynurl.com/video/s10037-JCTV/index.m3u8
+#EXTINF:-1 group-title="央卫国际",陇川综合
+http://live.ynurl.com/video/s10027-LCDST/index.m3u8
+#EXTINF:-1 group-title="央卫国际",麻栗坡
+http://tvdrs.wsrtv.com.cn:8100/channellive/mlptv.flv
+#EXTINF:-1 group-title="央卫国际",麻栗坡台
+http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel18/playlist.m3u8
+#EXTINF:-1 group-title="央卫国际",马关电视台
+http://live.ynurl.com/video/s10046-001/index.m3u8
+#EXTINF:-1 group-title="央卫国际",芒市综合
+http://live.ynurl.com/video/s10001-mstv1/index.m3u8
+#EXTINF:-1 group-title="央卫国际",蒙自综合
+http://live.ynurl.com/video/s10019-mzdst/index.m3u8
+#EXTINF:-1 group-title="央卫国际",丘北新闻综合
+http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel14/playlist.m3u8
+#EXTINF:-1 group-title="央卫国际",瑞丽频道
+http://live.ynurl.com/video/s10021-rltv/index.m3u8
+#EXTINF:-1 group-title="央卫国际",施甸综合
+http://live.ynurl.com/video/s10048-SDTV/index.m3u8
+#EXTINF:-1 group-title="央卫国际",文山市电视台
+http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel17/playlist.m3u8
+#EXTINF:-1 group-title="央卫国际",文山州公共
+http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8
+#EXTINF:-1 group-title="央卫国际",文山综合
+http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
+#EXTINF:-1 group-title="央卫国际",文山综合
+http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
+#EXTINF:-1 group-title="央卫国际",西双版纳1
+http://file.xsbnrtv.cn/vms/videos/nmip-media/channellive/channel1/playlist.m3u8
+#EXTINF:-1 group-title="央卫国际",西双版纳2
+http://file.xsbnrtv.cn/vms/videos/nmip-media/channellive/channel3/playlist.m3u8
+#EXTINF:-1 group-title="央卫国际",砚山电视台
+http://live.ynurl.com/video/s10020-ystv/index.m3u8
+#EXTINF:-1 group-title="央卫国际",砚山频道
+http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel16/playlist.m3u8
+#EXTINF:-1 group-title="央卫国际",镇雄电视台
+http://livebroadcast.ccwb.cn/live/w1606722098119972.m3u8
+#EXTINF:-1 group-title="央卫国际",赣州新闻
+http://wb.jxgztv.com/live/gztv1.flv
+#EXTINF:-1 group-title="央卫国际",赣州公共
+http://wb.jxgztv.com/live/gztv2.flv
+#EXTINF:-1 group-title="央卫国际",赣州教育
+http://wb.jxgztv.com/live/gztv3.flv
+#EXTINF:-1 group-title="央卫国际",湘潭综合
+http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
+#EXTINF:-1 group-title="央卫国际",赣州综合
+http://wb.jxgztv.com/live/gztv1.m3u8
+#EXTINF:-1 group-title="央卫国际",赣榆新闻综合
+http://ganyu-tv-hls.cm.jstv.com/ganyu-tv/ganyutv.m3u8
+#EXTINF:-1 group-title="央卫国际",庐山综合
+http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_lushan.m3u8
+#EXTINF:-1 group-title="央卫国际",都昌新闻综合
+http://live02.jxtvcn.com.cn/live/ganyun_duchang.m3u8?t=2510710360&token=70d2602b47c0da05edb07c49ea83d573
+#EXTINF:-1 group-title="央卫国际",庐山综合
+http://live02.jxtvcn.com.cn/live/ganyun_lushan.m3u8?t=2510710360&token=70d2602b47c0da05edb07c49ea83d573
+#EXTINF:-1 group-title="央卫国际",彭泽综合
+http://live02.jxtvcn.com.cn/live/ganyun_pengze.m3u8?t=2510710360&token=70d2602b47c0da05edb07c49ea83d573
+#EXTINF:-1 group-title="央卫国际",武宁新闻综合
+http://live02.jxtvcn.com.cn/live/ganyun_wuning.m3u8?t=2510710360&token=70d2602b47c0da05edb07c49ea83d573
+#EXTINF:-1 group-title="央卫国际",永修综合
+http://live02.jxtvcn.com.cn/live/ganyun_yongxiu.m3u8?t=2510710360&token=70d2602b47c0da05edb07c49ea83d573
+#EXTINF:-1 group-title="央卫国际",萍乡新闻综合
+http://live02.jxtvcn.com.cn/live/ganyun_px_xwzh.m3u8?t=2510710360&token=70d2602b47c0da05edb07c49ea83d573
+#EXTINF:-1 group-title="央卫国际",萍乡公共
+http://live02.jxtvcn.com.cn/live/ganyun_px_ggpd.m3u8?t=2510710360&token=70d2602b47c0da05edb07c49ea83d573
+#EXTINF:-1 group-title="央卫国际",上饶新闻综合
+http://live02.jxtvcn.com.cn/live/ganyun_shangrao1.m3u8?t=2510710360&token=70d2602b47c0da05edb07c49ea83d573
+#EXTINF:-1 group-title="央卫国际",上饶经济旅游
+http://live02.jxtvcn.com.cn/live/ganyun_shangrao2.m3u8?t=2510710360&token=70d2602b47c0da05edb07c49ea83d573
+#EXTINF:-1 group-title="央卫国际",广丰综合
+http://live02.jxtvcn.com.cn/live/ganyun_guangfeng.m3u8?t=2510710360&token=70d2602b47c0da05edb07c49ea83d573
+#EXTINF:-1 group-title="央卫国际",余干综合
+http://live02.jxtvcn.com.cn/live/ganyun_yugan.m3u8?t=2510710360&token=70d2602b47c0da05edb07c49ea83d573
+#EXTINF:-1 group-title="央卫国际",分宜综合
+http://live02.jxtvcn.com.cn/live/ganyun_fenyi_tv.m3u8?t=2510710360&token=70d2602b47c0da05edb07c49ea83d573
+#EXTINF:-1 group-title="央卫国际",铜鼓综合
+http://live02.jxtvcn.com.cn/live/ganyun_tonggu.m3u8?t=2510710360&token=70d2602b47c0da05edb07c49ea83d573
+#EXTINF:-1 group-title="央卫国际",万载综合
+http://live02.jxtvcn.com.cn/live/ganyun_wanzai.m3u8?t=2510710360&token=70d2602b47c0da05edb07c49ea83d573
+#EXTINF:-1 group-title="央卫国际",宁都综合
+http://live02.jxtvcn.com.cn/live/ganyun_ningdu.m3u8?t=2510710360&token=70d2602b47c0da05edb07c49ea83d573
+#EXTINF:-1 group-title="央卫国际",井冈山综合
+http://live02.jxtvcn.com.cn/live/ganyun_jgs.m3u8?t=2510710360&token=70d2602b47c0da05edb07c49ea83d573
+#EXTINF:-1 group-title="央卫国际",广安新闻综合
+http://live1.gatv.com.cn:85/live/XWZH.m3u8
+#EXTINF:-1 group-title="央卫国际",广安公共频道
+http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8
+#EXTINF:-1 group-title="央卫国际",达州新闻综合
+http://tv.drs.dzxw.net/channellive/xwzhpd-dz1.flv
+#EXTINF:-1 group-title="央卫国际",达州公共频道
+http://tv.drs.dzxw.net/channellive/ggpd-dz2.flv
+#EXTINF:-1 group-title="央卫国际",达州通川频道
+http://tv.drs.dzxw.net/channellive/tcpd-dz3.flv
+#EXTINF:-1 group-title="央卫国际",泸州新闻综合
+http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel106011/playlist.m3u8
+#EXTINF:-1 group-title="央卫国际",泸州公共频道
+http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel102221/playlist.m3u8
+#EXTINF:-1 group-title="央卫国际",泸州科教频道
+http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel103074/playlist.m3u8
+#EXTINF:-1 group-title="央卫国际",凉山新闻综合
+http://file.yizu.tv/nmip-media/channellive/channel106606/playlist.m3u8
+#EXTINF:-1 group-title="央卫国际",凉山彝语频道
+http://file.yizu.tv/nmip-media/channellive/channel107323/playlist.m3u8
+#EXTINF:-1 group-title="央卫国际",自贡综合频道
+http://110.189.153.160:1001/zhpd.flv
+#EXTINF:-1 group-title="央卫国际",自贡公共频道
+http://110.189.153.160:1002/ggpd.flv
+#EXTINF:-1 group-title="央卫国际",德阳新闻综合
+http://scdytv.cn:1935/live/m_xwpd_livevideo/playlist.m3u8
+#EXTINF:-1 group-title="央卫国际",德阳公共频道
+http://scdytv.cn:1935/live/m_ggpd_livevideo/playlist.m3u8
+#EXTINF:-1 group-title="央卫国际",眉山公共频道
+http://live2.scmstv.cn/ggpd/sd/live.m3u8
+#EXTINF:-1 group-title="央卫国际",甘孜综合频道
+http://tv.drs.ganzitv.com:8100/channellive/gztv.flv
+#EXTINF:-1 group-title="央卫国际",龙泉驿新闻综合
+http://live.newslqy.com/live/xwpd.m3u8
+#EXTINF:-1 group-title="央卫国际",双流综合频道
+http://171.221.250.130:18888/27e684978eb642eeb90ab815f6cc51bf/c41893de5e8645b3b43aef1640859b0d.m3u8
+#EXTINF:-1 group-title="央卫国际",渠县新闻综合
+http://222.208.224.227:81/hls/cfp2p8m3.m3u8
+#EXTINF:-1 group-title="央卫国际",渠县城市公共
+http://222.208.224.227:81/hls/8ishqdtt.m3u8
+#EXTINF:-1 group-title="央卫国际",万源新闻综合
+http://live.wanyuannews.com/wytv/hd/live.m3u8
+#EXTINF:-1 group-title="央卫国际",营山电视台
+http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8
+#EXTINF:-1 group-title="央卫国际",黑水新闻综合
+http://live.schstv.com:90/live/xwzh.m3u8
+#EXTINF:-1 group-title="央卫国际",金川新闻综合
+http://live.jinchuanrmt.com:90/live/zhxw.m3u8
+#EXTINF:-1 group-title="央卫国际",金川新闻综合
+http://139.203.180.9:90/live/zhxw.m3u8
+#EXTINF:-1 group-title="央卫国际",金川乡村频道
+http://live.jinchuanrmt.com:90/live/jcxc.m3u8
+#EXTINF:-1 group-title="央卫国际",金川乡村频道
+http://139.203.180.9:90/live/jcxc.m3u8
+#EXTINF:-1 group-title="央卫国际",松潘新闻综合
+http://live.spccmc.com:90/live/spxwzh.m3u8
+#EXTINF:-1 group-title="央卫国际",汶川新闻综合
+http://live.iwcmt.cn:90/live/zhxw.m3u8
+#EXTINF:-1 group-title="央卫国际",马尔康综合频道
+http://live.zmmek.com:90/live/zhxw.m3u8
+#EXTINF:-1 group-title="央卫国际",利州综合频道
+http://tvfile.lzgbdst.com/nmip-media/channellive/channel106876/playlist.m3u8
+#EXTINF:-1 group-title="央卫国际",利州综合频道
+http://tv.drs.lzgbdst.com:8100/channellive/lztv2.flv
+#EXTINF:-1 group-title="央卫国际",洪雅新闻综合
+http://117.172.215.250:8083/videos/live/35/39/GQVbrgob5CGJM/GQVbrgob5CGJM.M3U8
+#EXTINF:-1 group-title="央卫国际",青神综合频道
+http://lmt.scqstv.com/live1/live1.m3u8
+#EXTINF:-1 group-title="央卫国际",乐至综合频道
+http://175.155.106.72:89/live1/live1.m3u8
+#EXTINF:-1 group-title="央卫国际",会东综合频道
+http://112.45.133.129:90/live/xwzh.m3u8
+#EXTINF:-1 group-title="央卫国际",会东综合频道
+http://live.schdxww.com:90/live/xwzh.m3u8
+#EXTINF:-1 group-title="央卫国际",雷波综合频道
+http://lbzb.yd-data.com/live/0000.flv?auth_key=601589378470-0-0-67d1de5fa3aa9412566d7c9f807c91a0
+#EXTINF:-1 group-title="央卫国际",康定新闻综合
+http://m3u8-kd.channel.ganzitv.com/nmip-media-yajiang/channellive/channel100663/playlist.m3u8
+#EXTINF:-1 group-title="央卫国际",泸县新闻综合
+http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8
+#EXTINF:-1 group-title="央卫国际",纳溪新闻频道
+https://bl.ainaxi.cn/live/d1b85c45e7b74e96bdd950e047c7fd94.m3u8
+#EXTINF:-1 group-title="央卫国际",叙永综合频道
+http://luzhi.xuyongrongmei.com:1935/live/_definst_/xyxw/playlist.m3u8
+#EXTINF:-1 group-title="央卫国际",武胜综合频道
+http://live2.gatv.com.cn:86/live/WS.m3u8
+#EXTINF:-1 group-title="央卫国际",三台电视一套
+http://125.65.94.91:12351/live
+#EXTINF:-1 group-title="央卫国际",三台电视二套
+http://125.65.94.91:12353/live
+#EXTINF:-1 group-title="央卫国际",滨海新闻
+http://traffic.jbh.tjbh.com/live/bhtv1/playlist.m3u8
+#EXTINF:-1 group-title="央卫国际",滨海综艺
+http://traffic.jbh.tjbh.com/live/bhtv2/playlist.m3u8
+#EXTINF:-1 group-title="央卫国际",滨海影视
+http://traffic.jbh.tjbh.com/live/bhtv3/playlist.m3u8
+#EXTINF:-1 group-title="央卫国际",西青新闻综合
+http://221.238.209.44:81/hls/live1.m3u8
+#EXTINF:-1 group-title="央卫国际",武清综合频道
+https://tvpull.smartwq.cn/wqlive/convergencemedia/playlist.m3u8
+#EXTINF:-1 group-title="央卫国际",河北卫视
+http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=f1b16a3a3866dafecb94ec2bb4160e58
+#EXTINF:-1 group-title="央卫国际",河北经济生活
+http://tv.pull.hebtv.com/jishi/jingjishenghuo.m3u8?t=2510710360&k=878ace626abc063571a3ddff9ec396a3
+#EXTINF:-1 group-title="央卫国际",河北农民
+http://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=2510710360&k=75118c17760542fe4385e93cc4f03d38
+#EXTINF:-1 group-title="央卫国际",河北都市
+http://tv.pull.hebtv.com/jishi/dushipindao.m3u8?t=2510710360&k=4380da13735a230c080ce8ff404033af
+#EXTINF:-1 group-title="央卫国际",河北影视剧
+http://tv.pull.hebtv.com/zhibo/yingshijupindao.m3u8?t=2510710360&k=2d3ada9117a7f1c3f7c11b67671bbe3c
+#EXTINF:-1 group-title="央卫国际",河北少儿科教
+http://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=2510710360&k=4ff4446adf3cce3de40dd013255b38b2
+#EXTINF:-1 group-title="央卫国际",河北公共
+http://tv.pull.hebtv.com/jishi/gonggongpindao.m3u8?t=2510710360&k=6c7672b94bb3940303bd8f5b81d4bdb6
+#EXTINF:-1 group-title="央卫国际",石家庄新闻综合
+http://pluslive1.sjzntv.cn/xmzh/playlist.m3u8?zhebd
+#EXTINF:-1 group-title="央卫国际",石家庄娱乐
+http://pluslive1.sjzntv.cn/yule/playlist.m3u8?zhebd
+#EXTINF:-1 group-title="央卫国际",石家庄生活
+http://pluslive1.sjzntv.cn/shenghuo/playlist.m3u8?zhebd
+#EXTINF:-1 group-title="央卫国际",石家庄都市
+http://pluslive1.sjzntv.cn/dushi/playlist.m3u8?zhebd
+#EXTINF:-1 group-title="央卫国际",邯郸公共频道
+https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8?zhebd
+#EXTINF:-1 group-title="央卫国际",邯郸公共频道
+https://jwliveqxzb.hebyun.com.cn/hdgg/hdgg.m3u8
+#EXTINF:-1 group-title="央卫国际",邯郸科技教育
+https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8?zhebd
+#EXTINF:-1 group-title="央卫国际",邯郸科技教育
+https://jwliveqxzb.hebyun.com.cn/hdkj/hdkj.m3u8?zhebd
+#EXTINF:-1 group-title="央卫国际",鹿泉一套
+https://jwliveqxzb.hebyun.com.cn/luquanyi/luquanyi.m3u8?zhebd
+#EXTINF:-1 group-title="央卫国际",鹿泉一套
+https://jwcdnqx.hebyun.com.cn/live/luquanyi/1500k/tzwj_video.m3u8?zhebd
+#EXTINF:-1 group-title="央卫国际",昌黎综合频道
+https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8?zhebd
+#EXTINF:-1 group-title="央卫国际",昌黎综合频道
+https://jwliveqxzb.hebyun.com.cn/clzhpd/clzhpd.m3u8?zhebd
+#EXTINF:-1 group-title="央卫国际",石家庄新闻综合
+http://pluslive1.sjzntv.cn/xmzh/playlist.m3u8?zhebd
+#EXTINF:-1 group-title="央卫国际",石家庄娱乐
+http://pluslive1.sjzntv.cn/yule/playlist.m3u8?zhebd
+#EXTINF:-1 group-title="央卫国际",石家庄生活
+http://pluslive1.sjzntv.cn/shenghuo/playlist.m3u8?zhebd
+#EXTINF:-1 group-title="央卫国际",石家庄都市
+http://pluslive1.sjzntv.cn/dushi/playlist.m3u8?zhebd
+#EXTINF:-1 group-title="央卫国际",鹿泉一套
+https://jwliveqxzb.hebyun.com.cn/luquanyi/luquanyi.m3u8?zhebd
+#EXTINF:-1 group-title="央卫国际",鹿泉一套
+https://jwcdnqx.hebyun.com.cn/live/luquanyi/1500k/tzwj_video.m3u8?zhebd
+#EXTINF:-1 group-title="央卫国际",石家庄新闻
+http://pluslive1.sjzntv.cn/xmzh/playlist.m3u8
+#EXTINF:-1 group-title="央卫国际",石家庄娱乐
+http://pluslive1.sjzntv.cn/yule/playlist.m3u8
+#EXTINF:-1 group-title="央卫国际",石家庄生活
+http://pluslive1.sjzntv.cn/shenghuo/playlist.m3u8
+#EXTINF:-1 group-title="央卫国际",石家庄都市
+http://pluslive1.sjzntv.cn/dushi/playlist.m3u8
+#EXTINF:-1 group-title="央卫国际",保定新闻
+http://jwcdnqx.hebyun.com.cn/live/jybd/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="央卫国际",保定公共
+http://jwcdnqx.hebyun.com.cn/live/bdxw1/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="央卫国际",保定生活
+http://jwcdnqx.hebyun.com.cn/live/bddst/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="央卫国际",承德公共生活
+https://jwliveqxzb.hebyun.com.cn/cdsggshtv/cdsggshtv.m3u8
+#EXTINF:-1 group-title="央卫国际",承德新闻综合
+https://jwliveqxzb.hebyun.com.cn/cdsxwzhtv/cdsxwzhtv.m3u8
+#EXTINF:-1 group-title="央卫国际",大厂一套
+http://60.10.185.184:1935/live/dc1.stream/playlist.m3u8
+#EXTINF:-1 group-title="央卫国际",定州生活频道
+https://jwliveqxzb.hebyun.com.cn/shpd/shpd.m3u8
+#EXTINF:-1 group-title="央卫国际",定州新闻综合
+https://jwliveqxzb.hebyun.com.cn/xxzhpd/xxzhpd.m3u8
+#EXTINF:-1 group-title="央卫国际",邯郸新闻
+https://jwliveqxzb.hebyun.com.cn/hdxwzh/hdxwzh.m3u8
+#EXTINF:-1 group-title="央卫国际",邯郸公共
+https://jwliveqxzb.hebyun.com.cn/hdgg/hdgg.m3u8
+#EXTINF:-1 group-title="央卫国际",邯郸科教
+https://jwliveqxzb.hebyun.com.cn/hdkj/hdkj.m3u8
+#EXTINF:-1 group-title="央卫国际",衡山
+http://live.hznet.tv:1935/live/live1/500K/tzwj_video.m3u8
+#EXTINF:-1 group-title="央卫国际",衡水新闻综合
+http://111.225.205.64:8081/964D4p2/800/live.m3u8
+#EXTINF:-1 group-title="央卫国际",涞水新闻频道
+https://jwliveqxzb.hebyun.com.cn/lsdst/lsdst.m3u8
+#EXTINF:-1 group-title="央卫国际",鹿泉一套
+https://jwliveqxzb.hebyun.com.cn/luquanyi/luquanyi.m3u8
+#EXTINF:-1 group-title="央卫国际",平泉影视频道
+https://jwliveqxzb.hebyun.com.cn/pqys/pqys.m3u8
+#EXTINF:-1 group-title="央卫国际",平泉综合频道
+https://jwliveqxzb.hebyun.com.cn/pqzh/pqzh.m3u8
+#EXTINF:-1 group-title="央卫国际",清河经济综艺
+https://jwcdnqx.hebyun.com.cn/live/qinghe1/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="央卫国际",清河新闻综合
+https://jwcdnqx.hebyun.com.cn/live/qinghe/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="央卫国际",任丘文娱
+https://jwcdnqx.hebyun.com.cn/live/rqtv2/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="央卫国际",任丘综合
+https://jwcdnqx.hebyun.com.cn/live/rqtv1/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="央卫国际",望都综合频道
+https://jwliveqxzb.hebyun.com.cn/wddst/wddst.m3u8
+#EXTINF:-1 group-title="央卫国际",兴隆综合频道
+https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="央卫国际",石家庄新闻综合
+http://pluslive1.sjzntv.cn/xmzh/playlist.m3u8?zhebd
+#EXTINF:-1 group-title="央卫国际",石家庄娱乐
+http://pluslive1.sjzntv.cn/yule/playlist.m3u8?zhebd
+#EXTINF:-1 group-title="央卫国际",石家庄生活
+http://pluslive1.sjzntv.cn/shenghuo/playlist.m3u8?zhebd
+#EXTINF:-1 group-title="央卫国际",石家庄都市
+http://pluslive1.sjzntv.cn/dushi/playlist.m3u8?zhebd
+#EXTINF:-1 group-title="央卫国际",邯郸公共频道
+https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8?zhebd
+#EXTINF:-1 group-title="央卫国际",邯郸公共频道
+https://jwliveqxzb.hebyun.com.cn/hdgg/hdgg.m3u8
+#EXTINF:-1 group-title="央卫国际",邯郸科技教育
+https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8?zhebd
+#EXTINF:-1 group-title="央卫国际",邯郸科技教育
+https://jwliveqxzb.hebyun.com.cn/hdkj/hdkj.m3u8?zhebd
+#EXTINF:-1 group-title="央卫国际",鹿泉一套
+https://jwliveqxzb.hebyun.com.cn/luquanyi/luquanyi.m3u8?zhebd
+#EXTINF:-1 group-title="央卫国际",鹿泉一套
+https://jwcdnqx.hebyun.com.cn/live/luquanyi/1500k/tzwj_video.m3u8?zhebd
+#EXTINF:-1 group-title="央卫国际",河北农民
+https://jwplay.hebyun.com.cn/live/hbnmtv/1500k/tzwj_video.m3u8?zhebd
+#EXTINF:-1 group-title="央卫国际",滨海新闻
+http://traffic.jbh.tjbh.com/live/bhtv1/playlist.m3u8
+#EXTINF:-1 group-title="央卫国际",滨海综艺
+http://traffic.jbh.tjbh.com/live/bhtv2/playlist.m3u8
+#EXTINF:-1 group-title="央卫国际",滨海影视
+http://traffic.jbh.tjbh.com/live/bhtv3/playlist.m3u8
+#EXTINF:-1 group-title="央卫国际",河北都市
+https://jwplay.hebyun.com.cn/live/hbdstv/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="央卫国际",河北农民
+http://hbfc.chinashadt.com:2036/live/1003.stream/playlist.m3u8
+#EXTINF:-1 group-title="央卫国际",邯郸新闻综合
+https://jwliveqxzb.hebyun.com.cn/hdxwzh/hdxwzh.m3u8
+#EXTINF:-1 group-title="央卫国际",邯郸公共频道
+https://jwliveqxzb.hebyun.com.cn/hdgg/hdgg.m3u8
+#EXTINF:-1 group-title="央卫国际",邯郸公共频道
+https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="央卫国际",邯郸科技教育
+https://jwliveqxzb.hebyun.com.cn/hdkj/hdkj.m3u8
+#EXTINF:-1 group-title="央卫国际",邯郸科技教育
+https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="央卫国际",衡水新闻综合
+http://111.225.205.64:8081/964D4p2/800/live.m3u8
+#EXTINF:-1 group-title="央卫国际",邢台综合频道
+http://a.xttv.top/xttv/5ebe09cb3d1a0f3f3d062e99c78175a0.flv?auth_key=1861891200-0-0-d86d236a74b9a55f2596a7346ec632a8
+#EXTINF:-1 group-title="央卫国际",邢台公共频道
+http://a.xttv.top/xttv/d0586743dc68918f808f28b8bc90c737.flv?auth_key=1861891200-0-0-82cd69002c4060ddabc0bfa1b3446dc2
+#EXTINF:-1 group-title="央卫国际",承德新闻综合
+https://jwliveqxzb.hebyun.com.cn/cdsxwzhtv/cdsxwzhtv.m3u8
+#EXTINF:-1 group-title="央卫国际",承德新闻综合
+https://jwcdnqx.hebyun.com.cn/live/cdslywh/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="央卫国际",承德新闻综合
+https://jwcdnqx.hebyun.com.cn/live/cdsxwzhtv/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="央卫国际",承德公共生活
+https://jwliveqxzb.hebyun.com.cn/cdsggshtv/cdsggshtv.m3u8
+#EXTINF:-1 group-title="央卫国际",承德公共生活
+https://jwcdnqx.hebyun.com.cn/live/cdsggshtv/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="央卫国际",鹿泉一套
+https://jwliveqxzb.hebyun.com.cn/luquanyi/luquanyi.m3u8
+#EXTINF:-1 group-title="央卫国际",鹿泉一套
+https://jwcdnqx.hebyun.com.cn/live/luquanyi/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="央卫国际",鹿泉二套
+https://jwliveqxzb.hebyun.com.cn/luquaner/luquaner.m3u8
+#EXTINF:-1 group-title="央卫国际",鹿泉二套
+https://jwcdnqx.hebyun.com.cn/live/luquaner/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="央卫国际",涉县新闻综合
+https://jwcdnqx.hebyun.com.cn/live/SXTV1/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="央卫国际",阜城综合频道
+http://hbfc.chinashadt.com:2036/live/2.stream/playlist.m3u8
+#EXTINF:-1 group-title="央卫国际",阜城经济频道
+http://hbfc.chinashadt.com:2036/live/5.stream/playlist.m3u8
+#EXTINF:-1 group-title="央卫国际",枣强综合
+http://hbzqdb.chinashadt.com:1937/live/zqzh.stream_360p/playlist.m3u8
+#EXTINF:-1 group-title="央卫国际",昌黎综合频道
+https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="央卫国际",昌黎综合频道
+https://jwliveqxzb.hebyun.com.cn/clzhpd/clzhpd.m3u8
+#EXTINF:-1 group-title="央卫国际",迁安新闻综合
+https://jwplay.hebyun.com.cn/live/jiuyunqianan/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="央卫国际",迁西综合频道
+https://jwliveqxzb.hebyun.com.cn/qxzhpd/qxzhpd.m3u8
+#EXTINF:-1 group-title="央卫国际",迁西综合频道
+https://jwcdnqx.hebyun.com.cn/live/qxzhpd/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="央卫国际",迁西农业频道
+https://jwliveqxzb.hebyun.com.cn/qxny/qxny.m3u8
+#EXTINF:-1 group-title="央卫国际",迁西农业频道
+https://jwcdnqx.hebyun.com.cn/live/qxny/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="央卫国际",霸州新闻频道
+http://hbbz.chinashadt.com:2036/live/stream:bzxw.stream/playlist.m3u8
+#EXTINF:-1 group-title="央卫国际",霸州文化频道
+http://hbbz.chinashadt.com:2036/live/stream:bzwh.stream/playlist.m3u8
+#EXTINF:-1 group-title="央卫国际",霸州公共频道
+http://hbbz.chinashadt.com:2036/live/stream:bzgg.stream/playlist.m3u8
+#EXTINF:-1 group-title="央卫国际",霸州少儿频道
+http://hbbz.chinashadt.com:2036/live/stream:bzse.stream/playlist.m3u8
+#EXTINF:-1 group-title="央卫国际",大厂一套
+http://60.10.185.184:1935/live/dc1.stream/playlist.m3u8
+#EXTINF:-1 group-title="央卫国际",永清综合频道
+http://60.10.203.69:8000/0.m3u8
+#EXTINF:-1 group-title="央卫国际",永清影视频道
+http://60.10.203.69:8000/4.m3u8
+#EXTINF:-1 group-title="央卫国际",清河新闻综合
+https://jwcdnqx.hebyun.com.cn/live/qinghe/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="央卫国际",清河新闻综合
+https://jwliveqxzb.hebyun.com.cn/qinghe/qinghe.m3u8
+#EXTINF:-1 group-title="央卫国际",清河经济综艺
+https://jwcdnqx.hebyun.com.cn/live/qinghe1/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="央卫国际",清河经济综艺
+https://jwliveqxzb.hebyun.com.cn/qinghe1/qinghe1.m3u8
+#EXTINF:-1 group-title="央卫国际",沧县综合
+http://hebcx.chinashadt.com:2036/live/10001.stream/playlist.m3u8
+#EXTINF:-1 group-title="央卫国际",沧县二套
+http://hebcx.chinashadt.com:2036/live/10002.stream/playlist.m3u8
+#EXTINF:-1 group-title="央卫国际",青县新闻
+https://jwliveqxzb.hebyun.com.cn/qxtvlive1/qxtvlive1.m3u8
+#EXTINF:-1 group-title="央卫国际",青县新闻
+https://jwcdnqx.hebyun.com.cn/live/qxtvlive1/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="央卫国际",任丘综合
+https://jwcdnqx.hebyun.com.cn/live/rqtv1/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="央卫国际",任丘文娱
+https://jwcdnqx.hebyun.com.cn/live/rqtv2/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="央卫国际",定州新闻综合
+https://jwliveqxzb.hebyun.com.cn/xxzhpd/xxzhpd.m3u8
+#EXTINF:-1 group-title="央卫国际",定州新闻综合
+https://jwcdnqx.hebyun.com.cn/live/xxzhpd/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="央卫国际",定州生活频道
+https://jwliveqxzb.hebyun.com.cn/shpd/shpd.m3u8
+#EXTINF:-1 group-title="央卫国际",定州生活频道
+https://jwcdnqx.hebyun.com.cn/live/shpd/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="央卫国际",涞水新闻频道
+https://jwliveqxzb.hebyun.com.cn/lsdst/lsdst.m3u8
+#EXTINF:-1 group-title="央卫国际",涞水新闻频道
+https://jwcdnqx.hebyun.com.cn/live/lsdst/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="央卫国际",清苑新闻频道
+https://jwcdnqx.hebyun.com.cn/live/qyxwpd/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="央卫国际",清苑生活频道
+https://jwcdnqx.hebyun.com.cn/live/qyshpd/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="央卫国际",望都综合频道
+https://jwliveqxzb.hebyun.com.cn/wddst/wddst.m3u8
+#EXTINF:-1 group-title="央卫国际",望都综合频道
+https://jwcdnqx.hebyun.com.cn/live/wddst/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="央卫国际",平泉综合频道
+https://jwliveqxzb.hebyun.com.cn/pqzh/pqzh.m3u8
+#EXTINF:-1 group-title="央卫国际",平泉综合频道
+https://jwcdnqx.hebyun.com.cn/live/pqzh/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="央卫国际",平泉影视频道
+https://jwliveqxzb.hebyun.com.cn/pqys/pqys.m3u8
+#EXTINF:-1 group-title="央卫国际",平泉影视频道
+https://jwcdnqx.hebyun.com.cn/live/pqys/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="央卫国际",双滦新闻频道
+https://jwcdnqx.hebyun.com.cn/live/slxw/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="央卫国际",双滦影视频道
+https://jwcdnqx.hebyun.com.cn/live/slys/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="央卫国际",兴隆综合频道
+https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="央卫国际",黑龙江文体
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/1.m3u8
+#EXTINF:-1 group-title="央卫国际",黑龙江农业科教
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/1.m3u8
+#EXTINF:-1 group-title="央卫国际",黑龙江都市
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/1.m3u8
+#EXTINF:-1 group-title="央卫国际",黑龙江少儿
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/1.m3u8
+#EXTINF:-1 group-title="央卫国际",黑龙江影视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/1.m3u8
+#EXTINF:-1 group-title="央卫国际",黑龙新闻法治
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/1.m3u8
+#EXTINF:-1 group-title="央卫国际",鹤岗新闻综合
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226534/index.m3u8
+#EXTINF:-1 group-title="央卫国际",佳木斯新闻综合
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226451/index.m3u8
+#EXTINF:-1 group-title="央卫国际",齐齐哈尔经济法制
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226555/index.m3u8
+#EXTINF:-1 group-title="央卫国际",齐齐哈尔新闻综合
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226437/index.m3u8
+#EXTINF:-1 group-title="央卫国际",双鸭山公共
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226532/index.m3u8
+#EXTINF:-1 group-title="央卫国际",双鸭山综合
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226529/index.m3u8
+#EXTINF:-1 group-title="央卫国际",大庆新闻综合
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226484/index.m3u8
+#EXTINF:-1 group-title="央卫国际",大庆公共
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226525/index.m3u8
+#EXTINF:-1 group-title="央卫国际",哈尔滨新闻综合
+https://stream.hrbtv.net/xwzh/playlist.m3u8
+#EXTINF:-1 group-title="央卫国际",哈尔滨生活
+https://stream.hrbtv.net/shpd/sd/live.m3u8
+#EXTINF:-1 group-title="央卫国际",哈尔滨影视
+https://stream.hrbtv.net/yspd/sd/live.m3u8
+#EXTINF:-1 group-title="央卫国际",哈尔滨娱乐
+https://stream.hrbtv.net/ylpd/sd/live.m3u8
+#EXTINF:-1 group-title="央卫国际",哈尔滨都市资讯
+https://stream.hrbtv.net/zxpd/sd/live.m3u8
+#EXTINF:-1 group-title="央卫国际",吉林都市
+http://stream1.jlntv.cn/dspd/sd/live.m3u8?zjild
+#EXTINF:-1 group-title="央卫国际",吉林公共新闻
+http://stream1.jlntv.cn/ggpd/sd/live.m3u8
+#EXTINF:-1 group-title="央卫国际",吉林公共新闻
+http://stream1.jlntv.cn/ggpd/sd/live.m3u8?zjild
+#EXTINF:-1 group-title="央卫国际",吉林公共新闻
+http://stream1.jlntv.cn/dspd/sd/live.m3u8
+#EXTINF:-1 group-title="央卫国际",吉林公共新闻
+http://stream1.jlntv.cn/dspd/sd/live.m3u8?_upt=4f4899d21531575987
+#EXTINF:-1 group-title="央卫国际",吉林公共新闻
+http://stream1.jlntv.cn/ggpd/playlist.m3u8
+#EXTINF:-1 group-title="央卫国际",吉林频道
+http://stream1.jlntv.cn/fzpd/sd/live.m3u8?zjild
+#EXTINF:-1 group-title="央卫国际",吉林七台
+http://stream1.jlntv.cn/fzpd/sd/live.m3u8
+#EXTINF:-1 group-title="央卫国际",吉林山村
+http://stream1.jlntv.cn/dspd/playlist.m3u8?_upt=a9a201ef1578416337
+#EXTINF:-1 group-title="央卫国际",吉林生活
+http://stream1.jlntv.cn/shpd/sd/live.m3u8?zjild
+#EXTINF:-1 group-title="央卫国际",吉林乡村
+http://stream1.jlntv.cn/shpd/sd/live.m3u8
+#EXTINF:-1 group-title="央卫国际",吉林乡村
+http://stream1.jlntv.cn/shpd/sd/live.m3u8?_upt=212b47d81531576020
+#EXTINF:-1 group-title="央卫国际",吉林乡村
+http://stream1.jlntv.cn/xcpd/sd/live.m3u8
+#EXTINF:-1 group-title="央卫国际",吉林乡村
+http://stream1.jlntv.cn/xcpd/sd/live.m3u8?zjild
+#EXTINF:-1 group-title="央卫国际",吉林新闻综合
+http://stream1.jlntv.cn/xcpd/sd/live.m3u8?_upt=ed8b01841531576074
+#EXTINF:-1 group-title="央卫国际",吉林影院
+http://stream1.jlntv.cn/yspd/sd/live.m3u8?zjild
+#EXTINF:-1 group-title="央卫国际",白山公共
+http://stream8.jlntv.cn/baishan2/playlist.m3u8
+#EXTINF:-1 group-title="央卫国际",白山公共
+http://stream8.jlntv.cn/baishan2/playlist.m3u8?zjild
+#EXTINF:-1 group-title="央卫国际",德惠综合
+http://stream11.jlntv.cn/dehuitv/sd/live.m3u8?zjild
+#EXTINF:-1 group-title="央卫国际",东北戏曲
+http://stream1.jlntv.cn/dbxq/sd/live.m3u8
+#EXTINF:-1 group-title="央卫国际",东丰综合
+http://stream5.jlntv.cn/df/sd/live.m3u8
+#EXTINF:-1 group-title="央卫国际",东丰综合
+http://stream5.jlntv.cn/df/sd/live.m3u8?zjild
+#EXTINF:-1 group-title="央卫国际",东辽综合
+http://stream5.jlntv.cn/dl/sd/live.m3u8
+#EXTINF:-1 group-title="央卫国际",桦甸综合
+http://stream10.jlntv.cn/huadian/sd/live.m3u8
+#EXTINF:-1 group-title="央卫国际",桦甸综合
+http://stream10.jlntv.cn/huadian/sd/live.m3u8?zjild
+#EXTINF:-1 group-title="央卫国际",珲春新闻综合
+http://stream8.jlntv.cn/hctv/sd/live.m3u8?zjild
+#EXTINF:-1 group-title="央卫国际",辉南新闻综合
+http://stream5.jlntv.cn/hn/sd/live.m3u8
+#EXTINF:-1 group-title="央卫国际",辉南新闻综合
+http://stream5.jlntv.cn/hn/sd/live.m3u8?zjild
+#EXTINF:-1 group-title="央卫国际",江源综合
+http://stream10.jlntv.cn/jiangyuantv/sd/live.m3u8
+#EXTINF:-1 group-title="央卫国际",靖宇综合
+http://stream8.jlntv.cn/jytv/sd/live.m3u8?zjild
+#EXTINF:-1 group-title="央卫国际",九台综合
+http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8?zjild
+#EXTINF:-1 group-title="央卫国际",柳河综合
+http://stream5.jlntv.cn/lh/sd/live.m3u8?zjild
+#EXTINF:-1 group-title="央卫国际",龙井综合
+http://stream8.jlntv.cn/ljtv/sd/live.m3u8
+#EXTINF:-1 group-title="央卫国际",龙井综合
+http://stream8.jlntv.cn/ljtv/sd/live.m3u8?zjild
+#EXTINF:-1 group-title="央卫国际",磐石综合
+http://stream5.jlntv.cn/ps/sd/live.m3u8?zjild
+#EXTINF:-1 group-title="央卫国际",舒兰新闻综合
+http://stream8.jlntv.cn/shulan/sd/live.m3u8?zjild
+#EXTINF:-1 group-title="央卫国际",双辽综合
+http://stream5.jlntv.cn/sl/sd/live.m3u8?zjild
+#EXTINF:-1 group-title="央卫国际",双阳综合
+http://stream11.jlntv.cn/shuangyang/sd/live.m3u8?zjild
+#EXTINF:-1 group-title="央卫国际",通化县综合
+http://stream5.jlntv.cn/thx/sd/live.m3u8
+#EXTINF:-1 group-title="央卫国际",通化县综合
+http://stream5.jlntv.cn/thx/sd/live.m3u8?zjild
+#EXTINF:-1 group-title="央卫国际",汪清综合
+http://stream5.jlntv.cn/wq/sd/live.m3u8?zjild
+#EXTINF:-1 group-title="央卫国际",延边
+http://live.cloud.yanews.cn/video/s10001-YATV-2/index.m3u8?zjild
+#EXTINF:-1 group-title="央卫国际",延边
+http://live.ybtvyun.com/video/s10006-04819ee234a7/index.m3u8?zjild
+#EXTINF:-1 group-title="央卫国际",延边
+http://live.ybtvyun.com/video/s10016-af95004b6d1a/index.m3u8?zjild
+#EXTINF:-1 group-title="央卫国际",延边朝鲜语综合
+http://live.ybtvyun.com/video/s10006-b571c289a478/index.m3u8?zjild
+#EXTINF:-1 group-title="央卫国际",延边朝鲜语综合
+http://live.ybtvyun.com/video/s10016-19a16c47eb99/index.m3u8?zjild
+#EXTINF:-1 group-title="央卫国际",延边汉语综合
+http://live.ybtvyun.com/video/s10006-04819ee234a7/index.m3u8?zjild
+#EXTINF:-1 group-title="央卫国际",延边汉语综合
+http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8?zjild
+#EXTINF:-1 group-title="央卫国际",永吉综合频道
+http://stream10.jlntv.cn/yongji/sd/live.m3u8
+#EXTINF:-1 group-title="央卫国际",长白山电视台
+http://stream8.jlntv.cn/cbstv/sd/live.m3u8
+#EXTINF:-1 group-title="央卫国际",长白山电视台
+http://stream8.jlntv.cn/cbstv/sd/live.m3u8?zjild
+#EXTINF:-1 group-title="央卫国际",辽宁都市
+http://59.44.192.82:65000/hls/21/index.m3u8?key=tvbox6_com&playlive=1&authid=0
+#EXTINF:-1 group-title="央卫国际",辽宁影视剧
+http://59.44.192.82:65000/hls/22/index.m3u8?key=tvbox6_com&playlive=1&authid=0
+#EXTINF:-1 group-title="央卫国际",辽宁北方
+http://59.44.192.82:65000/hls/23/index.m3u8?key=tvbox6_com&playlive=1&authid=0
+#EXTINF:-1 group-title="央卫国际",辽宁体育
+http://59.44.192.82:65000/hls/24/index.m3u8?key=tvbox6_com&playlive=1&authid=0
+#EXTINF:-1 group-title="央卫国际",辽宁生活
+http://59.44.192.82:65000/hls/25/index.m3u8?key=tvbox6_com&playlive=1&authid=0
+#EXTINF:-1 group-title="央卫国际",辽宁公共
+http://59.44.192.82:65000/hls/26/index.m3u8?key=tvbox6_com&playlive=1&authid=0
+#EXTINF:-1 group-title="央卫国际",辽宁经济
+http://59.44.192.82:65000/hls/87/index.m3u8?key=tvbox6_com&playlive=1&authid=0
+#EXTINF:-1 group-title="央卫国际",辽宁教育
+http://59.44.192.82:65000/hls/88/index.m3u8?key=tvbox6_com&playlive=1&authid=0
+#EXTINF:-1 group-title="央卫国际",璧山综合
+http://222.179.42.129:8181/hls1.m3u8?zzhongqd
+#EXTINF:-1 group-title="央卫国际",重庆精彩导视
+http://zbxclive.cbg.cn:1935/app_2/ls_105.stream/playlist.m3u8
+#EXTINF:-1 group-title="央卫国际",铜梁综合
+http://183.64.174.171:40123/ch1.m3u8
+#EXTINF:-1 group-title="央卫国际",万州综合频道
+http://wanzhoulive.cbg.cn:8017/iTXwrGs/800/live.m3u8
+#EXTINF:-1 group-title="央卫国际",万州综合频道
+http://123.146.162.24:8017/iTXwrGs/800/live.m3u8
+#EXTINF:-1 group-title="央卫国际",万州三峡移民
+http://wanzhoulive.cbg.cn:8017/c2F0hmi/1000/live.m3u8
+#EXTINF:-1 group-title="央卫国际",万州三峡移民
+http://123.146.162.24:8013/tslslive/PU2vzMI/hls/live_sd.m3u8
+#EXTINF:-1 group-title="央卫国际",万州三峡移民
+http://123.146.162.24:8017/c2F0hmi/1000/live.m3u8
+#EXTINF:-1 group-title="央卫国际",万州最万州
+http://wanzhoulive.cbg.cn:8017/d4ceB1a/1000/live.m3u8
+#EXTINF:-1 group-title="央卫国际",万州最万州
+http://123.146.162.24:8013/tslslive/vWlnEzU/hls/live_sd.m3u8
+#EXTINF:-1 group-title="央卫国际",万州最万州
+http://123.146.162.24:8017/d4ceB1a/1000/live.m3u8
+#EXTINF:-1 group-title="央卫国际",璧山综合频道
+http://222.179.42.129:8181/hls1.m3u8
+#EXTINF:-1 group-title="央卫国际",潼南综合频道
+http://183.230.184.51:65500/tntv1.m3u8
+#EXTINF:-1 group-title="央卫国际",江津新闻综合
+http://222.179.155.21:1935/ch1.m3u8
+#EXTINF:-1 group-title="央卫国际",江津经济生活
+http://222.179.155.21:1935/ch0.m3u8
+#EXTINF:-1 group-title="央卫国际",江津文化旅游
+http://222.179.155.21:1935/ch2.m3u8
+#EXTINF:-1 group-title="央卫国际",武隆综合频道
+https://qxlmlive9.cbg.cn/applive/wltvzh/playlist.m3u8
+#EXTINF:-1 group-title="央卫国际",荣昌综合频道
+http://183.64.181.25:40023/rongchang01.m3u8
+#EXTINF:-1 group-title="央卫国际",北碚综合频道
+http://222.178.181.121:12034/beibei01.m3u8
+#EXTINF:-1 group-title="央卫国际",北碚综合频道
+http://222.178.181.121:12034/ts1
+#EXTINF:-1 group-title="央卫国际",崆峒综合
+http://125.74.200.110:10080/hls/001/001_live.m3u8?gansu
+#EXTINF:-1 group-title="央卫国际",甘南综合频道
+http://pili-live-hls.hfmt.net/gntv/gnhytv.m3u8
+#EXTINF:-1 group-title="央卫国际",甘南藏语频道
+http://pili-live-hls.hfmt.net/gntv/gnzytv.m3u8
+#EXTINF:-1 group-title="央卫国际",庆阳综合频道
+http://stream.gsqytv.com.cn/xwzh/sd/live.m3u8
+#EXTINF:-1 group-title="央卫国际",庆阳公共频道
+http://stream.gsqytv.com.cn/ggpd/sd/live.m3u8
+#EXTINF:-1 group-title="央卫国际",张掖新闻综合
+https://play.kankanlive.com/live/1629709727589955.m3u8
+#EXTINF:-1 group-title="央卫国际",张掖公共频道
+https://play.kankanlive.com/live/1629710004378956.m3u8
+#EXTINF:-1 group-title="央卫国际",定西综合频道
+https://play.kankanlive.com/live/1645679947087932.m3u8
+#EXTINF:-1 group-title="央卫国际",定西公共频道
+https://play.kankanlive.com/live/1645680054929933.m3u8
+#EXTINF:-1 group-title="央卫国际",平川综合频道
+https://play.kankanlive.com/live/1621842376245934.m3u8
+#EXTINF:-1 group-title="央卫国际",临洮综合频道
+https://play.kankanlive.com/live/1638428318510977.m3u8
+#EXTINF:-1 group-title="央卫国际",金川综合频道
+https://play.kankanlive.com/live/1625041962958919.m3u8
+#EXTINF:-1 group-title="央卫国际",古浪综合频道
+https://play.kankanlive.com/live/1619400940821967.m3u8
+#EXTINF:-1 group-title="央卫国际",陇西综合频道
+http://play.kankanlive.com/live/1641010321462941.m3u8
+#EXTINF:-1 group-title="央卫国际",岷县综合频道
+http://play.kankanlive.com/live/1614311581479927.m3u8
+#EXTINF:-1 group-title="央卫国际",通渭综合频道
+https://play.kankanlive.com/live/1629944062210970.m3u8
+#EXTINF:-1 group-title="央卫国际",临潭综合频道
+http://pili-live-hls.hfmt.net/gntv/lttv.m3u8
+#EXTINF:-1 group-title="央卫国际",夏河综合频道
+http://pili-live-hls.hfmt.net/gntv/xhtv.m3u8
+#EXTINF:-1 group-title="央卫国际",卓尼综合频道
+http://pili-live-hls.hfmt.net/gntv/zntv.m3u8
+#EXTINF:-1 group-title="央卫国际",舟曲新闻综合
+https://play.kankanlive.com/live/1631185650131909.m3u8
+#EXTINF:-1 group-title="央卫国际",礼县综合频道
+https://play.kankanlive.com/live/1621416463200961.m3u8
+#EXTINF:-1 group-title="央卫国际",西和综合频道
+https://play.kankanlive.com/live/1626051451895935.m3u8
+#EXTINF:-1 group-title="央卫国际",临夏市电视台
+http://124.152.34.102:8030/wCMq71/wCMq71_0.m3u8
+#EXTINF:-1 group-title="央卫国际",崆峒综合频道
+http://125.74.200.110:10080/hls/001/001_live.m3u8
+#EXTINF:-1 group-title="央卫国际",秦安综合频道
+http://play.kankanlive.com/live/1620829433464975.m3u8
+#EXTINF:-1 group-title="央卫国际",南宁新闻综合
+https://hls.nntv.cn/nnlive/XWZH_24.m3u8
+#EXTINF:-1 group-title="央卫国际",南宁文旅生活
+https://hls.nntv.cn/nnlive/WLSH_24.m3u8
+#EXTINF:-1 group-title="央卫国际",南宁公共
+https://hls.nntv.cn/nnlive/GGPD_24.m3u8
+#EXTINF:-1 group-title="央卫国际",玉林新闻综合
+http://51742.hlsplay.aodianyun.com/tv_radio_51742/tv_channel_3289.m3u8?auth_key=4846965841-0-0-9764667fa15da8675d9343a9d685e93b&extra_key=3G7phQNujucfjDfVZX7XtFsfMjeELWIZpjNRADdYpRWOUdAykIw7RkxbAmiF9U934MKf8LNlRPUVp9ooT4UEvKJQlaJrZuMqJnw-UvayII5G4kw7jFgAqhhjpD4DC7gyZEtynT7zMnF8xzE3J1g6soaagSkmkag_tsjqRTH1zeM
+#EXTINF:-1 group-title="央卫国际",桂林新闻综合
+https://pull.gltvs.com/live/glxw/playlist.m3u8?v=b0528684bf934e120e1c30fc808e6576&t=1796868188
+#EXTINF:-1 group-title="央卫国际",图文频道
+http://citylive.njgdmm.com/beihai/d49b9838-dacf-4a22-ab46-1eed2b515d88.m3u8
+#EXTINF:-1 group-title="央卫国际",来宾综合
+http://zb.lbnews.com.cn:1935/live/lbzh.stream/playlist.m3u8
+#EXTINF:-1 group-title="央卫国际",来宾新闻
+http://zb.lbnews.com.cn:1935/live/xwhc.stream/playlist.m3u8
+#EXTINF:-1 group-title="央卫国际",横州
+http://live.nnnews.net/video/s10004-hztv-hd/index.m3u8
+#EXTINF:-1 group-title="央卫国际",隆安
+https://hls.nntv.cn/nnlive/LATV_24.m3u8
+#EXTINF:-1 group-title="央卫国际",罗成
+http://www.3jlc.cn/lctvlive/lcm.m3u8
+#EXTINF:-1 group-title="央卫国际",贺州综合频道
+http://zhz.gxhzxw.com:2935/live/HZXW-HD/playlist.m3u8
+#EXTINF:-1 group-title="央卫国际",罗城综合
+http://111.12.75.177:9100/lctvlive/lch.m3u8
+#EXTINF:-1 group-title="央卫国际",松桃新闻
+http://live.strmtzx.cn/stxw/sd/live.m3u8
+#EXTINF:-1 group-title="央卫国际",松桃综艺
+http://live.strmtzx.cn/stzy/sd/live.m3u8
+#EXTINF:-1 group-title="央卫国际",金海湖电视台
+http://pili-live-hls.jhh.ddcpc.cn/ddcpc-jhh/tv1050-1563865985.m3u8
+#EXTINF:-1 group-title="央卫国际",正安综合
+http://pili-live-hls.221.i2863.com/i2863-221/live_221_315303.m3u8
+#EXTINF:-1 group-title="央卫国际",乌兰察布新闻综合
+http://pluslive.wrbtv.cn/xwzh/sd/live.m3u8
+#EXTINF:-1 group-title="央卫国际",乌兰察布经济生活
+http://pluslive.wrbtv.cn/wrbtv1/sd/live.m3u8
+#EXTINF:-1 group-title="央卫国际",乌兰察布生活频道
+http://pluslive.wrbtv.cn/wrbtv3/sd/live.m3u8
+#EXTINF:-1 group-title="央卫国际",达茂综合频道
+http://pili-live-hls.nmgapp12019.sobeylive.com/nmgapp12019/live162426298237692.m3u8
+#EXTINF:-1 group-title="央卫国际",固阳综合频道
+http://pili-live-hls.nmgapp12019.sobeylive.com/nmgapp12019/live160861109294211.m3u8
+#EXTINF:-1 group-title="央卫国际",克旗综合频道
+http://pili-live-hls.nmgapp12019.sobeylive.com/nmgapp12019/live159582155321721.m3u8
+#EXTINF:-1 group-title="央卫国际",元宝山综合
+http://l2yx82zv.live2.danghongyun.com/live/hls/8be0890a1b0c4d7aaf80b51ea8646682/5a8988f5ecc64986a19aa9b6b3a052a6-1.m3u8
+#EXTINF:-1 group-title="央卫国际",突泉综合频道
+http://pili-live-hls.cyyapp2019.sobeylive.com/cyyapp2019/live163886991032759.m3u8
+#EXTINF:-1 group-title="央卫国际",库伦旗电视台
+http://pili-live-hls.nmgapp12019.sobeylive.com/nmgapp12019/live161942247484390.m3u8
+#EXTINF:-1 group-title="央卫国际",奈曼旗电视台
+http://pili-live-hls.nmgapp12019.sobeylive.com/nmgapp12019/live161888593025926.m3u8
+#EXTINF:-1 group-title="央卫国际",准格尔旗电视台
+http://pili-live-hls.nmgapp12019.sobeylive.com/nmgapp12019/live161802828375549.m3u8
+#EXTINF:-1 group-title="央卫国际",鄂托克旗电视台
+http://110.19.181.138:10080/hls/F509Rh7GR/F509Rh7GR_live.m3u8
+#EXTINF:-1 group-title="央卫国际",察右前旗综合
+http://pili-live-hls.nmgapp12019.sobeylive.com/nmgapp12019/live160073959279435.m3u8
+#EXTINF:-1 group-title="央卫国际",鄂温克电视台
+http://pili-live-hls.nmgapp12019.sobeylive.com/nmgapp12019/live162700604855057.m3u8
+#EXTINF:-1 group-title="央卫国际",宁夏卫视
+https://hls.ningxiahuangheyun.com/live/nxws1M.m3u8
+#EXTINF:-1 group-title="央卫国际",宁夏公共
+https://hls.ningxiahuangheyun.com/live/nxgg1M.m3u8
+#EXTINF:-1 group-title="央卫国际",宁夏经济
+https://hls.ningxiahuangheyun.com/live/nxjj1M.m3u8
+#EXTINF:-1 group-title="央卫国际",宁夏少儿
+https://hls.ningxiahuangheyun.com/live/nxse1M.m3u8
+#EXTINF:-1 group-title="央卫国际",宁夏文旅
+https://hls.ningxiahuangheyun.com/live/nxwl1M.m3u8
+#EXTINF:-1 group-title="央卫国际",吴忠公共
+http://live.kanwz.net/ggpd/sd/live.m3u8?zningxd
+#EXTINF:-1 group-title="央卫国际",吴忠综合
+http://live.kanwz.net/zhpd/sd/live.m3u8?zningxd
+#EXTINF:-1 group-title="央卫国际",青海经视
+http://stream.qhbtv.com/qhsh/sd/live.m3u8?_upt=ba357f031594546763
+#EXTINF:-1 group-title="央卫国际",青海都市
+http://stream.qhbtv.com/qhds/sd/live.m3u8?_upt=f868bafe1594546577
+#EXTINF:-1 group-title="央卫国际",西宁新闻综合
+https://liveout.xntv.tv/a65jur/96iln2.m3u8
+#EXTINF:-1 group-title="央卫国际",西宁生活服务
+http://dtrmlive.qhdtrm.cn/xnds/sd/live.m3u8
+#EXTINF:-1 group-title="央卫国际",西宁生活服务
+https://liveout.xntv.tv/a65jur/90p2i1.m3u8
+#EXTINF:-1 group-title="央卫国际",囊谦综合
+http://pili-live-hls-qhnqapp2020.sobeylive.com/qhnqapp2020/qhnqtv01.m3u8
+#EXTINF:-1 group-title="央卫国际",湟中综合
+http://livecdn.dmqhyadmin.com/hls/xjhuangzhong.m3u8
+#EXTINF:-1 group-title="央卫国际",门源综合
+http://livecdn.dmqhyadmin.com/hls/xjmenyuan.m3u8
+#EXTINF:-1 group-title="央卫国际",祁连综合
+http://livecdn.dmqhyadmin.com/hls/xjqilian.m3u8
+#EXTINF:-1 group-title="央卫国际",贵南综合
+http://livecdn.dmqhyadmin.com/hls/xjguinan.m3u8
+#EXTINF:-1 group-title="央卫国际",化隆综合
+http://livecdn.dmqhyadmin.com/hls/xjhualong.m3u8
+#EXTINF:-1 group-title="央卫国际",民和综合
+http://livecdn.dmqhyadmin.com/hls/xjminhe.m3u8
+#EXTINF:-1 group-title="央卫国际",门源综合
+http://livecdn.dmqhyadmin.com/hls/xjmenyuan.m3u8?zqinghd
+#EXTINF:-1 group-title="央卫国际",民和综合
+http://livecdn.dmqhyadmin.com/hls/xjminhe.m3u8?zqinghd
+#EXTINF:-1 group-title="央卫国际",西宁生活服务
+https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd
+#EXTINF:-1 group-title="央卫国际",西宁新闻综合
+https://liveout.xntv.tv/a65jur/96iln2.m3u8?zqinghd
+#EXTINF:-1 group-title="央卫国际",哈密一套
+http://stream.hmgbtv.com/hm1/hd/live.m3u8
+#EXTINF:-1 group-title="央卫国际",哈密二套
+http://stream.hmgbtv.com/hm2/hd/live.m3u8
+#EXTINF:-1 group-title="央卫国际",哈密三套
+http://stream.hmgbtv.com/hm3/hd/live.m3u8
+#EXTINF:-1 group-title="央卫国际",伊犁汉语综合
+http://110.153.180.106:55555/out_1/index.m3u8
+#EXTINF:-1 group-title="央卫国际",伊犁维吾尔
+http://110.153.180.106:55555/out_2/index.m3u8
+#EXTINF:-1 group-title="央卫国际",伊犁哈萨克
+http://110.153.180.106:55555/out_3/index.m3u8
+#EXTINF:-1 group-title="央卫国际",伊犁经济法制
+http://110.153.180.106:55555/out_4/index.m3u8
+#EXTINF:-1 group-title="央卫国际",裕民汉语
+http://117.190.130.4:8081/out_1/index.m3u8
+#EXTINF:-1 group-title="央卫国际",裕民哈语
+http://117.190.130.4:8081/out_2/index.m3u8
+#EXTINF:-1 group-title="央卫国际",奎屯汉语综合
+http://218.84.12.186:8001/hls/main/playlist.m3u8
+#EXTINF:-1 group-title="央卫国际",奎屯哈萨克语
+http://218.84.12.186:8002/hls/main/playlist.m3u8
+#EXTINF:-1 group-title="央卫国际",九师电视台
+https://liveout.btzx.com.cn/3pyc0h/dbfvwu.m3u8
+#EXTINF:-1 group-title="央卫国际",可克达拉综合
+http://test5.btzx.com.cn:80/live/kkdl.stream/playlist.m3u8
+#EXTINF:-1 group-title="央卫国际",石河子新闻综合
+http://124.88.144.73:1935/live/xwzh/playlist.m3u8
+#EXTINF:-1 group-title="央卫国际",石河子影视文体
+http://124.88.144.73:1935/live/jjsh/playlist.m3u8
+#EXTINF:-1 group-title="央卫国际",石河子影视文体
+http://202.107.188.141:5002/shiheziyinshiwenti_hdgq.m3u8?token=guoziyun兵团八师石河子教育,http://124.88.144.73:1935/live/jiaoyu/playlist.m3u8?zxinjd
+#EXTINF:-1 group-title="央卫国际",兵团八师石河子经济生活
+http://124.88.144.73:1935/live/dywt/playlist.m3u8?zxinjd
+#EXTINF:-1 group-title="央卫国际",兵团八师石河子新闻综合
+http://124.88.144.73:1935/live/xwzh/playlist.m3u8?zxinjd
+#EXTINF:-1 group-title="央卫国际",兵团十三师新星综合
+http://test5.btzx.com.cn/live/13TV.stream/playlist.m3u8?zxinjd
+#EXTINF:-1 group-title="央卫国际",兵团十四师昆玉综合
+http://test5.btzx.com.cn/live/14TV.stream/playlist.m3u8?zxinjd
+#EXTINF:-1 group-title="央卫国际",兵团四师可克达拉综合
+http://test5.btzx.com.cn/live/kkdl.stream/playlist.m3u8?zxinjd
+#EXTINF:-1 group-title="央卫国际",奎屯汉语综合
+http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd
+#EXTINF:-1 group-title="央卫国际",玛纳斯综合
+http://218.84.127.245:1026/hls/main1/playlist.m3u8?zxinjd
+#EXTINF:-1 group-title="央卫国际",伊犁哈萨克
+http://110.153.180.106:55555/out_3/index.m3u8?zxinjd
+#EXTINF:-1 group-title="央卫国际",伊犁汉语综合
+http://110.153.180.106:55555/out_1/index.m3u8?zxinjd
+#EXTINF:-1 group-title="央卫国际",伊犁经济法制
+http://110.153.180.106:55555/out_4/index.m3u8?zxinjd
+#EXTINF:-1 group-title="央卫国际",伊犁维吾尔
+http://110.153.180.106:55555/out_2/index.m3u8?zxinjd
+#EXTINF:-1 group-title="央卫国际",裕民哈语
+http://117.190.130.4:8081/out_2/index.m3u8?zxinjd
+#EXTINF:-1 group-title="央卫国际",裕民汉语
+http://117.190.130.4:8081/out_1/index.m3u8?zxinjd
+#EXTINF:-1 group-title="央卫国际",西藏藏语
+http://media.vtibet.com/masvod/HLSLive/7/zangyuTV_q1.m3u8
+#EXTINF:-1 group-title="央卫国际",拉萨汉语综合
+http://file.lasatv.cn/cms/videos/nmip-media/channellive/channel1/playlist.m3u8
+#EXTINF:-1 group-title="央卫国际",拉萨藏语综合
+http://file.lasatv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8
+#EXTINF:-1 group-title="央卫国际",拉萨文旅频道
+http://file.lasatv.cn/cms/videos/nmip-media/channellive/channel3/playlist.m3u8
+#EXTINF:-1 group-title="央卫国际",浙江｜公共新闻
+https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+#EXTINF:-1 group-title="央卫国际",浙江｜国际频道
+https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+#EXTINF:-1 group-title="央卫国际",浙江｜少儿频道
+https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1 group-title="央卫国际",浙江｜教科影视
+https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+#EXTINF:-1 group-title="央卫国际",浙江｜数码时代
+https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+#EXTINF:-1 group-title="央卫国际",浙江｜民生休闲
+https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+#EXTINF:-1 group-title="央卫国际",浙江｜经济生活
+https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+#EXTINF:-1 group-title="央卫国际",浙江｜钱江频道
+https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+#EXTINF:-1 group-title="央卫国际",浙江｜钱江频道
+http://ali-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
+#EXTINF:-1 group-title="央卫国际",浙江｜经济生活
+http://ali-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
+#EXTINF:-1 group-title="央卫国际",浙江｜教科影视
+http://ali-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
+#EXTINF:-1 group-title="央卫国际",浙江｜民生休闲
+http://ali-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
+#EXTINF:-1 group-title="央卫国际",浙江｜公共新闻
+http://ali-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
+#EXTINF:-1 group-title="央卫国际",山东齐鲁
+http://livealone.iqilu.com/iqilu/qlpdhjOF03kn.m3u8
+#EXTINF:-1 group-title="央卫国际",山东文旅
+http://livealone.iqilu.com/iqilu/yspdhjOF03kn.m3u8
+#EXTINF:-1 group-title="央卫国际",山东综艺
+http://livealone.iqilu.com/iqilu/zypdhjOF03kn.m3u8
+#EXTINF:-1 group-title="央卫国际",山东生活
+http://livealone.iqilu.com/iqilu/shpdhjOF03kn.m3u8
+#EXTINF:-1 group-title="央卫国际",山东新闻
+http://livealone.iqilu.com/iqilu/ggpdhjOF03kn.m3u8
+#EXTINF:-1 group-title="央卫国际",山东农科
+http://livealone.iqilu.com/iqilu/nkpdhjOF03kn.m3u8
+#EXTINF:-1 group-title="央卫国际",山东体育
+http://livealone.iqilu.com/iqilu/typdhjOF03kn.m3u8
+#EXTINF:-1 group-title="央卫国际",山东少儿
+http://livealone.iqilu.com/iqilu/sepdhjOF03kn.m3u8
+#EXTINF:-1 group-title="央卫国际",山东教育
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8
+#EXTINF:-1 group-title="央卫国际",广州综合
+https://tv.cry33.com/gztv.php?id=gzzh
+#EXTINF:-1 group-title="央卫国际",广州综合
+http://nas.jdshipin.com:8801/gztv.php?id=zhonghe
+#EXTINF:-1 group-title="央卫国际",广州综合
+http://player.200877926.top/169l/gd/gztvm3u8.php?id=gzys
+#EXTINF:-1 group-title="央卫国际",广州综合
+http://www.namewee.xyz/gudou.php?id=1432_4500
+#EXTINF:-1 group-title="央卫国际",广州综合
+http://php.jdshipin.com:8880/gztv.php?id=zhonghe
+#EXTINF:-1 group-title="央卫国际",广州新闻
+https://tv.cry33.com/gztv.php?id=gzxw
+#EXTINF:-1 group-title="央卫国际",广州新闻
+http://nas.jdshipin.com:8801/gztv.php?id=xinwen
+#EXTINF:-1 group-title="央卫国际",广州新闻
+http://player.200877926.top/169l/gd/gztvm3u8.php?id=gzxw
+#EXTINF:-1 group-title="央卫国际",广州新闻
+http://www.namewee.xyz/gudou.php?id=1433_4500
+#EXTINF:-1 group-title="央卫国际",广州新闻
+http://php.jdshipin.com:8880/gztv.php?id=xinwen
+#EXTINF:-1 group-title="央卫国际",广州法治
+https://tv.cry33.com/gztv.php?id=gzfz
+#EXTINF:-1 group-title="央卫国际",广州法治
+http://nas.jdshipin.com:8801/gztv.php?id=fazhi
+#EXTINF:-1 group-title="央卫国际",广州法治
+http://player.200877926.top/169l/gd/gztvm3u8.php?id=gzfz
+#EXTINF:-1 group-title="央卫国际",广州法治
+http://php.jdshipin.com:8880/gztv.php?id=fazhi
+#EXTINF:-1 group-title="央卫国际",南国都市
+https://tv.cry33.com/gztv.php?id=gzsh
+#EXTINF:-1 group-title="央卫国际",广州影视
+https://tv.cry33.com/gztv.php?id=gzys
+#EXTINF:-1 group-title="央卫国际",广州影视
+http://nas.jdshipin.com:8801/gztv.php?id=yingshi
+#EXTINF:-1 group-title="央卫国际",广州影视
+http://php.jdshipin.com:8880/gztv.php?id=yingshi
+#EXTINF:-1 group-title="央卫国际",广州影视
+http://r.jdshipin.com/TcKr2
+#EXTINF:-1 group-title="央卫国际",广州竞赛
+https://tv.cry33.com/gztv.php?id=gzjs
+#EXTINF:-1 group-title="央卫国际",广州竞赛
+http://nas.jdshipin.com:8801/gztv.php?id=jingsai
+#EXTINF:-1 group-title="央卫国际",广州竞赛
+http://player.200877926.top/169l/gd/gztvm3u8.php?id=gzjs
+#EXTINF:-1 group-title="央卫国际",广州竞赛
+http://php.jdshipin.com:8880/gztv.php?id=jingsai
+#EXTINF:-1 group-title="央卫国际",汕头小公园
+https://gctxyc.liveplay.myqcloud.com/gc/bsszjs_1_md.m3u8
+#EXTINF:-1 group-title="央卫国际",汕头小公园
+https://gctxyc.liveplay.myqcloud.com:443/gc/bsszjs_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="央卫国际",汕头小公园
+https://gctxyc.liveplay.myqcloud.com:443/gc/bsszjs_1_md.m3u8
+#EXTINF:-1 group-title="央卫国际",河南｜三门峡综合
+http://chj0827.cn:3838/udp/239.16.20.145:11450
+#EXTINF:-1 group-title="央卫国际",河南｜义马综合
+http://chj0827.cn:3838/udp/239.16.20.109:11090
+#EXTINF:-1 group-title="央卫国际",河南｜义马综合
+http://chj0827.cn:3838/udp/239.16.20.236:12360
+#EXTINF:-1 group-title="央卫国际",河南｜渑池综合
+http://chj0827.cn:3838/udp/239.16.20.135:11350
+#EXTINF:-1 group-title="央卫国际",河南｜渑池综合
+http://chj0827.cn:3838/udp/239.16.20.47:10470
+#EXTINF:-1 group-title="央卫国际",河南｜卢氏综合
+http://chj0827.cn:3838/udp/239.16.20.240:12400
+#EXTINF:-1 group-title="央卫国际",河南｜卢氏综合
+http://chj0827.cn:3838/rtp/239.16.20.240:12400
+#EXTINF:-1 group-title="央卫国际",湖北｜武汉新闻
+http://stream.appwuhan.com/1tzb/sd/live.m3u8
+#EXTINF:-1 group-title="央卫国际",湖北｜武汉经济
+http://stream.appwuhan.com/4tzb/sd/live.m3u8
+#EXTINF:-1 group-title="央卫国际",湖北｜荆门新闻综合
+http://stream.jmtv.com.cn/xwzh/sd/live.m3u8?zhubd
+#EXTINF:-1 group-title="央卫国际",黑龙江｜少儿
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
+#EXTINF:-1 group-title="央卫国际",黑龙江｜影视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
+#EXTINF:-1 group-title="央卫国际",黑龙江｜文体
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8
+#EXTINF:-1 group-title="央卫国际",黑龙江｜新闻
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/index.m3u8
+#EXTINF:-1 group-title="央卫国际",黑龙江｜科教
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
+#EXTINF:-1 group-title="央卫国际",黑龙江｜都市
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
+#EXTINF:-1 group-title="央卫国际",吉林｜延边卫视
+http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8?zjild
+#EXTINF:-1 group-title="央卫国际",吉林｜延边卫视
+http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8?zjild
+#EXTINF:-1 group-title="央卫国际",吉林｜延边-1
+http://live.ybtvyun.com/video/s10016-af95004b6d1a/index.m3u8?zjild
+#EXTINF:-1 group-title="央卫国际",吉林｜延边-2
+http://live.ybtvyun.com/video/s10006-04819ee234a7/index.m3u8?zjild
+#EXTINF:-1 group-title="央卫国际",吉林｜延边朝鲜语综合
+http://live.ybtvyun.com/video/s10016-19a16c47eb99/index.m3u8?zjild
+#EXTINF:-1 group-title="央卫国际",吉林｜延边朝鲜语综合
+http://live.ybtvyun.com/video/s10006-b571c289a478/index.m3u8?zjild
+#EXTINF:-1 group-title="央卫国际",吉林｜通化县综合
+http://stream5.jlntv.cn/thx/sd/live.m3u8?zjild
+#EXTINF:-1 group-title="央卫国际",吉林｜通化县综合
+http://stream5.jlntv.cn/thx/sd/live.m3u8
+#EXTINF:-1 group-title="央卫国际",吉林｜龙井综合
+http://stream8.jlntv.cn/ljtv/sd/live.m3u8
+#EXTINF:-1 group-title="央卫国际",吉林｜龙井综合
+http://stream8.jlntv.cn/ljtv/sd/live.m3u8?zjild
+#EXTINF:-1 group-title="央卫国际",吉林｜德惠综合
+http://stream11.jlntv.cn/dehuitv/sd/live.m3u8?zjild
+#EXTINF:-1 group-title="央卫国际",吉林｜珲春新闻综合
+http://stream8.jlntv.cn/hctv/sd/live.m3u8?zjild
+#EXTINF:-1 group-title="央卫国际",吉林｜靖宇综合
+http://stream8.jlntv.cn/jytv/sd/live.m3u8?zjild
+#EXTINF:-1 group-title="央卫国际",吉林｜汪清综合
+http://stream5.jlntv.cn/wq/sd/live.m3u8?zjild
+#EXTINF:-1 group-title="央卫国际",江苏｜如东新闻
+http://rudong-tv-hls.cm.jstv.com/rudong-tv/rdxwzh.m3u8
+#EXTINF:-1 group-title="央卫国际",江苏｜常熟民生
+http://cstvplay.21cs.cn/cstv2/cstv2.m3u8
+#EXTINF:-1 group-title="央卫国际",江苏｜常熟综合
+http://cstvplay.21cs.cn/cstv1/cstv1.m3u8
+#EXTINF:-1 group-title="央卫国际",江苏｜苏州生活
+http://tylive.kan0512.com/norecord/norecord_csztv3.m3u8
+#EXTINF:-1 group-title="央卫国际",江苏｜苏州新闻
+http://tylive.kan0512.com/norecord/norecord_csztv1.m3u8
+#EXTINF:-1 group-title="央卫国际",江苏｜苏州生活
+http://tylive.kan0512.com/norecord/norecord_csztv5.m3u8
+#EXTINF:-1 group-title="央卫国际",江苏｜苏州经济
+http://tylive.kan0512.com/norecord/norecord_csztv2.m3u8
+#EXTINF:-1 group-title="央卫国际",山西｜经济
+http://liveflash.sxrtv.com/live/sxfinance.m3u8?sub_m3u8=true&edge_slice=true
+#EXTINF:-1 group-title="央卫国际",山西｜法治
+http://liveflash.sxrtv.com/live/sxedu.m3u8?sub_m3u8=true&edge_slice=true
+#EXTINF:-1 group-title="央卫国际",山西｜文体
+http://liveflash.sxrtv.com/live/sxpublic.m3u8?sub_m3u8=true&edge_slice=true
+#EXTINF:-1 group-title="央卫国际",山西｜影视
+http://liveflash.sxrtv.com/live/sxfilm.m3u8?sub_m3u8=true&edge_slice=true
+#EXTINF:-1 group-title="央卫国际",山西｜黄河
+http://liveflash.sxrtv.com/live/huanghe.m3u8?sub_m3u8=true&edge_slice=true
+#EXTINF:-1 group-title="央卫国际",山西｜吉县新闻
+http://jxlive.jxrmtzx.com:8091/live/xwzh.m3u8?zshanxd
+#EXTINF:-1 group-title="央卫国际",山西｜吉县新闻
+http://jxlive.jxrmtzx.com:8091/live/xwzh.m3u8
+#EXTINF:-1 group-title="央卫国际",山西｜定襄综合
+http://lbyzztfe.live.sxmty.com/live/hls/645ff4c60e0a49f0a203abbd73dd8be9/0720e665f10f48e98c9639f4f492fb4a-1.m3u8?zshanxd
+#EXTINF:-1 group-title="央卫国际",山西｜晋中公共
+http://jzlive.jztvnews.com:90/live/jzgg.m3u8
+#EXTINF:-1 group-title="央卫国际",山西｜晋中新闻
+http://jzlive.jztvnews.com:83/live/mount_for_ts/jzzh.m3u8?zshanxd
+#EXTINF:-1 group-title="央卫国际",山西｜晋中新闻
+http://jzlive.jztvnews.com:90/live/jzzh.m3u8
+#EXTINF:-1 group-title="央卫国际",山西｜灵石新闻
+https://live-stream.lsxrmtzx.com/live/video.m3u8?zshanxd
+#EXTINF:-1 group-title="央卫国际",山西｜襄垣电视
+http://video.xyxrmt.com/lsdream/2MAgsgb/1000/live.m3u8?zshanxd
+#EXTINF:-1 group-title="央卫国际",山西｜运城公共
+http://live.0359tv.com/lsdream/t667aTY/1000/live.m3u8?zshanxd
+#EXTINF:-1 group-title="央卫国际",山西｜运城公共
+http://live.0359tv.com/lsdream/t667aTY/1000/live.m3u8
+#EXTINF:-1 group-title="央卫国际",山西｜运城新闻
+http://live.0359tv.com/lsdream/ss4Lj11/1000/live.m3u8?zshanxd
+#EXTINF:-1 group-title="央卫国际",山西｜运城新闻
+http://live.0359tv.com/lsdream/ss4Lj11/1000/live.m3u8
+#EXTINF:-1 group-title="央卫国际",山西｜运城科教
+http://live.0359tv.com/lsdream/p5eq48m/1000/live.m3u8
+#EXTINF:-1 group-title="央卫国际",山西｜运城科教
+http://live.0359tv.com/lsdream/p5eq48m/1000/live.m3u8?zshanxd
+#EXTINF:-1 group-title="央卫国际",山西｜长子综合
+http://zzlive.zzc-media.com:8092/live/xwzh.m3u8
+#EXTINF:-1 group-title="央卫国际",山西｜长子综合
+http://zzlive.zzc-media.com:8092/live/xwzh.m3u8?zshanxd
+#EXTINF:-1 group-title="央卫国际",山西｜潞城新闻
+http://59.48.42.6:62204/lucheng.m3u8?zshanxd
+顶部底部向上向下S
 
 #------ 央卫V6 ------
 
