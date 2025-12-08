@@ -79,7 +79,9 @@ class IPTVChecker:
                     
                     if response.status_code == 200:
                         f_out.write(f"\n#------ {category} ------\n\n")
-                        text = response.text
+                        # [修改] 强制使用 utf-8 解码，解决乱码问题
+                        text = response.content.decode('utf-8', errors='ignore')
+                        
                         for line in text.splitlines():
                             line = line.strip()
                             if not line or line.startswith("#EXTM3U"):
@@ -130,7 +132,7 @@ class IPTVChecker:
         
         playlist = []
         curr_g, curr_n = "Unknown", "Unknown"
-        count = 0  # [新增] 计数器，用于记录原始顺序
+        count = 0  # 计数器，用于记录原始顺序
         for line in lines:
             line = line.strip()
             if line.startswith("#EXTINF"):
@@ -141,12 +143,11 @@ class IPTVChecker:
                 if n:
                     curr_n = n.group(1).strip()
             elif line and not line.startswith("#"):
-                # [修改] 增加 _index 字段
+                # 增加 _index 字段
                 playlist.append({"name": curr_n, "url": line, "group": curr_g, "_index": count})
                 count += 1
         return playlist
 
-    # [修改] 增加 mode 参数控制运行步骤
     def run_task(self, mode="all"):
         load_config()
         
@@ -196,7 +197,7 @@ class IPTVChecker:
 
         with open(VALID_FILE, 'w', encoding='utf-8') as f:
             f.write("#EXTM3U\n")
-            # [修改] 按原始 index 排序，恢复源文件顺序
+            # 按原始 index 排序，恢复源文件顺序
             valid_items.sort(key=lambda x: x["_index"]) 
             
             for item in valid_items:
@@ -207,7 +208,7 @@ class IPTVChecker:
 checker = IPTVChecker()
 
 if __name__ == '__main__':
-    # [新增] 简单的命令行参数解析
+    # 简单的命令行参数解析
     mode = "all"
     if len(sys.argv) > 1:
         arg = sys.argv[1].lower()
