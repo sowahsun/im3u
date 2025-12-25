@@ -87,6 +87,8 @@ http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8$%E9%9B%B7%E8%92%99%E5
 http://183.215.134.239:19901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0$%E9%9B%B7%E8%92%99%E5%BD%B1%E8%A7%86%E2%80%A2IPV4%E3%80%8E%E7%BA%BF%E8%B7%AF9%E3%80%8F
 #EXTINF:-1 group-title="央卫国际",内蒙古卫视
 https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8$%E9%9B%B7%E8%92%99%E5%BD%B1%E8%A7%86%E2%80%A2IPV4%E3%80%8E%E7%BA%BF%E8%B7%AF8%E3%80%8F
+#EXTINF:-1 group-title="央卫国际",西藏卫视
+http://221.2.148.205:8154/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0$%E9%9B%B7%E8%92%99%E5%BD%B1%E8%A7%86%E2%80%A2IPV4%E3%80%8E%E7%BA%BF%E8%B7%AF5%E3%80%8F
 #EXTINF:-1 group-title="央卫国际",康巴卫视
 http://111.202.12.159:8080/kYGHWzA/1000/live.m3u8$%E9%9B%B7%E8%92%99%E5%BD%B1%E8%A7%86%E2%80%A2IPV4%E3%80%8E%E7%BA%BF%E8%B7%AF1%E3%80%8F
 #EXTINF:-1 group-title="央卫国际",康巴卫视
