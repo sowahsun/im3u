@@ -21,6 +21,8 @@ https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 #EXTINF:-1 group-title="冰茶直播",内蒙古农牧
 http://play1-qk.nmtv.cn:80/live/1686561299036179.m3u8
+#EXTINF:-1 group-title="冰茶直播",内蒙古新闻综合
+http://play1-qk.nmtv.cn/live/1686560423879174.m3u8
 #EXTINF:-1 group-title="冰茶直播",内蒙古少儿
 http://play1-qk.nmtv.cn/live/1686560464515368.m3u8
 #EXTINF:-1 group-title="冰茶直播",内蒙古文体娱乐
@@ -81,8 +83,6 @@ http://61.136.172.236:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=
 http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8$%E9%9B%B7%E8%92%99%E5%BD%B1%E8%A7%86%E2%80%A2IPV4%E3%80%8E%E7%BA%BF%E8%B7%AF3%E3%80%8F
 #EXTINF:-1 group-title="央卫国际",内蒙古卫视
 https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8$%E9%9B%B7%E8%92%99%E5%BD%B1%E8%A7%86%E2%80%A2IPV4%E3%80%8E%E7%BA%BF%E8%B7%AF8%E3%80%8F
-#EXTINF:-1 group-title="央卫国际",西藏卫视
-http://221.2.148.205:8154/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0$%E9%9B%B7%E8%92%99%E5%BD%B1%E8%A7%86%E2%80%A2IPV4%E3%80%8E%E7%BA%BF%E8%B7%AF6%E3%80%8F
 #EXTINF:-1 group-title="央卫国际",延边卫视
 http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8$%E9%9B%B7%E8%92%99%E5%BD%B1%E8%A7%86%E2%80%A2IPV4%E3%80%8E%E7%BA%BF%E8%B7%AF2%E3%80%8F
 #EXTINF:-1 group-title="央卫国际",延边卫视
