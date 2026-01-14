@@ -43,6 +43,8 @@ https://gcore.jsdelivr.net/gh/sln654360/itv/ts/dong.m3u8
 https://gcore.jsdelivr.net/gh/sln654360/itv/ts/yu.m3u8
 #EXTINF:-1 group-title="央卫国际",雷蒙影视直播
 https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CTVThemeSong1.mp4
+#EXTINF:-1 group-title="央卫国际",CrimeTV LIVE
+https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CTVThemeSong2.mp4
 #EXTINF:-1 group-title="央卫国际",更新日期
 https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CRIMETVPV1.mkv
 #EXTINF:-1 group-title="央卫国际",2026-01-14
