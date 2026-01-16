@@ -47,7 +47,7 @@ https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N
 https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CTVThemeSong2.mp4
 #EXTINF:-1 group-title="央卫国际",更新日期
 https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CRIMETVPV1.mkv
-#EXTINF:-1 group-title="央卫国际",2026-01-15
+#EXTINF:-1 group-title="央卫国际",2026-01-16
 https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CRIMETVPV2.mkv
 #EXTINF:-1 group-title="央卫国际",CCTV1
 https://www.catvod.com/1080p.m3u8
@@ -96,41 +96,45 @@ https://www.catvod.com/1080p.m3u8
 #EXTINF:-1 group-title="央卫国际",湖南卫视
 https://www.catvod.com/1080p.m3u8
 #EXTINF:-1 group-title="央卫国际",湖南卫视
-http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8$%E9%9B%B7%E8%92%99%E5%BD%B1%E8%A7%86%E2%80%A2IPV4%E3%80%8E%E7%BA%BF%E8%B7%AF6%E3%80%8F
-#EXTINF:-1 group-title="央卫国际",湖南卫视
-http://61.136.172.236:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0$%E9%9B%B7%E8%92%99%E5%BD%B1%E8%A7%86%E2%80%A2IPV4%E3%80%8E%E7%BA%BF%E8%B7%AF8%E3%80%8F
+http://61.136.172.236:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0$%E9%9B%B7%E8%92%99%E5%BD%B1%E8%A7%86%E2%80%A2IPV4%E3%80%8E%E7%BA%BF%E8%B7%AF7%E3%80%8F
 #EXTINF:-1 group-title="央卫国际",浙江卫视
 https://www.catvod.com/1080p.m3u8
 #EXTINF:-1 group-title="央卫国际",浙江卫视
-https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$%E9%9B%B7%E8%92%99%E5%BD%B1%E8%A7%86%E2%80%A2IPV4%E3%80%8E%E7%BA%BF%E8%B7%AF5%E3%80%8F
+https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$%E9%9B%B7%E8%92%99%E5%BD%B1%E8%A7%86%E2%80%A2IPV4%E3%80%8E%E7%BA%BF%E8%B7%AF7%E3%80%8F
 #EXTINF:-1 group-title="央卫国际",浙江卫视
-http://l.cztvcloud.com/channels/lantian/SXpinghu3/720p.m3u8$%E9%9B%B7%E8%92%99%E5%BD%B1%E8%A7%86%E2%80%A2IPV4%E3%80%8E%E7%BA%BF%E8%B7%AF6%E3%80%8F
+http://l.cztvcloud.com/channels/lantian/SXpinghu3/720p.m3u8$%E9%9B%B7%E8%92%99%E5%BD%B1%E8%A7%86%E2%80%A2IPV4%E3%80%8E%E7%BA%BF%E8%B7%AF8%E3%80%8F
 #EXTINF:-1 group-title="央卫国际",浙江卫视
-http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8$%E9%9B%B7%E8%92%99%E5%BD%B1%E8%A7%86%E2%80%A2IPV4%E3%80%8E%E7%BA%BF%E8%B7%AF7%E3%80%8F
+http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8$%E9%9B%B7%E8%92%99%E5%BD%B1%E8%A7%86%E2%80%A2IPV4%E3%80%8E%E7%BA%BF%E8%B7%AF9%E3%80%8F
 #EXTINF:-1 group-title="央卫国际",浙江卫视
-http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8$%E9%9B%B7%E8%92%99%E5%BD%B1%E8%A7%86%E2%80%A2IPV4%E3%80%8E%E7%BA%BF%E8%B7%AF8%E3%80%8F
+http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8$%E9%9B%B7%E8%92%99%E5%BD%B1%E8%A7%86%E2%80%A2IPV4%E3%80%8E%E7%BA%BF%E8%B7%AF10%E3%80%8F
 #EXTINF:-1 group-title="央卫国际",浙江卫视
-https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?$%E9%9B%B7%E8%92%99%E5%BD%B1%E8%A7%86%E2%80%A2IPV4%E3%80%8E%E7%BA%BF%E8%B7%AF9%E3%80%8F
+https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?$%E9%9B%B7%E8%92%99%E5%BD%B1%E8%A7%86%E2%80%A2IPV4%E3%80%8E%E7%BA%BF%E8%B7%AF11%E3%80%8F
 #EXTINF:-1 group-title="央卫国际",浙江卫视
-http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$%E9%9B%B7%E8%92%99%E5%BD%B1%E8%A7%86%E2%80%A2IPV4%E3%80%8E%E7%BA%BF%E8%B7%AF10%E3%80%8F
+http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$%E9%9B%B7%E8%92%99%E5%BD%B1%E8%A7%86%E2%80%A2IPV4%E3%80%8E%E7%BA%BF%E8%B7%AF12%E3%80%8F
 #EXTINF:-1 group-title="央卫国际",浙江卫视
-http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8$%E9%9B%B7%E8%92%99%E5%BD%B1%E8%A7%86%E2%80%A2IPV4%E3%80%8E%E7%BA%BF%E8%B7%AF11%E3%80%8F
+http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8$%E9%9B%B7%E8%92%99%E5%BD%B1%E8%A7%86%E2%80%A2IPV4%E3%80%8E%E7%BA%BF%E8%B7%AF13%E3%80%8F
 #EXTINF:-1 group-title="央卫国际",东方卫视
 https://www.catvod.com/1080p.m3u8
 #EXTINF:-1 group-title="央卫国际",北京卫视
 https://www.catvod.com/1080p.m3u8
 #EXTINF:-1 group-title="央卫国际",江苏卫视
 https://www.catvod.com/1080p.m3u8
+#EXTINF:-1 group-title="央卫国际",江苏卫视
+https://hlsbkmgsplive.miguvideo.com/migu/kailu/jswshd265/55/20200407/01.m3u8?&HlsSubType=&encrypt=$%E9%9B%B7%E8%92%99%E5%BD%B1%E8%A7%86%E2%80%A2IPV4%E3%80%8E%E7%BA%BF%E8%B7%AF3%E3%80%8F
 #EXTINF:-1 group-title="央卫国际",安徽卫视
 https://www.catvod.com/1080p.m3u8
 #EXTINF:-1 group-title="央卫国际",安徽卫视
 http://61.136.172.236:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0$%E9%9B%B7%E8%92%99%E5%BD%B1%E8%A7%86%E2%80%A2IPV4%E3%80%8E%E7%BA%BF%E8%B7%AF7%E3%80%8F
 #EXTINF:-1 group-title="央卫国际",重庆卫视
 https://www.catvod.com/1080p.m3u8
+#EXTINF:-1 group-title="央卫国际",重庆卫视
+https://hlsbkmgsplive.miguvideo.com/envivo_x/2018/SD/chongqing/1000/01.m3u8?&HlsSubType=&encrypt=$%E9%9B%B7%E8%92%99%E5%BD%B1%E8%A7%86%E2%80%A2IPV4%E3%80%8E%E7%BA%BF%E8%B7%AF2%E3%80%8F
 #EXTINF:-1 group-title="央卫国际",四川卫视
 https://www.catvod.com/1080p.m3u8
 #EXTINF:-1 group-title="央卫国际",东南卫视
 https://www.catvod.com/1080p.m3u8
+#EXTINF:-1 group-title="央卫国际",东南卫视
+https://hlsbkmgsplive.miguvideo.com/migu/kailu/dongnanws/51/20230724/01.m3u8?&HlsSubType=&encrypt=$%E9%9B%B7%E8%92%99%E5%BD%B1%E8%A7%86%E2%80%A2IPV4%E3%80%8E%E7%BA%BF%E8%B7%AF3%E3%80%8F
 #EXTINF:-1 group-title="央卫国际",深圳卫视
 https://www.catvod.com/1080p.m3u8
 #EXTINF:-1 group-title="央卫国际",广东卫视
@@ -138,7 +142,7 @@ https://www.catvod.com/1080p.m3u8
 #EXTINF:-1 group-title="央卫国际",广西卫视
 https://www.catvod.com/1080p.m3u8
 #EXTINF:-1 group-title="央卫国际",广西卫视
-http://61.136.172.236:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0$%E9%9B%B7%E8%92%99%E5%BD%B1%E8%A7%86%E2%80%A2IPV4%E3%80%8E%E7%BA%BF%E8%B7%AF5%E3%80%8F
+http://61.136.172.236:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0$%E9%9B%B7%E8%92%99%E5%BD%B1%E8%A7%86%E2%80%A2IPV4%E3%80%8E%E7%BA%BF%E8%B7%AF6%E3%80%8F
 #EXTINF:-1 group-title="央卫国际",甘肃卫视
 https://www.catvod.com/1080p.m3u8
 #EXTINF:-1 group-title="央卫国际",贵州卫视
@@ -157,18 +161,24 @@ https://www.catvod.com/1080p.m3u8
 https://www.catvod.com/1080p.m3u8
 #EXTINF:-1 group-title="央卫国际",吉林卫视
 https://www.catvod.com/1080p.m3u8
+#EXTINF:-1 group-title="央卫国际",吉林卫视
+https://hlsbkmgsplive.miguvideo.com/envivo_v/2018/SD/jilin/1000/01.m3u8?&HlsSubType=&encrypt=$%E9%9B%B7%E8%92%99%E5%BD%B1%E8%A7%86%E2%80%A2IPV4%E3%80%8E%E7%BA%BF%E8%B7%AF3%E3%80%8F
 #EXTINF:-1 group-title="央卫国际",内蒙古卫视
 https://www.catvod.com/1080p.m3u8
 #EXTINF:-1 group-title="央卫国际",内蒙古卫视
 https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8$%E9%9B%B7%E8%92%99%E5%BD%B1%E8%A7%86%E2%80%A2IPV4%E3%80%8E%E7%BA%BF%E8%B7%AF7%E3%80%8F
 #EXTINF:-1 group-title="央卫国际",辽宁卫视
 https://www.catvod.com/1080p.m3u8
+#EXTINF:-1 group-title="央卫国际",辽宁卫视
+https://hlsbkmgsplive.miguvideo.com/migu/kailu/lnwshd265/54/20200407/01.m3u8?&HlsSubType=&encrypt=$%E9%9B%B7%E8%92%99%E5%BD%B1%E8%A7%86%E2%80%A2IPV4%E3%80%8E%E7%BA%BF%E8%B7%AF3%E3%80%8F
 #EXTINF:-1 group-title="央卫国际",宁夏卫视
 https://www.catvod.com/1080p.m3u8
 #EXTINF:-1 group-title="央卫国际",青海卫视
 https://www.catvod.com/1080p.m3u8
 #EXTINF:-1 group-title="央卫国际",山东卫视
 https://www.catvod.com/1080p.m3u8
+#EXTINF:-1 group-title="央卫国际",山东卫视
+https://hlsbkmgsplive.miguvideo.com/wd_r4/yg/shandongwshd/3000/01.m3u8?&HlsSubType=&encrypt=$%E9%9B%B7%E8%92%99%E5%BD%B1%E8%A7%86%E2%80%A2IPV4%E3%80%8E%E7%BA%BF%E8%B7%AF2%E3%80%8F
 #EXTINF:-1 group-title="央卫国际",天津卫视
 https://www.catvod.com/1080p.m3u8
 #EXTINF:-1 group-title="央卫国际",海南卫视
@@ -179,10 +189,10 @@ https://www.catvod.com/1080p.m3u8
 https://www.catvod.com/1080p.m3u8
 #EXTINF:-1 group-title="央卫国际",西藏卫视
 https://www.catvod.com/1080p.m3u8
-#EXTINF:-1 group-title="央卫国际",西藏卫视
-http://221.2.148.205:8154/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0$%E9%9B%B7%E8%92%99%E5%BD%B1%E8%A7%86%E2%80%A2IPV4%E3%80%8E%E7%BA%BF%E8%B7%AF6%E3%80%8F
 #EXTINF:-1 group-title="央卫国际",兵团卫视
 https://www.catvod.com/1080p.m3u8
+#EXTINF:-1 group-title="央卫国际",兵团卫视
+https://hlsbkmgsplive.miguvideo.com/migu/kailu/btws/51/20250804/01.m3u8?&HlsSubType=&encrypt=$%E9%9B%B7%E8%92%99%E5%BD%B1%E8%A7%86%E2%80%A2IPV4%E3%80%8E%E7%BA%BF%E8%B7%AF3%E3%80%8F
 #EXTINF:-1 group-title="央卫国际",延边卫视
 http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8$%E9%9B%B7%E8%92%99%E5%BD%B1%E8%A7%86%E2%80%A2IPV4%E3%80%8E%E7%BA%BF%E8%B7%AF2%E3%80%8F
 #EXTINF:-1 group-title="央卫国际",延边卫视
