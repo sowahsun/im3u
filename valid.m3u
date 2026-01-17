@@ -27,8 +27,6 @@ http://play1-qk.nmtv.cn/live/1686560423879174.m3u8
 http://play1-qk.nmtv.cn/live/1686560464515368.m3u8
 #EXTINF:-1 group-title="冰茶直播",内蒙古文体娱乐
 http://play1-qk.nmtv.cn/live/1686561195713372.m3u8
-#EXTINF:-1 group-title="冰茶直播",内蒙古经济生活
-http://play1-qk.nmtv.cn/live/1686562470947181.m3u8
 #EXTINF:-1 group-title="冰茶直播",内蒙古蒙语卫视
 http://play1-qk.nmtv.cn/live/1686560387346365.m3u8
 #EXTINF:-1 group-title="冰茶直播",内蒙古蒙语文化
@@ -47,7 +45,7 @@ https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N
 https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CTVThemeSong2.mp4
 #EXTINF:-1 group-title="央卫国际",更新日期
 https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CRIMETVPV1.mkv
-#EXTINF:-1 group-title="央卫国际",2026-01-16
+#EXTINF:-1 group-title="央卫国际",2026-01-17
 https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CRIMETVPV2.mkv
 #EXTINF:-1 group-title="央卫国际",CCTV1
 https://www.catvod.com/1080p.m3u8
@@ -125,14 +123,10 @@ https://www.catvod.com/1080p.m3u8
 http://61.136.172.236:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0$%E9%9B%B7%E8%92%99%E5%BD%B1%E8%A7%86%E2%80%A2IPV4%E3%80%8E%E7%BA%BF%E8%B7%AF7%E3%80%8F
 #EXTINF:-1 group-title="央卫国际",重庆卫视
 https://www.catvod.com/1080p.m3u8
-#EXTINF:-1 group-title="央卫国际",重庆卫视
-https://hlsbkmgsplive.miguvideo.com/envivo_x/2018/SD/chongqing/1000/01.m3u8?&HlsSubType=&encrypt=$%E9%9B%B7%E8%92%99%E5%BD%B1%E8%A7%86%E2%80%A2IPV4%E3%80%8E%E7%BA%BF%E8%B7%AF2%E3%80%8F
 #EXTINF:-1 group-title="央卫国际",四川卫视
 https://www.catvod.com/1080p.m3u8
 #EXTINF:-1 group-title="央卫国际",东南卫视
 https://www.catvod.com/1080p.m3u8
-#EXTINF:-1 group-title="央卫国际",东南卫视
-https://hlsbkmgsplive.miguvideo.com/migu/kailu/dongnanws/51/20230724/01.m3u8?&HlsSubType=&encrypt=$%E9%9B%B7%E8%92%99%E5%BD%B1%E8%A7%86%E2%80%A2IPV4%E3%80%8E%E7%BA%BF%E8%B7%AF3%E3%80%8F
 #EXTINF:-1 group-title="央卫国际",深圳卫视
 https://www.catvod.com/1080p.m3u8
 #EXTINF:-1 group-title="央卫国际",广东卫视
@@ -159,8 +153,6 @@ https://www.catvod.com/1080p.m3u8
 https://www.catvod.com/1080p.m3u8
 #EXTINF:-1 group-title="央卫国际",吉林卫视
 https://www.catvod.com/1080p.m3u8
-#EXTINF:-1 group-title="央卫国际",吉林卫视
-https://hlsbkmgsplive.miguvideo.com/envivo_v/2018/SD/jilin/1000/01.m3u8?&HlsSubType=&encrypt=$%E9%9B%B7%E8%92%99%E5%BD%B1%E8%A7%86%E2%80%A2IPV4%E3%80%8E%E7%BA%BF%E8%B7%AF3%E3%80%8F
 #EXTINF:-1 group-title="央卫国际",内蒙古卫视
 https://www.catvod.com/1080p.m3u8
 #EXTINF:-1 group-title="央卫国际",内蒙古卫视
@@ -173,8 +165,6 @@ https://www.catvod.com/1080p.m3u8
 https://www.catvod.com/1080p.m3u8
 #EXTINF:-1 group-title="央卫国际",山东卫视
 https://www.catvod.com/1080p.m3u8
-#EXTINF:-1 group-title="央卫国际",山东卫视
-https://hlsbkmgsplive.miguvideo.com/wd_r4/yg/shandongwshd/3000/01.m3u8?&HlsSubType=&encrypt=$%E9%9B%B7%E8%92%99%E5%BD%B1%E8%A7%86%E2%80%A2IPV4%E3%80%8E%E7%BA%BF%E8%B7%AF2%E3%80%8F
 #EXTINF:-1 group-title="央卫国际",天津卫视
 https://www.catvod.com/1080p.m3u8
 #EXTINF:-1 group-title="央卫国际",海南卫视
@@ -187,8 +177,6 @@ https://www.catvod.com/1080p.m3u8
 https://www.catvod.com/1080p.m3u8
 #EXTINF:-1 group-title="央卫国际",兵团卫视
 https://www.catvod.com/1080p.m3u8
-#EXTINF:-1 group-title="央卫国际",兵团卫视
-https://hlsbkmgsplive.miguvideo.com/migu/kailu/btws/51/20250804/01.m3u8?&HlsSubType=&encrypt=$%E9%9B%B7%E8%92%99%E5%BD%B1%E8%A7%86%E2%80%A2IPV4%E3%80%8E%E7%BA%BF%E8%B7%AF3%E3%80%8F
 #EXTINF:-1 group-title="央卫国际",延边卫视
 http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8$%E9%9B%B7%E8%92%99%E5%BD%B1%E8%A7%86%E2%80%A2IPV4%E3%80%8E%E7%BA%BF%E8%B7%AF2%E3%80%8F
 #EXTINF:-1 group-title="央卫国际",延边卫视
