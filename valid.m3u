@@ -27,6 +27,8 @@ http://play1-qk.nmtv.cn/live/1686560423879174.m3u8
 http://play1-qk.nmtv.cn/live/1686560464515368.m3u8
 #EXTINF:-1 group-title="冰茶直播",内蒙古文体娱乐
 http://play1-qk.nmtv.cn/live/1686561195713372.m3u8
+#EXTINF:-1 group-title="冰茶直播",内蒙古经济生活
+http://play1-qk.nmtv.cn/live/1686562470947181.m3u8
 #EXTINF:-1 group-title="冰茶直播",内蒙古蒙语卫视
 http://play1-qk.nmtv.cn/live/1686560387346365.m3u8
 #EXTINF:-1 group-title="冰茶直播",内蒙古蒙语文化
@@ -45,7 +47,7 @@ https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N
 https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CTVThemeSong2.mp4
 #EXTINF:-1 group-title="央卫国际",更新日期
 https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CRIMETVPV1.mkv
-#EXTINF:-1 group-title="央卫国际",2026-01-17
+#EXTINF:-1 group-title="央卫国际",2026-01-18
 https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CRIMETVPV2.mkv
 #EXTINF:-1 group-title="央卫国际",CCTV1
 https://www.catvod.com/1080p.m3u8
