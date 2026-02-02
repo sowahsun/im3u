@@ -3,8 +3,6 @@
 https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 #EXTINF:-1 group-title="冰茶直播",河北4K
 https://event.pull.hebtv.com:443/live/live101.m3u8
-#EXTINF:-1 group-title="冰茶直播",浙江新闻
-https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 #EXTINF:-1 group-title="冰茶直播",浙江国际
 https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 #EXTINF:-1 group-title="冰茶直播",浙江少儿
@@ -33,7 +31,7 @@ https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N
 https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CTVThemeSong2.mp4
 #EXTINF:-1 group-title="央卫国际",更新日期
 https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CRIMETVPV1.mkv
-#EXTINF:-1 group-title="央卫国际",2026-02-01
+#EXTINF:-1 group-title="央卫国际",2026-02-02
 https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CRIMETVPV2.mkv
 #EXTINF:-1 group-title="央卫国际",CCTV1
 https://cdn.jsdelivr.net/gh/namegenliang/fast-github-access@main/hosts/1080p.m3u8
