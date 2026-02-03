@@ -29,6 +29,12 @@ https://gcore.jsdelivr.net/gh/sln654360/itv/ts/dong.m3u8
 https://gcore.jsdelivr.net/gh/sln654360/itv/ts/yu.m3u8
 #EXTINF:-1 group-title="央卫国际",雷蒙影视直播
 https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CTVThemeSong1.mp4
+#EXTINF:-1 group-title="央卫国际",CrimeTV LIVE
+https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CTVThemeSong2.mp4
+#EXTINF:-1 group-title="央卫国际",更新日期
+https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CRIMETVPV1.mkv
+#EXTINF:-1 group-title="央卫国际",2026-02-03
+https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CRIMETVPV2.mkv
 #EXTINF:-1 group-title="央卫国际",CCTV1
 https://cdn.jsdelivr.net/gh/namegenliang/fast-github-access@main/hosts/1080p.m3u8
 #EXTINF:-1 group-title="央卫国际",CCTV2
@@ -161,6 +167,8 @@ http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8$%E9%9B%B7%E8%92%99
 https://cdn.jsdelivr.net/gh/namegenliang/fast-github-access@main/hosts/1080p.m3u8
 #EXTINF:-1 group-title="央卫国际",CHC家庭影院
 https://cdn.jsdelivr.net/gh/namegenliang/fast-github-access@main/hosts/1080p.m3u8
+#EXTINF:-1 group-title="央卫国际",靖天映画
+http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv055$%E9%9B%B7%E8%92%99%E5%BD%B1%E8%A7%86%E2%80%A2IPV4
 #EXTINF:-1 group-title="央卫国际",靖天戏剧
 http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv058$%E9%9B%B7%E8%92%99%E5%BD%B1%E8%A7%86%E2%80%A2IPV4
 #EXTINF:-1 group-title="央卫V6",浙江公共新闻
