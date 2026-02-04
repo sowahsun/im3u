@@ -39,46 +39,12 @@ https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N
 https://cdn.jsdelivr.net/gh/namegenliang/fast-github-access@main/hosts/1080p.m3u8
 #EXTINF:-1 group-title="央卫国际",CCTV2
 https://cdn.jsdelivr.net/gh/namegenliang/fast-github-access@main/hosts/1080p.m3u8
-#EXTINF:-1 group-title="央卫国际",CCTV3
-https://cdn.jsdelivr.net/gh/namegenliang/fast-github-access@main/hosts/1080p.m3u8
-#EXTINF:-1 group-title="央卫国际",CCTV4
-https://cdn.jsdelivr.net/gh/namegenliang/fast-github-access@main/hosts/1080p.m3u8
-#EXTINF:-1 group-title="央卫国际",CCTV5
-https://cdn.jsdelivr.net/gh/namegenliang/fast-github-access@main/hosts/1080p.m3u8
-#EXTINF:-1 group-title="央卫国际",CCTV5+
-https://cdn.jsdelivr.net/gh/namegenliang/fast-github-access@main/hosts/1080p.m3u8
-#EXTINF:-1 group-title="央卫国际",CCTV6
-https://cdn.jsdelivr.net/gh/namegenliang/fast-github-access@main/hosts/1080p.m3u8
-#EXTINF:-1 group-title="央卫国际",CCTV7
-https://cdn.jsdelivr.net/gh/namegenliang/fast-github-access@main/hosts/1080p.m3u8
-#EXTINF:-1 group-title="央卫国际",CCTV8
-https://cdn.jsdelivr.net/gh/namegenliang/fast-github-access@main/hosts/1080p.m3u8
-#EXTINF:-1 group-title="央卫国际",CCTV9
-https://cdn.jsdelivr.net/gh/namegenliang/fast-github-access@main/hosts/1080p.m3u8
-#EXTINF:-1 group-title="央卫国际",CCTV10
-https://cdn.jsdelivr.net/gh/namegenliang/fast-github-access@main/hosts/1080p.m3u8
-#EXTINF:-1 group-title="央卫国际",CCTV11
-https://cdn.jsdelivr.net/gh/namegenliang/fast-github-access@main/hosts/1080p.m3u8
 #EXTINF:-1 group-title="央卫国际",CCTV12
 https://cdn.jsdelivr.net/gh/namegenliang/fast-github-access@main/hosts/1080p.m3u8
 #EXTINF:-1 group-title="央卫国际",CCTV13
-https://cdn.jsdelivr.net/gh/namegenliang/fast-github-access@main/hosts/1080p.m3u8
-#EXTINF:-1 group-title="央卫国际",CCTV13
 http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8$%E9%9B%B7%E8%92%99%E5%BD%B1%E8%A7%86%E2%80%A2IPV4%E3%80%8E%E7%BA%BF%E8%B7%AF6%E3%80%8F
-#EXTINF:-1 group-title="央卫国际",CCTV14
-https://cdn.jsdelivr.net/gh/namegenliang/fast-github-access@main/hosts/1080p.m3u8
-#EXTINF:-1 group-title="央卫国际",CCTV15
-https://cdn.jsdelivr.net/gh/namegenliang/fast-github-access@main/hosts/1080p.m3u8
-#EXTINF:-1 group-title="央卫国际",CCTV16
-https://cdn.jsdelivr.net/gh/namegenliang/fast-github-access@main/hosts/1080p.m3u8
-#EXTINF:-1 group-title="央卫国际",CCTV17
-https://cdn.jsdelivr.net/gh/namegenliang/fast-github-access@main/hosts/1080p.m3u8
-#EXTINF:-1 group-title="央卫国际",湖南卫视
-https://cdn.jsdelivr.net/gh/namegenliang/fast-github-access@main/hosts/1080p.m3u8
 #EXTINF:-1 group-title="央卫国际",湖南卫视
 http://61.136.172.236:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0$%E9%9B%B7%E8%92%99%E5%BD%B1%E8%A7%86%E2%80%A2IPV4%E3%80%8E%E7%BA%BF%E8%B7%AF7%E3%80%8F
-#EXTINF:-1 group-title="央卫国际",浙江卫视
-https://cdn.jsdelivr.net/gh/namegenliang/fast-github-access@main/hosts/1080p.m3u8
 #EXTINF:-1 group-title="央卫国际",浙江卫视
 https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$%E9%9B%B7%E8%92%99%E5%BD%B1%E8%A7%86%E2%80%A2IPV4%E3%80%8E%E7%BA%BF%E8%B7%AF7%E3%80%8F
 #EXTINF:-1 group-title="央卫国际",浙江卫视
@@ -93,79 +59,23 @@ https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?$%E9%9B%B7%E8%92
 http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$%E9%9B%B7%E8%92%99%E5%BD%B1%E8%A7%86%E2%80%A2IPV4%E3%80%8E%E7%BA%BF%E8%B7%AF12%E3%80%8F
 #EXTINF:-1 group-title="央卫国际",浙江卫视
 http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8$%E9%9B%B7%E8%92%99%E5%BD%B1%E8%A7%86%E2%80%A2IPV4%E3%80%8E%E7%BA%BF%E8%B7%AF13%E3%80%8F
-#EXTINF:-1 group-title="央卫国际",东方卫视
-https://cdn.jsdelivr.net/gh/namegenliang/fast-github-access@main/hosts/1080p.m3u8
-#EXTINF:-1 group-title="央卫国际",北京卫视
-https://cdn.jsdelivr.net/gh/namegenliang/fast-github-access@main/hosts/1080p.m3u8
-#EXTINF:-1 group-title="央卫国际",江苏卫视
-https://cdn.jsdelivr.net/gh/namegenliang/fast-github-access@main/hosts/1080p.m3u8
-#EXTINF:-1 group-title="央卫国际",安徽卫视
-https://cdn.jsdelivr.net/gh/namegenliang/fast-github-access@main/hosts/1080p.m3u8
 #EXTINF:-1 group-title="央卫国际",安徽卫视
 http://61.136.172.236:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0$%E9%9B%B7%E8%92%99%E5%BD%B1%E8%A7%86%E2%80%A2IPV4%E3%80%8E%E7%BA%BF%E8%B7%AF7%E3%80%8F
-#EXTINF:-1 group-title="央卫国际",重庆卫视
-https://cdn.jsdelivr.net/gh/namegenliang/fast-github-access@main/hosts/1080p.m3u8
-#EXTINF:-1 group-title="央卫国际",四川卫视
-https://cdn.jsdelivr.net/gh/namegenliang/fast-github-access@main/hosts/1080p.m3u8
-#EXTINF:-1 group-title="央卫国际",东南卫视
-https://cdn.jsdelivr.net/gh/namegenliang/fast-github-access@main/hosts/1080p.m3u8
 #EXTINF:-1 group-title="央卫国际",深圳卫视
-https://cdn.jsdelivr.net/gh/namegenliang/fast-github-access@main/hosts/1080p.m3u8
-#EXTINF:-1 group-title="央卫国际",广东卫视
-https://cdn.jsdelivr.net/gh/namegenliang/fast-github-access@main/hosts/1080p.m3u8
-#EXTINF:-1 group-title="央卫国际",广西卫视
 https://cdn.jsdelivr.net/gh/namegenliang/fast-github-access@main/hosts/1080p.m3u8
 #EXTINF:-1 group-title="央卫国际",广西卫视
 http://61.136.172.236:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0$%E9%9B%B7%E8%92%99%E5%BD%B1%E8%A7%86%E2%80%A2IPV4%E3%80%8E%E7%BA%BF%E8%B7%AF5%E3%80%8F
-#EXTINF:-1 group-title="央卫国际",甘肃卫视
-https://cdn.jsdelivr.net/gh/namegenliang/fast-github-access@main/hosts/1080p.m3u8
-#EXTINF:-1 group-title="央卫国际",贵州卫视
-https://cdn.jsdelivr.net/gh/namegenliang/fast-github-access@main/hosts/1080p.m3u8
-#EXTINF:-1 group-title="央卫国际",河北卫视
-https://cdn.jsdelivr.net/gh/namegenliang/fast-github-access@main/hosts/1080p.m3u8
-#EXTINF:-1 group-title="央卫国际",河南卫视
-https://cdn.jsdelivr.net/gh/namegenliang/fast-github-access@main/hosts/1080p.m3u8
-#EXTINF:-1 group-title="央卫国际",黑龙江卫视
-https://cdn.jsdelivr.net/gh/namegenliang/fast-github-access@main/hosts/1080p.m3u8
-#EXTINF:-1 group-title="央卫国际",黑龙江卫视
-http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8$%E9%9B%B7%E8%92%99%E5%BD%B1%E8%A7%86%E2%80%A2IPV4%E3%80%8E%E7%BA%BF%E8%B7%AF3%E3%80%8F
 #EXTINF:-1 group-title="央卫国际",湖北卫视
-https://cdn.jsdelivr.net/gh/namegenliang/fast-github-access@main/hosts/1080p.m3u8
-#EXTINF:-1 group-title="央卫国际",江西卫视
-https://cdn.jsdelivr.net/gh/namegenliang/fast-github-access@main/hosts/1080p.m3u8
-#EXTINF:-1 group-title="央卫国际",吉林卫视
-https://cdn.jsdelivr.net/gh/namegenliang/fast-github-access@main/hosts/1080p.m3u8
-#EXTINF:-1 group-title="央卫国际",内蒙古卫视
 https://cdn.jsdelivr.net/gh/namegenliang/fast-github-access@main/hosts/1080p.m3u8
 #EXTINF:-1 group-title="央卫国际",内蒙古卫视
 https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8$%E9%9B%B7%E8%92%99%E5%BD%B1%E8%A7%86%E2%80%A2IPV4%E3%80%8E%E7%BA%BF%E8%B7%AF7%E3%80%8F
-#EXTINF:-1 group-title="央卫国际",辽宁卫视
-https://cdn.jsdelivr.net/gh/namegenliang/fast-github-access@main/hosts/1080p.m3u8
 #EXTINF:-1 group-title="央卫国际",宁夏卫视
-https://cdn.jsdelivr.net/gh/namegenliang/fast-github-access@main/hosts/1080p.m3u8
-#EXTINF:-1 group-title="央卫国际",青海卫视
-https://cdn.jsdelivr.net/gh/namegenliang/fast-github-access@main/hosts/1080p.m3u8
-#EXTINF:-1 group-title="央卫国际",山东卫视
-https://cdn.jsdelivr.net/gh/namegenliang/fast-github-access@main/hosts/1080p.m3u8
-#EXTINF:-1 group-title="央卫国际",天津卫视
 https://cdn.jsdelivr.net/gh/namegenliang/fast-github-access@main/hosts/1080p.m3u8
 #EXTINF:-1 group-title="央卫国际",海南卫视
 https://cdn.jsdelivr.net/gh/namegenliang/fast-github-access@main/hosts/1080p.m3u8
-#EXTINF:-1 group-title="央卫国际",新疆卫视
-https://cdn.jsdelivr.net/gh/namegenliang/fast-github-access@main/hosts/1080p.m3u8
-#EXTINF:-1 group-title="央卫国际",云南卫视
-https://cdn.jsdelivr.net/gh/namegenliang/fast-github-access@main/hosts/1080p.m3u8
-#EXTINF:-1 group-title="央卫国际",西藏卫视
-https://cdn.jsdelivr.net/gh/namegenliang/fast-github-access@main/hosts/1080p.m3u8
-#EXTINF:-1 group-title="央卫国际",兵团卫视
-https://cdn.jsdelivr.net/gh/namegenliang/fast-github-access@main/hosts/1080p.m3u8
-#EXTINF:-1 group-title="央卫国际",延边卫视
-http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8$%E9%9B%B7%E8%92%99%E5%BD%B1%E8%A7%86%E2%80%A2IPV4%E3%80%8E%E7%BA%BF%E8%B7%AF2%E3%80%8F
 #EXTINF:-1 group-title="央卫国际",延边卫视
 http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8$%E9%9B%B7%E8%92%99%E5%BD%B1%E8%A7%86%E2%80%A2IPV4%E3%80%8E%E7%BA%BF%E8%B7%AF3%E3%80%8F
 #EXTINF:-1 group-title="央卫国际",CHC动作电影
-https://cdn.jsdelivr.net/gh/namegenliang/fast-github-access@main/hosts/1080p.m3u8
-#EXTINF:-1 group-title="央卫国际",CHC家庭影院
 https://cdn.jsdelivr.net/gh/namegenliang/fast-github-access@main/hosts/1080p.m3u8
 #EXTINF:-1 group-title="央卫国际",靖天映画
 http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv055$%E9%9B%B7%E8%92%99%E5%BD%B1%E8%A7%86%E2%80%A2IPV4
