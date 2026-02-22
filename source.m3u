@@ -1,5 +1,212 @@
 #EXTM3U
 
+#------ 央卫国际 ------
+
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>DD.ma-短短嘛-赚钱短址-赚钱短链</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="description" content="短址|短地址|短网址|短链|赚钱短址|赚钱短链|转址网赚|短地址网赚">
+<meta name="keywords" content="短址|短地址|短网址|短链|赚钱短址|赚钱短链|转址网赚|短地址网赚 ">
+<link rel="stylesheet" type="text/css" href="common/reset.css">
+<link rel="stylesheet" type="text/css" href="common/main.css">
+<link rel="stylesheet" type="text/css" href="common/mainfont.css">
+<link rel="stylesheet" type="text/css" href="common/print.css" media="print">
+<script type="text/javascript" src="common/jquery.js"></script>
+<script type="text/javascript" src="common/menu.js" Charset="UTF-8"></script>
+<script type="text/javascript" src="common/jquery_003.js"></script>
+<script type="text/javascript" src="common/jquery_002.js"></script>
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function(){
+$("#myController").jFlow({
+autoFlow: "true"
+});
+});
+//]]>
+</script>
+<!--[if lte IE 6]>
+<script type="text/javascript" src="/Templates/Icebrrg/s/supersleight-min.js"></script>
+<link rel="stylesheet" type="text/css" href="/Templates/Icebrrg/c/ie.css" />
+<![endif]-->
+</head>
+<body class="home">
+<form method="post" action="http://dd.ma/login.php" id="aspnetForm" enctype="multipart/form-data">
+<div id="logInForm" class="clearfix">
+<div class="contents">
+<div class="L">
+<h3>登录</h3>
+<p><strong>请输入您的用户名/邮箱及密码登录</strong></p>
+<p>没有账号？<br><a href="http://dd.ma/join.php">马上注册 »</a></p>
+</div>
+<div class="R">
+<p>
+<label for="txtUsername">用户名/邮箱</label>
+<input id="txtUsername" onkeypress="return event.keyCode!=13" name="txtUsername" class="username" type="text">
+</p>
+<p>
+<label for="txtPassword">密码</label>
+<input id="txtPassword" onkeypress="return event.keyCode!=13" name="txtPassword" class="password" type="password">
+<a href="http://dd.ma/login.php?forget=yes" class="small">忘记密码?</a>
+</p>
+<p>
+<a href="#" onclick="return tryLogin();" class="fbButton" id="btnUserLogin">登录</a>
+</p>
+<span id="lblError" class="error" style="display: none;"></span>
+</div>
+<script type="text/javascript">
+//Add the default button that will work with firefox
+document.getElementById("logInForm").onkeydown = function(e) {
+if(!e)
+e = event;
+if(e.keyCode == 13) {
+tryLogin();
+}
+}
+var ajaxToken = '';
+var lblError = $("#lblError");
+function tryLogin() {
+lblError.hide();;
+if($("#txtUsername").val().length<4){
+lblError.html('请输入用户名/邮箱');
+lblError.show();
+return false;
+}
+if($("#txtPassword").val().length<4){
+lblError.html('请输入密码');
+lblError.show();
+return false;
+}
+$.post(
+function(data) {
+if(data.IsSuccess) {
+location.href = data.Data;
+} else {
+lblError.html(data.Message);
+}
+"json"
+);
+return false;
+}
+</script>
+</div>
+</div></form><div id="promo">
+<div class="contents">
+<p><span>已经有一个账户?</span> <a href="#logInForm" id="logIn">登录</a><strong><span> 来管理你的账户</span></strong></p>
+</div>
+</div>
+<div id="frame">
+<div id="wrapper">
+<div class="contents">
+<div id="header">
+<a href="http://dd.ma" title="返回首页">
+<img src="common/Logo.png" height="66px"/>
+</a>
+<p class="hide"><a href="#mainCol">跳过导航</a>.</p>
+<div id="ctl00_tb_pnlAnonymous">
+<ul class="nav">
+<li><a href="http://dd.ma/ddma.html" class="sign"><font face="微软雅黑">关于我们</font></a></li>
+<li><a href="http://dd.ma/howto.html" class="sign"><font face="微软雅黑">怎么赚钱</font></a></li>
+<li><a href="http://dd.ma/join.php" class="sign"><font face="微软雅黑">注册</font></a></li>
+</ul>
+</div>
+</div>
+<hr class="hide">
+<div id="ribbon">2.0版本</div>
+<div id="feature">
+<div style="position: relative; width: 856px; height: 255px; overflow: hidden;"
+id="jFlowSlide">
+<div style="position: relative; width: 3424px; height: 255px; overflow: hidden; margin-left: -1712px;" id="mySlides">
+<div style="position: relative; width: 856px; height: 255px; float: left;" class="jFlowSlideContainer">
+<div id="slide1" class="slide">
+<img src="common/form.png" alt="" class="right">
+<h3><font face="微软雅黑">创建简单到难以置信的超短网址</font></h3>
+<p>
+短短嘛-DD.ma可以方便地创建简单到难以置信的超短网址							  <br>
+<a href="http://dd.ma/join.php">马上注册 »
+</a>
+</p>
+</div>
+</div>
+<div style="position: relative; width: 856px; height: 255px; float: left;" class="jFlowSlideContainer">
+<div id="slide2" class="slide">
+<img src="common/form_types.png" alt="" class="right">
+<h3><font face="微软雅黑">分享宣传</font></h3>
+<p>您可以在发布网址之前先创建该网址的短址，之后再将它们发送到网站、微博、论坛、空间等。同时宣传您的短址以让更多的人来访问。
+<br><a href="http://dd.ma/join.php">马上注册 »</a>
+</p>
+</div>
+</div>
+<div style="position: relative; width: 856px; height: 255px; float: left;" class="jFlowSlideContainer">
+<div id="slide3" class="slide">
+<img src="common/form_share.png" alt="" class="right">
+<h3><font face="微软雅黑">获取收益</font></h3>
+<p>您的短址被他人访问后，您即可获得最高150元/万次的可观收益。
+<br><a href="http://dd.ma/join.php">马上注册 »</a></p>
+</div>
+</div>
+</div>
+</div>
+<ol id="myController" class="nav">
+<li class="one"><a href="#" class="jFlowControl"><font face="微软雅黑">&nbsp;&nbsp;创&nbsp;建&nbsp;短&nbsp;址</font></a></li>
+<li class="two"><a href="#" class="jFlowControl jFlowSelected"><font face="微软雅黑">&nbsp; &nbsp;分&nbsp;享&nbsp;宣&nbsp;传</font></a></li>
+<li class="three"><a href="#" class="jFlowControl"><font face="微软雅黑">&nbsp;&nbsp;获&nbsp;取&nbsp;收&nbsp;益</font></a></li>
+</ol>
+</div>
+<div id="container">
+<div id="mainCol">
+<h3>
+<img src="common/features.png" class="left" alt="">
+<font face="微软雅黑">创建简单的网址</font>
+</h3>
+<p>
+短短嘛-DD.ma使任何人都能创造非常简单并且便于记录的超短网址。
+</div>
+<div id="subCol">
+<h3>
+<img src="common/icon_publish.png" class="left" alt="">
+<font face="微软雅黑">分享短址给他人</font>
+</h3>
+<p>您可以在发布网址之前先创建该网址的短址，之后再将它们发布到网站、微博、论坛、空间等。
+</p>
+</div>
+<hr class="hide">
+</div>
+<div id="extraCol">
+<h3>
+<img src="common/icon_unique.jpg" class="left" alt="">
+<font face="微软雅黑">获取收益</font>
+</h3>
+<p style="margin-bottom: 0;">
+您的短址被他人访问后，您即可获得最高150元/万次的可观收益。
+</p>
+</div>
+<hr class="hide">
+</div>
+</div>
+</div>
+﻿<div id="footer">
+<div class="contents">
+<ul class="nav">
+<li><a href="http://dd.ma/index.html">首页</a></li>
+<li><a href="http://dd.ma/ddma.html">关于我们</a></li>
+<li><a href="http://dd.ma/faq.html">常见问题</a></li>
+<li><a href="http://dd.ma/contact.html">联系我们</a></li>
+<li><a href="http://dd.ma/privacy.html">隐私政策</a></li>
+<li><a href="http://dd.ma/tos.html">服务条件</a></li>
+<script type='text/javascript' charset='gb2312' src='http://js.adm.cnzz.net/s.php?sid=224904'></script>
+</ul>
+<p>
+<br>©2011-2012 短短嘛 DD.MA . 版权所有. 沪ICP备11015452号</p>
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fc8d9e252135e551be91dd5f44d9cecc4' type='text/javascript'%3E%3C/script%3E"));
+</script>
+</div>
+</div></body>
+</html>
+
 #------ 央卫V6 ------
 
 <!DOCTYPE html>
